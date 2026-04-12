@@ -33,14 +33,10 @@ jobs:
       - name: Fetch latest jobs
         run: node scripts/fetch-jobs.mjs
 
-      - name: Rebase, commit and push updated data
+      - name: Commit updated data
         run: |
           git config user.name "fcs-careers-bot"
           git config user.email "actions@github.com"
-          git fetch origin main
-          git checkout main
-          git pull --rebase origin main
           git add data/jobs.json
-          git diff --cached --quiet && echo "No changes to commit" && exit 0
-          git commit -m "Auto-update jobs data"
-          git push origin main
+          git commit -m "Auto-update jobs data" || echo "No changes"
+          git push origin HEAD:main --force
