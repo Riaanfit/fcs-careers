@@ -1,15 +1,45 @@
 {
   "greenhouse": [
-    "remote",
-    "files",
-    "drata",
-    "xapobank",
-    "tubescience"
+    { "slug": "figma", "company": "Figma", "tier": "curated" },
+    { "slug": "notion", "company": "Notion", "tier": "curated" },
+    { "slug": "stripe", "company": "Stripe", "tier": "curated" },
+    { "slug": "webflow", "company": "Webflow", "tier": "curated" },
+    { "slug": "vercel", "company": "Vercel", "tier": "curated" },
+    { "slug": "linear", "company": "Linear", "tier": "curated" },
+    { "slug": "supabase", "company": "Supabase", "tier": "curated" },
+    { "slug": "canva", "company": "Canva", "tier": "curated" },
+    { "slug": "github", "company": "GitHub", "tier": "curated" },
+    { "slug": "openai", "company": "OpenAI", "tier": "curated" },
+    { "slug": "anthropic", "company": "Anthropic", "tier": "curated" },
+    { "slug": "framer", "company": "Framer", "tier": "curated" },
+    { "slug": "remote", "company": "Remote", "tier": "curated" },
+    { "slug": "tubescience", "company": "TubeScience", "tier": "curated" },
+    { "slug": "drata", "company": "Drata", "tier": "expanded" },
+    { "slug": "files", "company": "Files.com", "tier": "expanded" },
+    { "slug": "xapobank", "company": "Xapo Bank", "tier": "expanded" },
+    { "slug": "gusto", "company": "Gusto", "tier": "expanded" },
+    { "slug": "clerk", "company": "Clerk", "tier": "expanded" },
+    { "slug": "loom", "company": "Loom", "tier": "expanded" },
+    { "slug": "mux", "company": "Mux", "tier": "expanded" },
+    { "slug": "planet", "company": "Planet", "tier": "expanded" },
+    { "slug": "ramp", "company": "Ramp", "tier": "expanded" }
   ],
   "lever": [
-    "anchorage",
-    "binance",
-    "zoox",
-    "missionwired"
-  ]
+    { "slug": "coinbase", "company": "Coinbase", "tier": "curated" },
+    { "slug": "discord", "company": "Discord", "tier": "curated" },
+    { "slug": "airtable", "company": "Airtable", "tier": "curated" },
+    { "slug": "replit", "company": "Replit", "tier": "curated" },
+    { "slug": "brex", "company": "Brex", "tier": "expanded" },
+    { "slug": "rippling", "company": "Rippling", "tier": "expanded" },
+    { "slug": "mercury", "company": "Mercury", "tier": "expanded" },
+    { "slug": "tines", "company": "Tines", "tier": "expanded" },
+    { "slug": "anchorage", "company": "Anchorage", "tier": "expanded" },
+    { "slug": "binance", "company": "Binance", "tier": "expanded" },
+    { "slug": "zoom", "company": "Zoom", "tier": "expanded" },
+    { "slug": "missionwired", "company": "MissionWired", "tier": "expanded" }
+  ],
+  "remotive": {
+    "enabled": true,
+    "tier": "expanded"
+  }
 }
