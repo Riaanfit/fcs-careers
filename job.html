@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Role — FCS Careers</title>
+  <meta name="description" content="Current remote design, brand and creative technology roles presented by Fitzgerald Creative Studios." />
+  <meta name="theme-color" content="#0b0d12" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <div class="grain"></div>
+  <header class="site-header">
+    <div class="wrap nav">
+      <a class="brand" href="./">
+        <span class="brand-mark"></span>
+        <span>FCS Careers</span>
+      </a>
+      <nav class="top-nav">
+        <a href="./#roles">Open roles</a>
+        <a href="./#approach">Sourcing standard</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero detail-hero">
+      <div class="wrap detail-wrap">
+        <div class="detail-main">
+          <a class="detail-back" href="./#roles">← Back to roles</a>
+          <p class="eyebrow" id="detailSource">Loading source</p>
+          <h1 class="detail-title" id="detailTitle">Loading role…</h1>
+          <p class="hero-copy" id="detailCompany">Please wait while the role details load.</p>
+
+          <div class="detail-meta" id="detailMeta"></div>
+          <div class="job-tags detail-tags" id="detailTags"></div>
+
+          <div class="hero-actions">
+            <a class="btn btn-primary" id="listingLink" href="#" target="_blank" rel="noopener noreferrer">Open source listing</a>
+            <a class="btn btn-secondary" id="applyLink" href="#" target="_blank" rel="noopener noreferrer">Apply now</a>
+          </div>
+        </div>
+
+        <aside class="hero-panel detail-panel">
+          <div class="stat">
+            <span id="detailCategory">—</span>
+            <small>discipline</small>
+          </div>
+          <div class="stat">
+            <span id="detailPosted">—</span>
+            <small>posted</small>
+          </div>
+          <div class="stat">
+            <span id="detailWorkModel">—</span>
+            <small>work model</small>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="filters-section detail-section">
+      <div class="wrap detail-content-grid">
+        <article class="source-card detail-card">
+          <h2>Role summary</h2>
+          <p id="detailSummary">Loading role summary.</p>
+        </article>
+
+        <article class="source-card detail-card">
+          <h2>Core responsibilities</h2>
+          <ul class="detail-list" id="detailResponsibilities"></ul>
+        </article>
+
+        <article class="source-card detail-card detail-note-card">
+          <h2>Source note</h2>
+          <p id="detailSourceNote">Loading source note.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    function sourceHeader(job) {
+      const sourceTier = job.source_type_label || (["Greenhouse", "Lever"].includes(job.source_label) ? "Direct company board" : "Selected market feed");
+      return `${sourceTier} · ${job.source_label}`;
+    }
+
+    async function initRole() {
+      const params = new URLSearchParams(window.location.search);
+      const roleId = params.get('id');
+      const response = await fetch('./data/jobs.json', { cache: 'no-store' });
+      const payload = await response.json();
+      const job = (payload.jobs || []).find(item => String(item.id) === String(roleId));
+
+      const titleEl = document.getElementById('detailTitle');
+      const companyEl = document.getElementById('detailCompany');
+      const summaryEl = document.getElementById('detailSummary');
+      const responsibilitiesEl = document.getElementById('detailResponsibilities');
+      const listingLink = document.getElementById('listingLink');
+      const applyLink = document.getElementById('applyLink');
+
+      if (!job) {
+        document.title = 'Role not found — FCS Careers';
+        titleEl.textContent = 'Role not found';
+        companyEl.textContent = 'That listing is no longer available in the current snapshot.';
+        summaryEl.textContent = 'The role may have expired or the link may be outdated.';
+        listingLink.style.display = 'none';
+        applyLink.style.display = 'none';
+        return;
+      }
+
+      document.title = `${job.title} — ${job.company} | FCS Careers`;
+      document.getElementById('detailSource').textContent = sourceHeader(job);
+      titleEl.textContent = job.title;
+      companyEl.textContent = job.company;
+      document.getElementById('detailCategory').textContent = job.category;
+      document.getElementById('detailPosted').textContent = job.posted_label || 'Not stated';
+      document.getElementById('detailWorkModel').textContent = job.work_model || 'Remote';
+      summaryEl.textContent = job.summary || 'No summary was stored for this role.';
+      document.getElementById('detailSourceNote').textContent = job.source_note || 'This role links back to the original public source page.';
+
+      const metaItems = [job.location, job.employment_type, job.salary].filter(Boolean);
+      const meta = document.getElementById('detailMeta');
+      meta.innerHTML = '';
+      metaItems.forEach(item => {
+        const chip = document.createElement('span');
+        chip.textContent = item;
+        meta.appendChild(chip);
+      });
+
+      const tags = document.getElementById('detailTags');
+      tags.innerHTML = '';
+      (job.tags || []).forEach(tag => {
+        const chip = document.createElement('span');
+        chip.textContent = tag;
+        tags.appendChild(chip);
+      });
+
+      responsibilitiesEl.innerHTML = '';
+      (job.responsibilities || []).forEach(item => {
+        const li = document.createElement('li');
+        li.textContent = item;
+        responsibilitiesEl.appendChild(li);
+      });
+
+      if (job.listing_url) {
+        listingLink.href = job.listing_url;
+      } else {
+        listingLink.style.display = 'none';
+      }
+
+      if (job.apply_url) {
+        applyLink.href = job.apply_url;
+      } else if (job.listing_url) {
+        applyLink.href = job.listing_url;
+        applyLink.textContent = 'Open source listing';
+      } else {
+        applyLink.style.display = 'none';
+      }
+    }
+
+    initRole().catch(err => {
+      console.error(err);
+      document.getElementById('detailTitle').textContent = 'Could not load role';
+      document.getElementById('detailCompany').textContent = 'There was a problem loading the role details.';
+      document.getElementById('detailSummary').textContent = 'Please try again in a moment.';
+      document.getElementById('listingLink').style.display = 'none';
+      document.getElementById('applyLink').style.display = 'none';
+    });
+  </script>
+</body>
+</html>

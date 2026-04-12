@@ -1,0 +1,8 @@
+{
+  "name": "fcs-careers",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update:jobs": "node scripts/fetch-jobs.mjs"
+  }
+}

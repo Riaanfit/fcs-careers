@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FCS Careers — Remote Design, Brand & Creative Technology Roles</title>
+  <meta name="description" content="A focused board for current remote roles across product design, brand, motion and creative technology, presented by Fitzgerald Creative Studios." />
+  <meta name="theme-color" content="#0b0d12" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <div class="grain"></div>
+  <header class="site-header">
+    <div class="wrap nav">
+      <a class="brand" href="./">
+        <span class="brand-mark"></span>
+        <span>FCS Careers</span>
+      </a>
+      <nav class="top-nav">
+        <a href="#roles">Open roles</a>
+        <a href="#approach">Sourcing standard</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="wrap hero-grid">
+        <div class="hero-copy-wrap">
+          <p class="eyebrow">Fitzgerald Creative Studios</p>
+          <h1>Remote roles across design, brand and creative technology.</h1>
+          <p class="hero-copy">A focused board for current opportunities that sit closer to quality teams, stronger briefs and cleaner role definition. Listings open to a dedicated detail page first, with a direct route back to the original source.</p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#roles">View current roles</a>
+            <a class="btn btn-secondary" href="#approach">View sourcing standard</a>
+          </div>
+        </div>
+        <aside class="hero-panel">
+          <div class="stat">
+            <span id="stat-count">0</span>
+            <small>live roles</small>
+          </div>
+          <div class="stat">
+            <span id="stat-updated">—</span>
+            <small>last refresh</small>
+          </div>
+          <div class="stat">
+            <span id="stat-coverage">—</span>
+            <small>coverage</small>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="filters-section" id="roles">
+      <div class="wrap">
+        <div class="toolbar">
+          <label class="search">
+            <input id="searchInput" type="search" placeholder="Search title, company, skill or keyword" />
+          </label>
+          <select id="categoryFilter">
+            <option value="">All disciplines</option>
+          </select>
+          <select id="sourceFilter">
+            <option value="">All channels</option>
+          </select>
+          <label class="toggle">
+            <input id="remoteOnly" type="checkbox" checked />
+            <span>Remote roles only</span>
+          </label>
+        </div>
+
+        <div class="category-pills" id="categories"></div>
+
+        <div class="results-head">
+          <p id="resultsMeta">Loading roles…</p>
+        </div>
+
+        <div class="jobs-grid" id="jobsGrid"></div>
+      </div>
+    </section>
+
+    <section class="approach-section" id="approach">
+      <div class="wrap approach-panel">
+        <div>
+          <p class="eyebrow">Sourcing standard</p>
+          <h2>Direct company boards first. Selected market feeds where they add reach.</h2>
+        </div>
+        <div class="approach-copy">
+          <p>The board is designed to prioritise direct ATS sources such as Greenhouse and Lever wherever they are available. That keeps role detail closer to the hiring company, improves description depth and reduces unnecessary duplication.</p>
+          <p>Selected market feeds remain useful for wider coverage, but they should support the board rather than define it. The stronger version of this product is source-diverse, current and selective.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <template id="jobCardTemplate">
+    <article class="job-card">
+      <div class="job-top">
+        <div>
+          <p class="job-source"></p>
+          <h3 class="job-title"></h3>
+          <p class="job-company"></p>
+        </div>
+        <span class="job-category"></span>
+      </div>
+      <div class="job-meta"></div>
+      <p class="job-summary"></p>
+      <div class="job-tags"></div>
+      <div class="job-actions">
+        <a class="btn btn-primary job-detail-link">View role</a>
+        <a class="btn btn-secondary job-source-link" target="_blank" rel="noopener noreferrer">Open source</a>
+      </div>
+    </article>
+  </template>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
