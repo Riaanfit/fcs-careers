@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-17T02:11:10.637Z",
+  "generated_at": "2026-04-17T07:27:30.160Z",
   "coverage_label": "Direct company boards",
-  "total_jobs": 84,
+  "total_jobs": 83,
   "curated_jobs": 67,
-  "expanded_jobs": 17,
+  "expanded_jobs": 16,
   "jobs": [
     {
       "id": "greenhouse-figma-5759501004",
@@ -2432,7 +2432,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-03-21T03:19:27.030Z",
-      "posted_label": "Posted 26 days ago",
+      "posted_label": "Posted 27 days ago",
       "listing_url": "https://jobs.lever.co/binance/bcbb35a4-c3cf-43d5-b845-45db54651d69",
       "apply_url": "https://jobs.lever.co/binance/bcbb35a4-c3cf-43d5-b845-45db54651d69/apply",
       "summary": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users.…",
@@ -2836,34 +2836,6 @@
         "Data Engineering",
         "Engineering",
         "Full-Time - Remote"
-      ]
-    },
-    {
-      "id": "lever-binance-9a4dcb6c-fcf4-47fa-9825-a544d71fd362",
-      "tier": "expanded",
-      "source": "lever",
-      "source_label": "Lever",
-      "source_type_label": "Direct company board",
-      "title": "Product Designer Lead - UI/UX",
-      "company": "Binance",
-      "category": "Product Design",
-      "location": "Asia",
-      "work_model": "Remote",
-      "employment_type": "Full-time: Remote",
-      "salary": "Salary not stated",
-      "remote": true,
-      "published_at": "2023-11-23T06:36:59.004Z",
-      "posted_label": "Posted 29 months ago",
-      "listing_url": "https://jobs.lever.co/binance/9a4dcb6c-fcf4-47fa-9825-a544d71fd362",
-      "apply_url": "https://jobs.lever.co/binance/9a4dcb6c-fcf4-47fa-9825-a544d71fd362/apply",
-      "summary": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users.…",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.",
-      "responsibilities": [],
-      "source_note": "This role is pulled from the company’s public Lever board and links back to the original listing.",
-      "tags": [
-        "Design",
-        "Product & Design",
-        "Full-time: Remote"
       ]
     }
   ]
