@@ -1,10 +1,44 @@
 {
-  "generated_at": "2026-04-28T02:35:00.849Z",
+  "generated_at": "2026-04-28T08:19:58.604Z",
   "coverage_label": "Direct company boards + selected market feeds",
-  "total_jobs": 89,
-  "curated_jobs": 69,
+  "total_jobs": 90,
+  "curated_jobs": 70,
   "expanded_jobs": 20,
   "jobs": [
+    {
+      "id": "greenhouse-stripe-7721132",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Brand Designer, Privy",
+      "company": "Stripe",
+      "category": "Motion Design",
+      "location": "NYC-Privy",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-04-27T23:06:29-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=7721132",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7721132",
+      "summary": "Who we are About Privy Our mission is to make privacy and user ownership the default online. We build simple, flexible developer tooling that make it easy to build products that put users first.…",
+      "description": "Who we are \n About Privy \n Our mission is to make privacy and user ownership the default online. We build simple, flexible developer tooling that make it easy to build products that put users first. By leveraging modern cryptography, we shift the status quo around digital ownership and protect the accounts and assets of millions of users.\n\n Learn more about Privy: Privy and Stripe: Bringing crypto to everyone \n\n About the team \n Design at Privy isn’t decoration—it’s strategy. We’re a world-class design team supported by extraordinarily design-minded engineers. We care deeply about craft, storytelling, and the details that make an experience feel human. We’re rethinking how decentralized tools can look and feel—and we believe great design has the power to make complex ideas intuitive, accessible, and beautiful.\n\n Our design team owns:\n\n \n\n• Visual identity and brand expression \n\n• Product design and UI/UX \n\n• User research \n\n• Motion, content, and storytelling \n\n• Design systems and scalable tooling \n \n We work collaboratively, hold weekly workshops, and open our process to the rest of the company. This is a rare opportunity to take full ownership of a brand—and shape a rapidly growing company’s identity from the inside out. If you want to build a brand with soul, not just make assets—this is your opportunity.\n\n What you’ll do \n \n\n• Design and produce marketing and brand assets across channels—social graphics, launch visuals, presentation decks, ebooks/one-pagers, printed collateral, event signage, and more. \n\n• Partner closely with our marketing team to concept and execute campaigns and content (social series, product launches, event assets). You’ll report into the Head of Design, ensuring strong creative direction and alignment with our broader design vision. \n\n• Partner with Go-to-Market to create high-impact demos, prototypes, and storytelling assets that clearly communicate Privy’s value—from first impression through conversion. Translate complex wallet infrastructure into simple, compelling narratives that resonate with developers and enterprise teams. \n\n• Collaborate with product designers to infuse brand into product UI (empty states, onboarding moments, micro-animations, data visualization patterns). \n\n• Lead creative for updating and building new pages on our website—from visual concepts to final asset production. \n\n• Evolve and maintain our visual identity—updating style guides, refining components, and expanding our brand system as we grow. \n\n• Maintain consistency across touchpoints while pushing the brand into new, distinctive territory. \n\n• Build lightweight templates and systems to help the team scale content creation and reduce ad-hoc design work. \n \n As our first Brand Designer, you’ll take on high-impact projects that define how Privy shows up across digital, physical, and product surfaces, including:\n\n \n\n• Expand our visual system: Create additional visual assets and sub-languages (illustration, iconography, motion styles, social templates, content graphics). \n\n• Build visual logic + guidelines: Establish the rules of our brand—contextual tone based on surface, scalable components, and a clear system that enables anyone internally to use the brand correctly and confidently. \n\n• GTM demo system + flagship demo build: Design and produce a polished, end-to-end demo experience that showcases Privy’s capabilities in action—used across sales, events, and content. \n\n• Data visualization system: Develop an elegant, flexible system for dashboards, graphs, and analytics that can scale across product and marketing. \n \n Who you are \n We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. \n\n Minimum requirements \n \n\n• 5+ years of experience in brand, marketing, or visual design roles. \n\n• A portfolio full of storytelling —campaigns, visuals, motion, site work—showing depth in visual systems and brand expression. \n\n• Exceptional visual and typographic skills; you care deeply about craft. \n\n• Ability to work autonomously from concept → execution → refinement. \n\n• Experience creating assets for marketing: landing pages, social graphics, email visuals, decks, event collateral. \n\n• Comfortable collaborating with product designers and marketers. \n\n• Ability to experiment and explore—strong visual point of view, high taste level, and a willingness to push beyond conventional solutions. \n\n• Figma-first , with additional experience using Framer. \n \n Preferred qualifications \n \n\n• Experience with motion (After Effects, Rive, Lottie). \n\n• Background in fintech, developer tooling, or crypto. \n\n• Experience with design systems or brand architecture. \n\n• Ability to think strategically about brand voice and messaging—not just visual polish. \n\n• Comfortable shipping lots of work quickly. \n\n• A strong preference for sentence case over Title Case.",
+      "responsibilities": [
+        "Learn more about Privy: Privy and Stripe: Bringing crypto to everyone",
+        "Our design team owns:",
+        "Visual identity and brand expression",
+        "Product design and UI/UX",
+        "Motion, content, and storytelling",
+        "Design systems and scalable tooling"
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "9001 Privy - R&D",
+        "US"
+      ]
+    },
     {
       "id": "greenhouse-stripe-7743311",
       "tier": "curated",
