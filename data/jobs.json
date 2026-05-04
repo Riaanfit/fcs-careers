@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-04T02:31:39.864Z",
+  "generated_at": "2026-05-04T08:24:42.036Z",
   "coverage_label": "Direct company boards + selected market feeds",
-  "total_jobs": 89,
-  "curated_jobs": 70,
+  "total_jobs": 87,
+  "curated_jobs": 68,
   "expanded_jobs": 19,
   "jobs": [
     {
@@ -757,74 +757,6 @@
       "tags": [
         "8811 Product Design",
         "United Kingdom Locations"
-      ]
-    },
-    {
-      "id": "greenhouse-stripe-7824139",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Creative Design Operations Associate (Motion)",
-      "company": "Stripe",
-      "category": "Creative Direction",
-      "location": "Bengaluru",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-04-24T17:25:33-04:00",
-      "posted_label": "Posted 9 days ago",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=7824139",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7824139",
-      "summary": "About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new busin…",
-      "description": "About Stripe \n\n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\nStripe is growing quickly and along with that, so are its operational requirements. Stripe Delivery Centers (SDC) are a brand new initiative to accelerate and expand Stripe’s operational capabilities via the creation of centralized hubs or centers of operational excellence. SDC will be staffed with Stripes, not vendors - we want Stripes at SDC to have the same level of tools and systems access as Stripes in other locations.\n\n About the team \n\n Stripe is investing in building out its Creative Design team within SDC to reach users across the globe. The team designs comprehensive ad campaigns tailored for various platforms, ensuring that every visual element aligns with our marketing goals and engages our audience effectively. We create net-new creative content, localize and adapt our content to meet the unique cultural and linguistic needs of different regions, to effectively present our message in global languages.\n\nIn addition to our work in advertising and web content, we also produce high-quality designs for presentations and other collateral aimed at large users and executive audiences. Our designs enhance the clarity and impact of our messages, making complex information accessible and engaging. Whether it's a pitch to clients or a strategy meeting with executives, we provide visually compelling designs that communicate our ideas confidently and effectively.\n\n What you’ll do \n Designers’ at Stripe’s SDC demonstrate a passion for captivating storytelling and great design. They use design systems to help tell compelling stories to a variety of audiences, and are well-versed at expanding, evolving, defining, and documenting flexible design systems and experiences that achieve bar-raising quality and consistency for the brand at scale. They are user-focused, have a strong understanding of the business, and are empathetic and inspiring. The ideal candidate excels across a variety of styles, crisply articulates design decisions, iterates quickly, and collaborates seamlessly with marketers, product managers, leaders, other designers, and other partners.\n\n Responsibilities \n \n\n• Ideate and design comprehensive designs for internal and external initiatives, ensuring all deliverables maintain strict adherence to brand standards, production timelines and quality. \n\n• Collaborate closely with the Art Director to interpret high-level creative strategies, translating conceptual visions into tangible, immersive visual narratives across mediums. \n\n• Serve as a dedicated individual contributor responsible for the full lifecycle of design projects, managing multiple workstreams with minimal supervision in a fast-paced environment. \n\n• Proactive in identifying and implementing process optimization initiatives through automation and AI integration to enhance design workflows. \n\n• Develop and present design concepts and storyboards to stakeholders, facilitating a professional iterative process based on feedback to finalize creative concepts. \n \n Requirements \n \n\n• 4 to 6 years of professional design experience within technical or product-focused organizations, with advanced proficiency in Figma, Adobe Creative Cloud suite (Premiere pro, Aftereffects, Illustrator, Frame.io ). \n\n• Demonstrated ability to execute creative work within established design systems, effectively utilizing distinct graphics, patterns, and motion guidelines to maintain brand consistency while delivering fresh visual solutions. \n\n• Strong verbal and written communication skills, with the ability to articulate design rationale clearly to cross-functional partners in Marketing and Ad Operations. \n\n• Proven ability to balance high-volume production speed with design excellence, consistently delivering pixel-perfect work in a global, deadline-driven environment. \n\n• A rigorous approach to quality assurance, possessing the organizational skills to ensure accuracy and visual integrity across all deliverables, down to the last pixel. \n \n Preferred qualifications \n\n \n\n• \n \n\n• Are a multidisciplinary creative with a wide skill set and comfortable working across different mediums and crafts; excited about experimenting with new technologies \n\n• Experience working (collaboration and facilitation) with cross functional partners \n\n• Ability to work flexible hours, including late evenings in India, to facilitate real-time collaboration with global stakeholders.",
-      "responsibilities": [
-        "Ideate and design comprehensive designs for internal and external initiatives, ensuring all deliverables maintain strict adherence to brand standards, production timelines and quality.",
-        "Collaborate closely with the Art Director to interpret high-level creative strategies, translating conceptual visions into tangible, immersive visual narratives across mediums.",
-        "Serve as a dedicated individual contributor responsible for the full lifecycle of design projects, managing multiple workstreams with minimal supervision in a fast-paced environment.",
-        "Proactive in identifying and implementing process optimization initiatives through automation and AI integration to enhance design workflows.",
-        "Develop and present design concepts and storyboards to stakeholders, facilitating a professional iterative process based on feedback to finalize creative concepts.",
-        "4 to 6 years of professional design experience within technical or product-focused organizations, with advanced proficiency in Figma, Adobe Creative Cloud suite (Premiere pro, Aftereffects, Illustrator, Frame.io )."
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "4135 SDC - Marketing",
-        "India Locations"
-      ]
-    },
-    {
-      "id": "greenhouse-stripe-7824143",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Creative Design Operations Associate (Static)",
-      "company": "Stripe",
-      "category": "Creative Direction",
-      "location": "Bengaluru",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-04-24T17:25:33-04:00",
-      "posted_label": "Posted 9 days ago",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=7824143",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7824143",
-      "summary": "About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new busin…",
-      "description": "About Stripe \n\n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\nStripe is growing quickly and along with that, so are its operational requirements. Stripe Delivery Centers (SDC) are a brand new initiative to accelerate and expand Stripe’s operational capabilities via the creation of centralized hubs or centers of operational excellence. SDC will be staffed with Stripes, not vendors - we want Stripes at SDC to have the same level of tools and systems access as Stripes in other locations.\n\n About the team \n\n Stripe is investing in building out its Creative Design team within SDC to reach users across the globe. The team designs comprehensive ad campaigns tailored for various platforms, ensuring that every visual element aligns with our marketing goals and engages our audience effectively. We create net-new creative content, localize and adapt our content to meet the unique cultural and linguistic needs of different regions, to effectively present our message in global languages.\n\nIn addition to our work in advertising and web content, we also produce high-quality designs for presentations and other collateral aimed at large users and executive audiences. Our designs enhance the clarity and impact of our messages, making complex information accessible and engaging. Whether it's a pitch to clients or a strategy meeting with executives, we provide visually compelling designs that communicate our ideas confidently and effectively.\n\n What you’ll do \n Designers’ at Stripe’s SDC demonstrate a passion for captivating storytelling and great design. They use design systems to help tell compelling stories to a variety of audiences, and are well-versed at expanding, evolving, defining, and documenting flexible design systems and experiences that achieve bar-raising quality and consistency for the brand at scale. They are user-focused, have a strong understanding of the business, and are empathetic and inspiring. The ideal candidate excels across a variety of styles, crisply articulates design decisions, iterates quickly, and collaborates seamlessly with marketers, product managers, leaders, other designers, and other partners.\n\n Responsibilities \n \n\n• Ideate and design comprehensive designs for internal and external initiatives, ensuring all deliverables maintain strict adherence to brand standards, production timelines and quality. \n\n• Collaborate closely with the Art Director to interpret high-level creative strategies, translating conceptual visions into tangible, immersive visual narratives across mediums. \n\n• Serve as a dedicated individual contributor responsible for the full lifecycle of design projects, managing multiple workstreams with minimal supervision in a fast-paced environment. \n\n• Proactive in identifying and implementing process optimization initiatives through automation and AI integration to enhance design workflows. \n\n• Develop and present design concepts and storyboards to stakeholders, facilitating a professional iterative process based on feedback to finalize creative concepts. \n \n Requirements \n \n\n• 4 to 6 years of professional design experience within technical or product-focused organizations, with advanced proficiency in Figma, Canva, and the Adobe Creative Cloud suite (Photoshop, Illustrator, InDesign, Acrobat) \n\n• Demonstrated ability to execute creative work within established design systems, effectively utilizing distinct graphics, patterns, and motion guidelines to maintain brand consistency while delivering fresh visual solutions. \n\n• Strong verbal and written communication skills, with the ability to articulate design rationale clearly to cross-functional partners in Marketing and Ad Operations. \n\n• Proven ability to balance high-volume production speed with design excellence, consistently delivering pixel-perfect work in a global, deadline-driven environment. \n\n• A rigorous approach to quality assurance, possessing the organizational skills to ensure accuracy and visual integrity across all deliverables, down to the last pixel. \n \n Preferred qualifications \n\n \n\n• Are a multidisciplinary creative with a wide skill set and comfortable working across different mediums and crafts; excited about experimenting with new technologies \n\n• Experience working (collaboration and facilitation) with cross functional partners \n\n• Ability to work flexible hours, including late evenings in India, to facilitate real-time collaboration with global stakeholders.",
-      "responsibilities": [
-        "Ideate and design comprehensive designs for internal and external initiatives, ensuring all deliverables maintain strict adherence to brand standards, production timelines and quality.",
-        "Collaborate closely with the Art Director to interpret high-level creative strategies, translating conceptual visions into tangible, immersive visual narratives across mediums.",
-        "Serve as a dedicated individual contributor responsible for the full lifecycle of design projects, managing multiple workstreams with minimal supervision in a fast-paced environment.",
-        "Proactive in identifying and implementing process optimization initiatives through automation and AI integration to enhance design workflows.",
-        "Develop and present design concepts and storyboards to stakeholders, facilitating a professional iterative process based on feedback to finalize creative concepts.",
-        "4 to 6 years of professional design experience within technical or product-focused organizations, with advanced proficiency in Figma, Canva, and the Adobe Creative Cloud suite (Photoshop, Illustrator, InDesign, Acrobat)"
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "4135 SDC - Marketing",
-        "India Locations"
       ]
     },
     {
