@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T02:32:40.582Z",
+  "generated_at": "2026-05-09T07:51:17.380Z",
   "coverage_label": "Direct company boards + selected market feeds",
   "total_jobs": 91,
   "curated_jobs": 71,
@@ -3069,7 +3069,7 @@
       ]
     },
     {
-      "id": "lever-binance-5c958205-a48d-4d07-9d1a-49da1ee667c0",
+      "id": "lever-binance-3d64a370-c980-4176-bd52-676019db2ebe",
       "tier": "expanded",
       "source": "lever",
       "source_label": "Lever",
@@ -3082,10 +3082,10 @@
       "employment_type": "Full-time Onsite or Remote",
       "salary": "Salary not stated",
       "remote": true,
-      "published_at": "2025-10-10T01:23:10.450Z",
-      "posted_label": "Posted 7 months ago",
-      "listing_url": "https://jobs.lever.co/binance/5c958205-a48d-4d07-9d1a-49da1ee667c0",
-      "apply_url": "https://jobs.lever.co/binance/5c958205-a48d-4d07-9d1a-49da1ee667c0/apply",
+      "published_at": "2025-07-25T03:52:36.040Z",
+      "posted_label": "Posted 9 months ago",
+      "listing_url": "https://jobs.lever.co/binance/3d64a370-c980-4176-bd52-676019db2ebe",
+      "apply_url": "https://jobs.lever.co/binance/3d64a370-c980-4176-bd52-676019db2ebe/apply",
       "summary": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users.…",
       "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.",
       "responsibilities": [],
