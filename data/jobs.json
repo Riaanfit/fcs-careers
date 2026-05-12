@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-12T02:38:32.388Z",
+  "generated_at": "2026-05-12T08:34:11.816Z",
   "coverage_label": "Direct company boards + selected market feeds",
-  "total_jobs": 89,
+  "total_jobs": 90,
   "curated_jobs": 71,
-  "expanded_jobs": 18,
+  "expanded_jobs": 19,
   "jobs": [
     {
       "id": "greenhouse-stripe-7867868",
@@ -54,7 +54,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-05-11T04:32:09-04:00",
-      "posted_label": "Posted today",
+      "posted_label": "Posted 1 day ago",
       "listing_url": "https://stripe.com/jobs/search?gh_jid=7894884",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=7894884",
       "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
@@ -2906,6 +2906,34 @@
         "United States - Los Angeles, CA - Remote",
         "United States - New York, NY",
         "United States - San Francisco, CA"
+      ]
+    },
+    {
+      "id": "lever-binance-5c3e024d-99d6-4bb3-b63b-1dcf57a00bf2",
+      "tier": "expanded",
+      "source": "lever",
+      "source_label": "Lever",
+      "source_type_label": "Direct company board",
+      "title": "Graphic Designer, Europe",
+      "company": "Binance",
+      "category": "Motion Design",
+      "location": "Southern Europe",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-03-12T17:28:15.260Z",
+      "posted_label": "Posted 2 months ago",
+      "listing_url": "https://jobs.lever.co/binance/5c3e024d-99d6-4bb3-b63b-1dcf57a00bf2",
+      "apply_url": "https://jobs.lever.co/binance/5c3e024d-99d6-4bb3-b63b-1dcf57a00bf2/apply",
+      "summary": "Based within the Binance Global Creative Team, the Graphic Designer will create world-class design work for Binance, one of the leading cryptocurrency exchange platforms.…",
+      "description": "Based within the Binance Global Creative Team, the Graphic Designer will create world-class design work for Binance, one of the leading cryptocurrency exchange platforms.\nThe role involves producing brilliant, compelling, and effective designs to meet all of Binance’s creative needs. The designer will consistently deliver modern, impactful, and inspiring creative assets that strengthen the global brand.\nReporting to the Global Design Lead, the Graphic Designer will collaborate closely with the creative team and other internal departments. Responsibilities include producing digital graphics, merchandise designs, campaign materials, motion graphics, and communications across various channels such as social media, websites, events, digital marketing, out-of-home advertising, and more.\nAdditionally, the designer will provide guidance and support to junior designers and team members, assist the Global Lead with team administration, and serve as the primary point of contact for local marketing teams, primarily in the EU region.",
+      "responsibilities": [
+        "Based within the Binance Global Creative Team, the Graphic Designer will create world-class design work for Binance, one of the leading cryptocurrency exchange platforms."
+      ],
+      "source_note": "This role is pulled from the company’s public Lever board and links back to the original listing.",
+      "tags": [
+        "Marketing"
       ]
     },
     {
