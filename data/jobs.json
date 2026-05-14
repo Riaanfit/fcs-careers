@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-14T08:33:22.405Z",
+  "generated_at": "2026-05-14T14:00:34.657Z",
   "coverage_label": "Direct company boards + selected market feeds",
-  "total_jobs": 92,
-  "curated_jobs": 73,
-  "expanded_jobs": 19,
+  "total_jobs": 90,
+  "curated_jobs": 72,
+  "expanded_jobs": 18,
   "jobs": [
     {
       "id": "greenhouse-stripe-7892945",
@@ -346,40 +346,6 @@
       ]
     },
     {
-      "id": "greenhouse-figma-5708436004",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Technical Support Engineer (London, United Kingdom)",
-      "company": "Figma",
-      "category": "Product Design",
-      "location": "London, England",
-      "work_model": "Remote",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": true,
-      "published_at": "2026-05-13T04:42:14-04:00",
-      "posted_label": "Posted today",
-      "listing_url": "https://boards.greenhouse.io/figma/jobs/5708436004?gh_jid=5708436004",
-      "apply_url": "https://boards.greenhouse.io/figma/jobs/5708436004?gh_jid=5708436004",
-      "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
-      "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!\n\n \n As a Technical Support Engineer on the Product Support team, you will be responsible for troubleshooting complex bugs and working closely with internal teams to elevate the Figma experience for all customers. You will deliver the kind of experiences that build trust throughout the Figma community, from customers to key internal partners such as Product and Engineering.\n\n We are looking for a Technical Support Engineer who will advocate for quality improvements that enable great end-to-end experiences for the people and businesses using Figma. The ideal candidate will have a technical troubleshooting background, be comfortable collaborating in a fast-paced and often ambiguous environment, and demonstrate leadership, technical competence, and a passion for quality. \n\n This role will be a full time position, contracted working schedule is Saturday to Wednesday based from our London, UK hub\n\n What you’ll do at Figma: \n \n\n• Develop expertise in Figma's products and customer journeys, from Product Designers to Developers, to accurately diagnose sophisticated bugs \n\n• Interact with Figma customers daily via support channels such as chat, email, or video calls, taking ownership over complex problems \n\n• Contribute to social support efforts by engaging with customers and users on social media and community platforms \n\n• Own end-to-end troubleshooting of complex technical issues as the primary point of contact, partnering with Engineering and Product to report bugs, drive resolution, and maintain clear, proactive communication to improve customer satisfaction \n\n• Adapt to supporting customers across multiple products, including assisting with billing and account management issues as needed. Maintain schedule flexibility, including occasional weekend or holiday coverage, to support customers globally \n\n• Recommend tooling and process improvements to enhance with how the team manages to diagnoses bugs \n\n• Collaborate cross-functionally as a subject matter expert to help develop customer-facing and internal documentation, including training materials \n\n• Act as the voice of the customer by identifying trends and communicating insights to our Product and Engineering teams to advocate for bug fixes, tooling and process improvements, and feature enhancements \n \n \n We'd love to hear from you if you have: \n \n\n• 4+ years of experience working in a QA or Support environment for a technical SaaS product \n\n• Experience collaborating closely with Engineering and Product teams \n\n• Troubleshooting and debugging experience across multiple platforms (Mac, Windows, iOS, and Android) \n\n• Consultative communication skills with the ability to tailor a message for your audience. You can translate complex concepts into concise explanations and summarize customer issues to technical and non-technical audiences \n\n• Resilience and adaptability, you’re motivated by experimentation, building, and collaborating both within and beyond your team, and remain confident through times of change and ambiguity \n\n• Hands-on experience debugging REST APIs, OAuth authentication flows, and third-party plugins or integrations \n\n• Working knowledge of React and core web technologies (JavaScript/TypeScript, HTML, CSS) \n\n• Ability to diagnose complex issues end to end and clearly explain troubleshooting approach and technical reasoning \n \n While not required, it’s an added plus if you also have: \n \n\n• Experience working with design tools like Figma, Adobe Suite, Sketch, Framer \n\n• Ability to read and write Spanish, Portuguese, Japanese, Korean, German, or French \n \n At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.\n\n \n At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status , or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.\n\n We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com . These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities. \n\n Examples of accommodations include but are not limited to: \n\n \n\n• Holding interviews in an accessible location \n\n• Enabling closed captioning on video conferencing \n\n• Ensuring all written communication be compatible with screen readers \n\n• Changing the mode or format of interviews \n \n To ensure the integrity of our hiring process and facilitate a more personal connection, we require all candidates keep their cameras on during video interviews. Additionally, if hired you will be required to attend in person onboarding.\n\n By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with Figma's Candidate Privacy Notice .",
-      "responsibilities": [
-        "This role will be a full time position, contracted working schedule is Saturday to Wednesday based from our London, UK hub",
-        "What you’ll do at Figma:",
-        "Develop expertise in Figma's products and customer journeys, from Product Designers to Developers, to accurately diagnose sophisticated bugs",
-        "Interact with Figma customers daily via support channels such as chat, email, or video calls, taking ownership over complex problems",
-        "Contribute to social support efforts by engaging with customers and users on social media and community platforms",
-        "Recommend tooling and process improvements to enhance with how the team manages to diagnoses bugs"
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "Product Support",
-        "London, UK"
-      ]
-    },
-    {
       "id": "greenhouse-stripe-7867868",
       "tier": "curated",
       "source": "greenhouse",
@@ -530,7 +496,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-05-12T05:16:38-04:00",
-      "posted_label": "Posted 1 day ago",
+      "posted_label": "Posted 2 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/5991320004?gh_jid=5991320004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/5991320004?gh_jid=5991320004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
@@ -2054,7 +2020,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-04-24T05:58:26-04:00",
-      "posted_label": "Posted 19 days ago",
+      "posted_label": "Posted 20 days ago",
       "listing_url": "https://job-boards.greenhouse.io/anthropic/jobs/5197714008",
       "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5197714008",
       "summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole.…",
@@ -2332,7 +2298,7 @@
       "salary": "$120 - $170 /hour",
       "remote": true,
       "published_at": "2026-04-16T10:16:01",
-      "posted_label": "Posted 27 days ago",
+      "posted_label": "Posted 28 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "summary": "Location: Americas, Europe, or Israel The Opportunity Join A.Team’s invite-only network of senior builders and access exclusive missions with Fortune 500s and top startups.…",
@@ -2972,34 +2938,6 @@
       ]
     },
     {
-      "id": "lever-binance-5c3e024d-99d6-4bb3-b63b-1dcf57a00bf2",
-      "tier": "expanded",
-      "source": "lever",
-      "source_label": "Lever",
-      "source_type_label": "Direct company board",
-      "title": "Graphic Designer, Europe",
-      "company": "Binance",
-      "category": "Motion Design",
-      "location": "Southern Europe",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-03-12T17:28:15.260Z",
-      "posted_label": "Posted 2 months ago",
-      "listing_url": "https://jobs.lever.co/binance/5c3e024d-99d6-4bb3-b63b-1dcf57a00bf2",
-      "apply_url": "https://jobs.lever.co/binance/5c3e024d-99d6-4bb3-b63b-1dcf57a00bf2/apply",
-      "summary": "Based within the Binance Global Creative Team, the Graphic Designer will create world-class design work for Binance, one of the leading cryptocurrency exchange platforms.…",
-      "description": "Based within the Binance Global Creative Team, the Graphic Designer will create world-class design work for Binance, one of the leading cryptocurrency exchange platforms.\nThe role involves producing brilliant, compelling, and effective designs to meet all of Binance’s creative needs. The designer will consistently deliver modern, impactful, and inspiring creative assets that strengthen the global brand.\nReporting to the Global Design Lead, the Graphic Designer will collaborate closely with the creative team and other internal departments. Responsibilities include producing digital graphics, merchandise designs, campaign materials, motion graphics, and communications across various channels such as social media, websites, events, digital marketing, out-of-home advertising, and more.\nAdditionally, the designer will provide guidance and support to junior designers and team members, assist the Global Lead with team administration, and serve as the primary point of contact for local marketing teams, primarily in the EU region.",
-      "responsibilities": [
-        "Based within the Binance Global Creative Team, the Graphic Designer will create world-class design work for Binance, one of the leading cryptocurrency exchange platforms."
-      ],
-      "source_note": "This role is pulled from the company’s public Lever board and links back to the original listing.",
-      "tags": [
-        "Marketing"
-      ]
-    },
-    {
       "id": "greenhouse-tubescience-5025814007",
       "tier": "curated",
       "source": "greenhouse",
@@ -3048,7 +2986,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2025-12-15T12:53:29.830Z",
-      "posted_label": "Posted 4 months ago",
+      "posted_label": "Posted 5 months ago",
       "listing_url": "https://jobs.lever.co/binance/8c00e978-28b5-421b-bd17-0ddabd13a1bf",
       "apply_url": "https://jobs.lever.co/binance/8c00e978-28b5-421b-bd17-0ddabd13a1bf/apply",
       "summary": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users.…",
