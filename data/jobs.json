@@ -1,10 +1,44 @@
 {
-  "generated_at": "2026-05-20T09:24:07.703Z",
+  "generated_at": "2026-05-20T14:54:36.610Z",
   "coverage_label": "Direct company boards + selected market feeds",
   "total_jobs": 89,
   "curated_jobs": 71,
   "expanded_jobs": 18,
   "jobs": [
+    {
+      "id": "greenhouse-stripe-7520327",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Product Designer, Issuing",
+      "company": "Stripe",
+      "category": "Product Design",
+      "location": "Canada",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-05-20T06:26:44-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=7520327",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7520327",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\n About the team \n The Product Design team is composed of several teams that work together to help define, create, and deliver all user-facing aspects of the Stripe brand and product. Product Designers are strategic partners to Engineering and Product Management within a dedicated product area. In partnership with the product team, they help define the user-facing experiences our users encounter on Stripe products, then translate that thinking into a complete experience that can be tested, shipped, and refined. They are responsible for creating well-functioning and beautiful products and experiences that users love and are eager to recommend to others. \n\n The Stripe Dashboard makes the simple things easy and the complex things possible for millions of businesses around the globe. We deliver products and experiences for all Stripe users including Startups, SMBs, Enterprises, and major platforms. Since our user base is so broad, it is essential that the experiences we build are configurable, customizable, and extensible. We take pride in crafting user-friendly and user-focused experiences.\n\n What you’ll do \n As part of the Money Management Design team, you will lead our product development efforts for building the best-in-class card issuance system. You will lead efforts in creating intuitive interfaces and workflows for businesses to create, customize, and manage spend and credit cards. You will have an opportunity to explore emerging trends like virtual cards, real-time controls, and embedded finance, while designing rigorous solutions for our users. You’ll partner with product and engineering to craft high quality experiences for merchants in the Stripe dashboard and for their customers, contractors, and vendors who interact with Stripe.\n\n You’ll utilize a broad set of product design skills including user interface design, user experience/interaction design, and prototyping. In this role, you will be responsible for deeply understanding our users and product strategy to design and advocate for the highest quality product experience.\n\n Responsibilities \n \n\n• Own the end-to-end product design process from discovery through delivery. \n\n• Ship meaningful, high quality experiences that balance business needs with usability. \n\n• Collaborate with engineering, product, and other stakeholders to shape the team’s roadmap and goals from an impactful and measurable customer outcomes perspective. Leverage insights from our UXR team to identify opportunity areas, and to validate potential solutions to pain points. \n\n• Partner with content design to craft compelling experiences that deliver the right information at the right time to the right user. \n\n• Deliver from your strengths — whether that’s workshops, journey maps, wireframes, prototypes, final comps and specs, or code—and have the opportunity to sharpen the skills you’re looking to develop. \n\n• Work closely with other product designers to drive holistic solutions for our merchants and their users. \n\n• Participate in design reviews and share your work regularly with the design and company leadership. \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• Have 6+ years relevant design experience at a tech, product-driven company \n\n• Experience working with, and leading changes to, an established design system \n\n• Experience collaborating with engineering to support UI development \n\n• Have worked autonomously on large-scale initiatives like system unification efforts or highly visible features \n\n• Strong cross-functional collaboration skills, operating as a co-lead with product management and engineering decision makers \n\n• Strong skills in visual design, interaction design, prototyping \n\n• Comfortable working on multiple projects operating at different paces \n\n• Use tools such as prototypes, journey maps, and UX flows to articulate progress, rationale, and decisions \n\n• Able to manage and prioritize time \n \n Preferred qualifications \n \n\n• Are skilled in explaining your work, process, and decisions to cross-functional stakeholders and crave feedback to help you produce your best work \n\n• Care about details and are excited to keep pushing your work until is pixel-perfect \n\n• Value working with a diverse group of people with different perspectives and expertise \n\n• Love working with other designers to help them learn and grow—and have them help you learn and grow \n\n• Are committed to building a sustainable and scalable business by balancing merchant needs, user needs, and business needs",
+      "responsibilities": [
+        "Own the end-to-end product design process from discovery through delivery.",
+        "Ship meaningful, high quality experiences that balance business needs with usability.",
+        "Partner with content design to craft compelling experiences that deliver the right information at the right time to the right user.",
+        "Deliver from your strengths — whether that’s workshops, journey maps, wireframes, prototypes, final comps and specs, or code—and have the opportunity to sharpen the skills you’re looking to develop.",
+        "Work closely with other product designers to drive holistic solutions for our merchants and their users.",
+        "Participate in design reviews and share your work regularly with the design and company leadership."
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "8811 Product Design",
+        "Canada Locations"
+      ]
+    },
     {
       "id": "greenhouse-stripe-7663023",
       "tier": "curated",
@@ -755,40 +789,6 @@
       ]
     },
     {
-      "id": "greenhouse-stripe-7861422",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Product Designer, Global",
-      "company": "Stripe",
-      "category": "Product Design",
-      "location": "Ireland",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-05-19T17:22:55-04:00",
-      "posted_label": "Posted today",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=7861422",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7861422",
-      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
-      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\n About the team \n The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe’s products. Product Designers work directly with Engineers, Product Managers, Data Scientists, and Marketers, as strategic partners, in each product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users love—and want to tell others about.\n\n The Global design team crafts product experiences that make cross-border selling as simple, performant, and scalable as domestic sales. Experiences empower businesses to easily expand into new markets worldwide without the friction of complex global operations, ranging from localized checkout experiences and comprehensive payment method coverage to handling global tax compliance and cross-border money management. Because of its global reach, this team’s efforts drive significant impact for our users and business and navigate the unique challenges of designing for regions with dozens of currencies, languages, and regulatory frameworks.\n\n What you’ll do \n As a product designer, you’ll work closely with product managers and engineering teams to envision features in the Stripe Dashboard and checkout surfaces and partner with go-to-market teams to bring them to users. That includes new feature development, localization for priority geographies across Europe, the Middle East, and Africa, and setting vision for our products to meet new user expectations in an increasingly globally connected and AI driven world.\n\n Responsibilities \n \n\n• Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs \n\n• Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features \n\n• Prototype user experiences for user research testing and internal communication \n\n• Collaborate with teams across Stripe to craft a seamless dashboard user experience \n\n• Conduct UXR to test design decisions before shipping \n\n• Collaborate with our design systems teams to leverage and improve templates and components \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• Has 6+ years relevant design experience at a product-driven tech company \n\n• Has strong craft demonstrated through a portfolio of work \n\n• Demonstrated skills in prototyping at a high fidelity using the latest AI tools \n\n• Has experience collaborating closely with engineering teams \n\n• Excellent written and verbal communication skills through design deliverables, videos, and written artifacts \n \n Preferred qualifications \n \n\n• Experience working in a growth team driving user activation \n\n• Are excited about building collaborative relationships with many partners \n\n• Has a passion for turning complexity into usable, beautiful experiences \n\n• Are a strong design leader comfortable with bringing your point of view to a team",
-      "responsibilities": [
-        "Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs",
-        "Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features",
-        "Prototype user experiences for user research testing and internal communication",
-        "Collaborate with teams across Stripe to craft a seamless dashboard user experience",
-        "Conduct UXR to test design decisions before shipping",
-        "Collaborate with our design systems teams to leverage and improve templates and components"
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "8811 Product Design",
-        "Ireland Locations"
-      ]
-    },
-    {
       "id": "greenhouse-stripe-7824008",
       "tier": "curated",
       "source": "greenhouse",
@@ -820,6 +820,40 @@
       "tags": [
         "8811 Product Design",
         "Singapore Locations"
+      ]
+    },
+    {
+      "id": "greenhouse-stripe-7861422",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Product Designer, Global",
+      "company": "Stripe",
+      "category": "Product Design",
+      "location": "Ireland",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-05-19T17:22:55-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=7861422",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7861422",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\n About the team \n The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe’s products. Product Designers work directly with Engineers, Product Managers, Data Scientists, and Marketers, as strategic partners, in each product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users love—and want to tell others about.\n\n The Global design team crafts product experiences that make cross-border selling as simple, performant, and scalable as domestic sales. Experiences empower businesses to easily expand into new markets worldwide without the friction of complex global operations, ranging from localized checkout experiences and comprehensive payment method coverage to handling global tax compliance and cross-border money management. Because of its global reach, this team’s efforts drive significant impact for our users and business and navigate the unique challenges of designing for regions with dozens of currencies, languages, and regulatory frameworks.\n\n What you’ll do \n As a product designer, you’ll work closely with product managers and engineering teams to envision features in the Stripe Dashboard and checkout surfaces and partner with go-to-market teams to bring them to users. That includes new feature development, localization for priority geographies across Europe, the Middle East, and Africa, and setting vision for our products to meet new user expectations in an increasingly globally connected and AI driven world.\n\n Responsibilities \n \n\n• Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs \n\n• Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features \n\n• Prototype user experiences for user research testing and internal communication \n\n• Collaborate with teams across Stripe to craft a seamless dashboard user experience \n\n• Conduct UXR to test design decisions before shipping \n\n• Collaborate with our design systems teams to leverage and improve templates and components \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• Has 6+ years relevant design experience at a product-driven tech company \n\n• Has strong craft demonstrated through a portfolio of work \n\n• Demonstrated skills in prototyping at a high fidelity using the latest AI tools \n\n• Has experience collaborating closely with engineering teams \n\n• Excellent written and verbal communication skills through design deliverables, videos, and written artifacts \n \n Preferred qualifications \n \n\n• Experience working in a growth team driving user activation \n\n• Are excited about building collaborative relationships with many partners \n\n• Has a passion for turning complexity into usable, beautiful experiences \n\n• Are a strong design leader comfortable with bringing your point of view to a team",
+      "responsibilities": [
+        "Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs",
+        "Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features",
+        "Prototype user experiences for user research testing and internal communication",
+        "Collaborate with teams across Stripe to craft a seamless dashboard user experience",
+        "Conduct UXR to test design decisions before shipping",
+        "Collaborate with our design systems teams to leverage and improve templates and components"
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "8811 Product Design",
+        "Ireland Locations"
       ]
     },
     {
@@ -887,40 +921,6 @@
       "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
       "tags": [
         "8414 MerchantXP - Eng",
-        "Canada Locations"
-      ]
-    },
-    {
-      "id": "greenhouse-stripe-7520327",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Product Designer, Issuing",
-      "company": "Stripe",
-      "category": "Product Design",
-      "location": "Canada",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-05-19T17:22:46-04:00",
-      "posted_label": "Posted today",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=7520327",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7520327",
-      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
-      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\n About the team \n The Product Design team is composed of several teams that work together to help define, create, and deliver all user-facing aspects of the Stripe brand and product. Product Designers are strategic partners to Engineering and Product Management within a dedicated product area. In partnership with the product team, they help define the user-facing experiences our users encounter on Stripe products, then translate that thinking into a complete experience that can be tested, shipped, and refined. They are responsible for creating well-functioning and beautiful products and experiences that users love and are eager to recommend to others. \n\n The Stripe Dashboard makes the simple things easy and the complex things possible for millions of businesses around the globe. We deliver products and experiences for all Stripe users including Startups, SMBs, Enterprises, and major platforms. Since our user base is so broad, it is essential that the experiences we build are configurable, customizable, and extensible. We take pride in crafting user-friendly and user-focused experiences.\n\n What you’ll do \n As part of the Money Management Design team, you will lead our product development efforts for building the best-in-class card issuance system. You will lead efforts in creating intuitive interfaces and workflows for businesses to create, customize, and manage spend and credit cards. You will have an opportunity to explore emerging trends like virtual cards, real-time controls, and embedded finance, while designing rigorous solutions for our users. You’ll partner with product and engineering to craft high quality experiences for merchants in the Stripe dashboard and for their customers, contractors, and vendors who interact with Stripe.\n\n You’ll utilize a broad set of product design skills including user interface design, user experience/interaction design, and prototyping. In this role, you will be responsible for deeply understanding our users and product strategy to design and advocate for the highest quality product experience.\n\n Responsibilities \n \n\n• Own the end-to-end product design process from discovery through delivery. \n\n• Ship meaningful, high quality experiences that balance business needs with usability. \n\n• Collaborate with engineering, product, and other stakeholders to shape the team’s roadmap and goals from an impactful and measurable customer outcomes perspective. Leverage insights from our UXR team to identify opportunity areas, and to validate potential solutions to pain points. \n\n• Partner with content design to craft compelling experiences that deliver the right information at the right time to the right user. \n\n• Deliver from your strengths — whether that’s workshops, journey maps, wireframes, prototypes, final comps and specs, or code—and have the opportunity to sharpen the skills you’re looking to develop. \n\n• Work closely with other product designers to drive holistic solutions for our merchants and their users. \n\n• Participate in design reviews and share your work regularly with the design and company leadership. \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• Have 6+ years relevant design experience at a tech, product-driven company \n\n• Experience working with, and leading changes to, an established design system \n\n• Experience collaborating with engineering to support UI development \n\n• Have worked autonomously on large-scale initiatives like system unification efforts or highly visible features \n\n• Strong cross-functional collaboration skills, operating as a co-lead with product management and engineering decision makers \n\n• Strong skills in visual design, interaction design, prototyping \n\n• Comfortable working on multiple projects operating at different paces \n\n• Use tools such as prototypes, journey maps, and UX flows to articulate progress, rationale, and decisions \n\n• Able to manage and prioritize time \n \n Preferred qualifications \n \n\n• Are skilled in explaining your work, process, and decisions to cross-functional stakeholders and crave feedback to help you produce your best work \n\n• Care about details and are excited to keep pushing your work until is pixel-perfect \n\n• Value working with a diverse group of people with different perspectives and expertise \n\n• Love working with other designers to help them learn and grow—and have them help you learn and grow \n\n• Are committed to building a sustainable and scalable business by balancing merchant needs, user needs, and business needs",
-      "responsibilities": [
-        "Own the end-to-end product design process from discovery through delivery.",
-        "Ship meaningful, high quality experiences that balance business needs with usability.",
-        "Partner with content design to craft compelling experiences that deliver the right information at the right time to the right user.",
-        "Deliver from your strengths — whether that’s workshops, journey maps, wireframes, prototypes, final comps and specs, or code—and have the opportunity to sharpen the skills you’re looking to develop.",
-        "Work closely with other product designers to drive holistic solutions for our merchants and their users.",
-        "Participate in design reviews and share your work regularly with the design and company leadership."
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "8811 Product Design",
         "Canada Locations"
       ]
     },
@@ -1077,7 +1077,7 @@
       "salary": "$120 - $170 /hour",
       "remote": true,
       "published_at": "2026-05-16T10:16:39",
-      "posted_label": "Posted 3 days ago",
+      "posted_label": "Posted 4 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "summary": "Location: Americas, Europe, or Israel The Opportunity Join A.Team’s invite-only network of senior builders and access exclusive missions with Fortune 500s and top startups.…",
@@ -1184,7 +1184,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-05-15T14:00:51",
-      "posted_label": "Posted 4 days ago",
+      "posted_label": "Posted 5 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711",
       "summary": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
@@ -1222,7 +1222,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-05-15T06:39:07-04:00",
-      "posted_label": "Posted 4 days ago",
+      "posted_label": "Posted 5 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/5995989004?gh_jid=5995989004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/5995989004?gh_jid=5995989004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
@@ -2061,7 +2061,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-04-30T14:11:53",
-      "posted_label": "Posted 19 days ago",
+      "posted_label": "Posted 20 days ago",
       "listing_url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2090002",
       "apply_url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2090002",
       "summary": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
@@ -2201,7 +2201,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-04-24T10:53:06-04:00",
-      "posted_label": "Posted 25 days ago",
+      "posted_label": "Posted 26 days ago",
       "listing_url": "https://job-boards.greenhouse.io/anthropic/jobs/5189047008",
       "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5189047008",
       "summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole.…",
@@ -2235,7 +2235,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-04-24T05:58:26-04:00",
-      "posted_label": "Posted 25 days ago",
+      "posted_label": "Posted 26 days ago",
       "listing_url": "https://job-boards.greenhouse.io/anthropic/jobs/5197714008",
       "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5197714008",
       "summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole.…",
