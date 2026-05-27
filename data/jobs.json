@@ -1,10 +1,44 @@
 {
-  "generated_at": "2026-05-27T02:58:24.865Z",
+  "generated_at": "2026-05-27T09:38:14.122Z",
   "coverage_label": "Direct company boards + selected market feeds",
   "total_jobs": 86,
   "curated_jobs": 65,
   "expanded_jobs": 21,
   "jobs": [
+    {
+      "id": "greenhouse-stripe-7241636",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Design Manager, Web Presence",
+      "company": "Stripe",
+      "category": "Motion Design",
+      "location": "US / Canada",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-05-27T01:02:34-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=7241636",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7241636",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\n About the team \n Web Presence &amp; Platform (WPP) is organized into two pillars: Platform and Presence . The Platform pillar builds internal systems, tooling, and infrastructure to support the web. The Presence pillar owns Stripe’s public-facing storytelling across stripe.com , including our homepage, product landing pages, industry and solutions pages, and other high-impact go-to-market surfaces, as well as link.com and Sessions . Together, we shape how millions of people understand what Stripe is and what it can do for them.\n\n Designers on the Presence team work at the intersection of craft and impact—balancing clarity, polish, and systems thinking with strategic storytelling and conversion goals. We collaborate closely with engineering, marketing, content, and product to deliver work that is not only beautiful, but measurably moves the business.\n\n What you’ll do \n As one of two Design Managers on the Presence team, you'll lead a group of exceptional designers focused on key initiatives across stripe.com, link.com, Bridge and Sessions. You’ll own the creative direction for areas like acquisition, global expansion, experimentation, and our annual customer event, Sessions. You’ll be responsible for defining team strategy, planning roadmaps with partners, and evolving priorities over time. You’ll coach and grow the individuals on your team, build a collaborative and healthy team culture, and uphold a high bar for quality, visual design, polish, and storytelling craft. You’ll also lead through change as we continue to adapt our tools and processes in a rapidly evolving AI-enabled world. \n\n You’ll foster the individuals on your team, providing support to their work and acceleration to their growth. You’ll champion quality and polish. You’ll partner with WPP’s leadership to devise and deliver on quarterly and yearly roadmaps focused on the strategic experiences we bring to our users. You’ll develop and empower a collaborative team that is excited to meet you. And not least, you’ll partner with other design leaders across Stripe to help shape a consistent and elevated design voice across Stripe’s surfaces.\n\n Responsibilities \n \n\n• Manage and grow a high-performing design team, with a focus on feedback, coaching, and long-term career development \n\n• Inspire and motivate the team to do their best work while creating a clear design vision that aligns with Stripe's goals \n\n• Craft novel moments of storytelling and delight for our web presence and uphold our quality standards \n\n• Balance growth with putting users first while upholding a very high quality bar \n\n• Champion curiosity and adoption of new AI tools and the evolving our ways of working \n\n• Understanding global needs and design systems, including knowing when to stick to the system vs when it's okay to break away from it \n\n• Often work on very broadly defined, loose concepts, and sometimes on narrowly defined, tactical deliverables \n\n• Advocate for design excellence at every stage of the product lifecycle, balancing speed, quality, and bold experimentation \n\n• Work with other design specialists and managers on team-wide initiatives, like recruiting and developing content standards \n\n• Influence strategic decisions across all the corners of our web presence \n\n• Partner with marketing, comms, growth, and Link teams to define information architecture and tell the right stories \n\n• Work closely with the team to help scale our design systems, devise generative art directions, propose web animations, and distill interaction-heavy product launch materials on sites such as stripe.com \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• 6 years+ of creative direction and management experience, and 9+ years of relevant experience in strategy, information architecture, web design and creative technology experience at digital native agencies, and/or tech-forward, product-driven companies. \n\n• Leadership in driving strategic thinking for impactful digital experiences \n\n• Conviction in the web as a storytelling medium, demonstrable through a portfolio of design systems, engaging microsites, Figma libraries, WebGL experiments, CSS art, or anything else—you tell us \n\n• Expert understanding of the formal elements of design, not just limited to the web but including typography, layout, balance, and proportion \n \n Preferred qualifications \n \n\n• Sufficiently advanced knowledge of modern HTML and CSS to empathise with and lead the designers and design engineers crafting our web presence \n\n• A tenacity for moving quickly on new, green-field projects while steadfastly delivering on long-term roadmaps \n\n• Experience at a company with global scale, expanding to new markets, leading localization strategy and integrating with l10n. \n\n• Accountability and a high bar when working with production systems \n\n• A demonstrable ability to communicate your front-end or information architecture designs using documentation and crisp visualisation \n\n• Intuition and empathy to gather consensus amongst different stakeholders and subject matter experts",
+      "responsibilities": [
+        "Manage and grow a high-performing design team, with a focus on feedback, coaching, and long-term career development",
+        "Inspire and motivate the team to do their best work while creating a clear design vision that aligns with Stripe's goals",
+        "Craft novel moments of storytelling and delight for our web presence and uphold our quality standards",
+        "Balance growth with putting users first while upholding a very high quality bar",
+        "Champion curiosity and adoption of new AI tools and the evolving our ways of working",
+        "Understanding global needs and design systems, including knowing when to stick to the system vs when it's okay to break away from it"
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "8813 Web Presence & Platform",
+        "US"
+      ]
+    },
     {
       "id": "greenhouse-gusto-7793745",
       "tier": "expanded",
@@ -390,40 +424,6 @@
       ]
     },
     {
-      "id": "greenhouse-stripe-7241636",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Design Manager, Web Presence",
-      "company": "Stripe",
-      "category": "Motion Design",
-      "location": "US / Canada",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-05-20T16:58:18-04:00",
-      "posted_label": "Posted 6 days ago",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=7241636",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7241636",
-      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
-      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\n About the team \n Web Presence &amp; Platform (WPP) is organized into two pillars: Platform and Presence . The Platform pillar builds internal systems, tooling, and infrastructure to support the web. The Presence pillar owns Stripe’s public-facing storytelling across stripe.com , including our homepage, product landing pages, industry and solutions pages, and other high-impact go-to-market surfaces, as well as link.com and Sessions . Together, we shape how millions of people understand what Stripe is and what it can do for them.\n\n Designers on the Presence team work at the intersection of craft and impact—balancing clarity, polish, and systems thinking with strategic storytelling and conversion goals. We collaborate closely with engineering, marketing, content, and product to deliver work that is not only beautiful, but measurably moves the business.\n\n What you’ll do \n As one of two Design Managers on the Presence team, you'll lead a group of exceptional designers focused on key initiatives across stripe.com, link.com, Bridge and Sessions. You’ll own the creative direction for areas like acquisition, global expansion, experimentation, and our annual customer event, Sessions. You’ll be responsible for defining team strategy, planning roadmaps with partners, and evolving priorities over time. You’ll coach and grow the individuals on your team, build a collaborative and healthy team culture, and uphold a high bar for quality, visual design, polish, and storytelling craft. You’ll also lead through change as we continue to adapt our tools and processes in a rapidly evolving AI-enabled world. \n\n You’ll foster the individuals on your team, providing support to their work and acceleration to their growth. You’ll champion quality and polish. You’ll partner with WPP’s leadership to devise and deliver on quarterly and yearly roadmaps focused on the strategic experiences we bring to our users. You’ll develop and empower a collaborative team that is excited to meet you. And not least, you’ll partner with other design leaders across Stripe to help shape a consistent and elevated design voice across Stripe’s surfaces.\n\n Responsibilities \n \n\n• Manage and grow a high-performing design team, with a focus on feedback, coaching, and long-term career development \n\n• Inspire and motivate the team to do their best work while creating a clear design vision that aligns with Stripe's goals \n\n• Craft novel moments of storytelling and delight for our web presence and uphold our quality standards \n\n• Balance growth with putting users first while upholding a very high quality bar \n\n• Champion curiosity and adoption of new AI tools and the evolving our ways of working \n\n• Understanding global needs and design systems, including knowing when to stick to the system vs when it's okay to break away from it \n\n• Often work on very broadly defined, loose concepts, and sometimes on narrowly defined, tactical deliverables \n\n• Advocate for design excellence at every stage of the product lifecycle, balancing speed, quality, and bold experimentation \n\n• Work with other design specialists and managers on team-wide initiatives, like recruiting and developing content standards \n\n• Influence strategic decisions across all the corners of our web presence \n\n• Partner with marketing, comms, growth, and Link teams to define information architecture and tell the right stories \n\n• Work closely with the team to help scale our design systems, devise generative art directions, propose web animations, and distill interaction-heavy product launch materials on sites such as stripe.com \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• 6 years+ of creative direction and management experience, and 9+ years of relevant experience in strategy, information architecture, web design and creative technology experience at digital native agencies, and/or tech-forward, product-driven companies. \n\n• Leadership in driving strategic thinking for impactful digital experiences \n\n• Conviction in the web as a storytelling medium, demonstrable through a portfolio of design systems, engaging microsites, Figma libraries, WebGL experiments, CSS art, or anything else—you tell us \n\n• Expert understanding of the formal elements of design, not just limited to the web but including typography, layout, balance, and proportion \n \n Preferred qualifications \n \n\n• Sufficiently advanced knowledge of modern HTML and CSS to empathise with and lead the designers and design engineers crafting our web presence \n\n• A tenacity for moving quickly on new, green-field projects while steadfastly delivering on long-term roadmaps \n\n• Experience at a company with global scale, expanding to new markets, leading localization strategy and integrating with l10n. \n\n• Accountability and a high bar when working with production systems \n\n• A demonstrable ability to communicate your front-end or information architecture designs using documentation and crisp visualisation \n\n• Intuition and empathy to gather consensus amongst different stakeholders and subject matter experts",
-      "responsibilities": [
-        "Manage and grow a high-performing design team, with a focus on feedback, coaching, and long-term career development",
-        "Inspire and motivate the team to do their best work while creating a clear design vision that aligns with Stripe's goals",
-        "Craft novel moments of storytelling and delight for our web presence and uphold our quality standards",
-        "Balance growth with putting users first while upholding a very high quality bar",
-        "Champion curiosity and adoption of new AI tools and the evolving our ways of working",
-        "Understanding global needs and design systems, including knowing when to stick to the system vs when it's okay to break away from it"
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "8813 Web Presence & Platform",
-        "US"
-      ]
-    },
-    {
       "id": "greenhouse-stripe-7868564",
       "tier": "curated",
       "source": "greenhouse",
@@ -629,40 +629,6 @@
       ]
     },
     {
-      "id": "greenhouse-stripe-7861422",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Product Designer, Global",
-      "company": "Stripe",
-      "category": "Product Design",
-      "location": "Ireland",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-05-20T16:58:18-04:00",
-      "posted_label": "Posted 6 days ago",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=7861422",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7861422",
-      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
-      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\n About the team \n The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe’s products. Product Designers work directly with Engineers, Product Managers, Data Scientists, and Marketers, as strategic partners, in each product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users love—and want to tell others about.\n\n The Global design team crafts product experiences that make cross-border selling as simple, performant, and scalable as domestic sales. Experiences empower businesses to easily expand into new markets worldwide without the friction of complex global operations, ranging from localized checkout experiences and comprehensive payment method coverage to handling global tax compliance and cross-border money management. Because of its global reach, this team’s efforts drive significant impact for our users and business and navigate the unique challenges of designing for regions with dozens of currencies, languages, and regulatory frameworks.\n\n What you’ll do \n As a product designer, you’ll work closely with product managers and engineering teams to envision features in the Stripe Dashboard and checkout surfaces and partner with go-to-market teams to bring them to users. That includes new feature development, localization for priority geographies across Europe, the Middle East, and Africa, and setting vision for our products to meet new user expectations in an increasingly globally connected and AI driven world.\n\n Responsibilities \n \n\n• Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs \n\n• Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features \n\n• Prototype user experiences for user research testing and internal communication \n\n• Collaborate with teams across Stripe to craft a seamless dashboard user experience \n\n• Conduct UXR to test design decisions before shipping \n\n• Collaborate with our design systems teams to leverage and improve templates and components \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• Has 6+ years relevant design experience at a product-driven tech company \n\n• Has strong craft demonstrated through a portfolio of work \n\n• Demonstrated skills in prototyping at a high fidelity using the latest AI tools \n\n• Has experience collaborating closely with engineering teams \n\n• Excellent written and verbal communication skills through design deliverables, videos, and written artifacts \n \n Preferred qualifications \n \n\n• Experience working in a growth team driving user activation \n\n• Are excited about building collaborative relationships with many partners \n\n• Has a passion for turning complexity into usable, beautiful experiences \n\n• Are a strong design leader comfortable with bringing your point of view to a team",
-      "responsibilities": [
-        "Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs",
-        "Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features",
-        "Prototype user experiences for user research testing and internal communication",
-        "Collaborate with teams across Stripe to craft a seamless dashboard user experience",
-        "Conduct UXR to test design decisions before shipping",
-        "Collaborate with our design systems teams to leverage and improve templates and components"
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "8811 Product Design",
-        "Ireland Locations"
-      ]
-    },
-    {
       "id": "greenhouse-stripe-7824008",
       "tier": "curated",
       "source": "greenhouse",
@@ -694,6 +660,40 @@
       "tags": [
         "8811 Product Design",
         "Singapore Locations"
+      ]
+    },
+    {
+      "id": "greenhouse-stripe-7861422",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Product Designer, Global",
+      "company": "Stripe",
+      "category": "Product Design",
+      "location": "Ireland",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-05-20T16:58:18-04:00",
+      "posted_label": "Posted 6 days ago",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=7861422",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7861422",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\n About the team \n The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe’s products. Product Designers work directly with Engineers, Product Managers, Data Scientists, and Marketers, as strategic partners, in each product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users love—and want to tell others about.\n\n The Global design team crafts product experiences that make cross-border selling as simple, performant, and scalable as domestic sales. Experiences empower businesses to easily expand into new markets worldwide without the friction of complex global operations, ranging from localized checkout experiences and comprehensive payment method coverage to handling global tax compliance and cross-border money management. Because of its global reach, this team’s efforts drive significant impact for our users and business and navigate the unique challenges of designing for regions with dozens of currencies, languages, and regulatory frameworks.\n\n What you’ll do \n As a product designer, you’ll work closely with product managers and engineering teams to envision features in the Stripe Dashboard and checkout surfaces and partner with go-to-market teams to bring them to users. That includes new feature development, localization for priority geographies across Europe, the Middle East, and Africa, and setting vision for our products to meet new user expectations in an increasingly globally connected and AI driven world.\n\n Responsibilities \n \n\n• Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs \n\n• Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features \n\n• Prototype user experiences for user research testing and internal communication \n\n• Collaborate with teams across Stripe to craft a seamless dashboard user experience \n\n• Conduct UXR to test design decisions before shipping \n\n• Collaborate with our design systems teams to leverage and improve templates and components \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• Has 6+ years relevant design experience at a product-driven tech company \n\n• Has strong craft demonstrated through a portfolio of work \n\n• Demonstrated skills in prototyping at a high fidelity using the latest AI tools \n\n• Has experience collaborating closely with engineering teams \n\n• Excellent written and verbal communication skills through design deliverables, videos, and written artifacts \n \n Preferred qualifications \n \n\n• Experience working in a growth team driving user activation \n\n• Are excited about building collaborative relationships with many partners \n\n• Has a passion for turning complexity into usable, beautiful experiences \n\n• Are a strong design leader comfortable with bringing your point of view to a team",
+      "responsibilities": [
+        "Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs",
+        "Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features",
+        "Prototype user experiences for user research testing and internal communication",
+        "Collaborate with teams across Stripe to craft a seamless dashboard user experience",
+        "Conduct UXR to test design decisions before shipping",
+        "Collaborate with our design systems teams to leverage and improve templates and components"
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "8811 Product Design",
+        "Ireland Locations"
       ]
     },
     {
@@ -1228,7 +1228,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-05-18T23:20:35-04:00",
-      "posted_label": "Posted 7 days ago",
+      "posted_label": "Posted 8 days ago",
       "listing_url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
       "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
       "summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole.…",
@@ -1680,7 +1680,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-05-12T05:16:38-04:00",
-      "posted_label": "Posted 14 days ago",
+      "posted_label": "Posted 15 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/5991320004?gh_jid=5991320004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/5991320004?gh_jid=5991320004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
