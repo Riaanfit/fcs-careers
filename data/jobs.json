@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-28T09:54:44.236Z",
+  "generated_at": "2026-05-28T15:42:10.679Z",
   "coverage_label": "Direct company boards + selected market feeds",
-  "total_jobs": 89,
+  "total_jobs": 88,
   "curated_jobs": 66,
-  "expanded_jobs": 23,
+  "expanded_jobs": 22,
   "jobs": [
     {
       "id": "greenhouse-stripe-7954118",
@@ -218,7 +218,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-05-27T11:40:11-04:00",
-      "posted_label": "Posted today",
+      "posted_label": "Posted 1 day ago",
       "listing_url": "https://job-boards.greenhouse.io/gusto/jobs/6650804",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/6650804",
       "summary": "About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers.…",
@@ -256,7 +256,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-05-27T10:21:10-04:00",
-      "posted_label": "Posted today",
+      "posted_label": "Posted 1 day ago",
       "listing_url": "https://stripe.com/jobs/search?gh_jid=7241636",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=7241636",
       "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
@@ -290,7 +290,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-05-27T09:15:24-04:00",
-      "posted_label": "Posted today",
+      "posted_label": "Posted 1 day ago",
       "listing_url": "https://job-boards.greenhouse.io/webflow/jobs/7728896",
       "apply_url": "https://job-boards.greenhouse.io/webflow/jobs/7728896",
       "summary": "At Webflow, we’re building the world’s leading AI-native Digital Experience Platform, and we’re doing it as a remote-first company built on trust, transparency, and a whole lot of creativity.…",
@@ -865,40 +865,6 @@
       ]
     },
     {
-      "id": "greenhouse-stripe-7861422",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Product Designer, Global",
-      "company": "Stripe",
-      "category": "Product Design",
-      "location": "Ireland",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-05-20T16:58:18-04:00",
-      "posted_label": "Posted 7 days ago",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=7861422",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7861422",
-      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
-      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\n About the team \n The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe’s products. Product Designers work directly with Engineers, Product Managers, Data Scientists, and Marketers, as strategic partners, in each product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users love—and want to tell others about.\n\n The Global design team crafts product experiences that make cross-border selling as simple, performant, and scalable as domestic sales. Experiences empower businesses to easily expand into new markets worldwide without the friction of complex global operations, ranging from localized checkout experiences and comprehensive payment method coverage to handling global tax compliance and cross-border money management. Because of its global reach, this team’s efforts drive significant impact for our users and business and navigate the unique challenges of designing for regions with dozens of currencies, languages, and regulatory frameworks.\n\n What you’ll do \n As a product designer, you’ll work closely with product managers and engineering teams to envision features in the Stripe Dashboard and checkout surfaces and partner with go-to-market teams to bring them to users. That includes new feature development, localization for priority geographies across Europe, the Middle East, and Africa, and setting vision for our products to meet new user expectations in an increasingly globally connected and AI driven world.\n\n Responsibilities \n \n\n• Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs \n\n• Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features \n\n• Prototype user experiences for user research testing and internal communication \n\n• Collaborate with teams across Stripe to craft a seamless dashboard user experience \n\n• Conduct UXR to test design decisions before shipping \n\n• Collaborate with our design systems teams to leverage and improve templates and components \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• Has 6+ years relevant design experience at a product-driven tech company \n\n• Has strong craft demonstrated through a portfolio of work \n\n• Demonstrated skills in prototyping at a high fidelity using the latest AI tools \n\n• Has experience collaborating closely with engineering teams \n\n• Excellent written and verbal communication skills through design deliverables, videos, and written artifacts \n \n Preferred qualifications \n \n\n• Experience working in a growth team driving user activation \n\n• Are excited about building collaborative relationships with many partners \n\n• Has a passion for turning complexity into usable, beautiful experiences \n\n• Are a strong design leader comfortable with bringing your point of view to a team",
-      "responsibilities": [
-        "Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs",
-        "Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features",
-        "Prototype user experiences for user research testing and internal communication",
-        "Collaborate with teams across Stripe to craft a seamless dashboard user experience",
-        "Conduct UXR to test design decisions before shipping",
-        "Collaborate with our design systems teams to leverage and improve templates and components"
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "8811 Product Design",
-        "Ireland Locations"
-      ]
-    },
-    {
       "id": "greenhouse-stripe-7824008",
       "tier": "curated",
       "source": "greenhouse",
@@ -930,6 +896,40 @@
       "tags": [
         "8811 Product Design",
         "Singapore Locations"
+      ]
+    },
+    {
+      "id": "greenhouse-stripe-7861422",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Product Designer, Global",
+      "company": "Stripe",
+      "category": "Product Design",
+      "location": "Ireland",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-05-20T16:58:18-04:00",
+      "posted_label": "Posted 7 days ago",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=7861422",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7861422",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\n About the team \n The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe’s products. Product Designers work directly with Engineers, Product Managers, Data Scientists, and Marketers, as strategic partners, in each product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users love—and want to tell others about.\n\n The Global design team crafts product experiences that make cross-border selling as simple, performant, and scalable as domestic sales. Experiences empower businesses to easily expand into new markets worldwide without the friction of complex global operations, ranging from localized checkout experiences and comprehensive payment method coverage to handling global tax compliance and cross-border money management. Because of its global reach, this team’s efforts drive significant impact for our users and business and navigate the unique challenges of designing for regions with dozens of currencies, languages, and regulatory frameworks.\n\n What you’ll do \n As a product designer, you’ll work closely with product managers and engineering teams to envision features in the Stripe Dashboard and checkout surfaces and partner with go-to-market teams to bring them to users. That includes new feature development, localization for priority geographies across Europe, the Middle East, and Africa, and setting vision for our products to meet new user expectations in an increasingly globally connected and AI driven world.\n\n Responsibilities \n \n\n• Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs \n\n• Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features \n\n• Prototype user experiences for user research testing and internal communication \n\n• Collaborate with teams across Stripe to craft a seamless dashboard user experience \n\n• Conduct UXR to test design decisions before shipping \n\n• Collaborate with our design systems teams to leverage and improve templates and components \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• Has 6+ years relevant design experience at a product-driven tech company \n\n• Has strong craft demonstrated through a portfolio of work \n\n• Demonstrated skills in prototyping at a high fidelity using the latest AI tools \n\n• Has experience collaborating closely with engineering teams \n\n• Excellent written and verbal communication skills through design deliverables, videos, and written artifacts \n \n Preferred qualifications \n \n\n• Experience working in a growth team driving user activation \n\n• Are excited about building collaborative relationships with many partners \n\n• Has a passion for turning complexity into usable, beautiful experiences \n\n• Are a strong design leader comfortable with bringing your point of view to a team",
+      "responsibilities": [
+        "Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs",
+        "Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features",
+        "Prototype user experiences for user research testing and internal communication",
+        "Collaborate with teams across Stripe to craft a seamless dashboard user experience",
+        "Conduct UXR to test design decisions before shipping",
+        "Collaborate with our design systems teams to leverage and improve templates and components"
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "8811 Product Design",
+        "Ireland Locations"
       ]
     },
     {
@@ -1395,7 +1395,7 @@
       "salary": "$120 - $170 /hour",
       "remote": true,
       "published_at": "2026-05-16T10:16:39",
-      "posted_label": "Posted 11 days ago",
+      "posted_label": "Posted 12 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "summary": "Location: Americas, Europe, or Israel The Opportunity Join A.Team’s invite-only network of senior builders and access exclusive missions with Fortune 500s and top startups.…",
@@ -1467,7 +1467,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-05-15T14:00:51",
-      "posted_label": "Posted 12 days ago",
+      "posted_label": "Posted 13 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711",
       "summary": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
@@ -1505,7 +1505,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-05-15T06:39:07-04:00",
-      "posted_label": "Posted 12 days ago",
+      "posted_label": "Posted 13 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/5995989004?gh_jid=5995989004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/5995989004?gh_jid=5995989004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
@@ -2274,7 +2274,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-04-30T14:11:53",
-      "posted_label": "Posted 27 days ago",
+      "posted_label": "Posted 28 days ago",
       "listing_url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2090002",
       "apply_url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2090002",
       "summary": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
@@ -2970,36 +2970,6 @@
         "Design",
         "Product & Design",
         "Full-time: Remote"
-      ]
-    },
-    {
-      "id": "lever-anchorage-58e201bc-8e06-4eff-9ec1-c7ea8aa0434c",
-      "tier": "expanded",
-      "source": "lever",
-      "source_label": "Lever",
-      "source_type_label": "Direct company board",
-      "title": "Member of Product Design, Digital Assets",
-      "company": "Anchorage",
-      "category": "Product Design",
-      "location": "United States",
-      "work_model": "Remote",
-      "employment_type": "Full-Time - Remote",
-      "salary": "Salary not stated",
-      "remote": true,
-      "published_at": "2025-10-29T11:52:59.920Z",
-      "posted_label": "Posted 7 months ago",
-      "listing_url": "https://jobs.lever.co/anchorage/58e201bc-8e06-4eff-9ec1-c7ea8aa0434c",
-      "apply_url": "https://jobs.lever.co/anchorage/58e201bc-8e06-4eff-9ec1-c7ea8aa0434c/apply",
-      "summary": "At Anchorage Digital, we are building the world’s most advanced digital asset platform for institutions to participate in crypto.…",
-      "description": "At Anchorage Digital, we are building the world’s most advanced digital asset platform for institutions to participate in crypto.\n \nAnchorage Digital is a crypto platform that enables institutions to participate in digital assets through custody, staking, trading, governance, settlement, and the industry's leading security infrastructure. Home to Anchorage Digital Bank N.A., the first federally chartered crypto bank in the U.S., Anchorage Digital also serves institutions through Anchorage Digital Singapore, Porto by Anchorage Digital, and other offerings.\n \nThe company is funded by leading institutions including Andreessen Horowitz, GIC, Goldman Sachs, KKR, and Visa, with its Series D valuation over $3 billion. Founded in 2017 in San Francisco, California, Anchorage Digital has offices in New York, New York; Porto, Portugal; Singapore; and Sioux Falls, South Dakota. Learn more at anchorage.com, on X @Anchorage, and on LinkedIn. \nWith the evolving landscape of digital threats and an increasing volume of sophisticated attacks by malicious actors, we have a security policy mandating all new hires complete an in-person onboarding process - no exceptions. Security is our foundation and we prioritize physical identity verification and secure IT setup. While our security and IT logistics require physical presence to protect our infrastructure from sophisticated global threats, this move is equally about our Village culture. We believe that a laptop can be shipped, but our culture cannot.\n\nProduct Designers at Anchorage Digital develop a deep understanding of the products we build and the problems we solve in order to create new patterns that meld traditional financial workflows with the world of crypto.\n \nWe design solutions to questions with no precedent for institutional users. How do we make the experience of sending funds secure, but also highly efficient? How do we balance the human need for privacy with the open and transparent nature of the blockchain? How do clients express their opinion in on-chain proposals with the newest digital assets?\n \nAs a Member of Product Design, Digital Assets role, you'll join a team of intentional, collaborative, and relentlessly curious designers, shaping the future of finance by redefining how institutions interact with digital assets across custody, banking, trading, and settlement products.\n \nWe have created the Factors of Growth & Impact to help Villagers better measure impact and articulate coaching, feedback, and the rich and rewarding learning that happens while exploring, developing, and mastering the capabilities and contributions within and outside of the Member of Product Design, Digital Assets role:",
-      "responsibilities": [
-        "At Anchorage Digital, we are building the world’s most advanced digital asset platform for institutions to participate in crypto.",
-        "Product Designers at Anchorage Digital develop a deep understanding of the products we build and the problems we solve in order to create new patterns that meld traditional financial workflows with the world of crypto."
-      ],
-      "source_note": "This role is pulled from the company’s public Lever board and links back to the original listing.",
-      "tags": [
-        "Design",
-        "Full-Time - Remote"
       ]
     },
     {
