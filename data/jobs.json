@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T03:34:02.949Z",
+  "generated_at": "2026-06-02T10:14:58.648Z",
   "coverage_label": "Direct company boards + selected market feeds",
   "total_jobs": 83,
   "curated_jobs": 62,
@@ -471,7 +471,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-05-28T05:01:43-04:00",
-      "posted_label": "Posted 4 days ago",
+      "posted_label": "Posted 5 days ago",
       "listing_url": "https://stripe.com/jobs/search?gh_jid=7954118",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=7954118",
       "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
@@ -1608,15 +1608,15 @@
       "posted_label": "Posted 16 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "summary": "Location: Americas, Europe, or Israel The Opportunity Join A.Team’s invite-only network of senior builders and access exclusive missions with Fortune 500s and top startups.…",
-      "description": "Location:  Americas, Europe, or Israel\n\n The Opportunity \n Join A.Team’s invite-only network of senior builders and access exclusive missions with Fortune 500s and top startups. This isn’t client work or employment—it’s a vetted collective where you’re matched to impactful projects. At A.Team, you won’t just implement someone else’s plan. You’ll be the technical decision-maker, owning everything from model design to enterprise integration.\n\n Why A.Team \n \n\n• p]:pt-0 [&>p]:mb-2 [&>p]:my-0\" style=\"\">\n Elite peers : ex-OpenAI, Google, Meta, Amazon.\n\n \n\n• p]:pt-0 [&>p]:mb-2 [&>p]:my-0\" style=\"\">\n Precision matching : Missions in LLMs, CV, NLP, ML infra, fine-tuning.\n\n \n\n• p]:pt-0 [&>p]:mb-2 [&>p]:my-0\" style=\"\">\n Compensation : $120–$170/hr, biweekly payouts, you keep 100%.\n\n \n\n• p]:pt-0 [&>p]:mb-2 [&>p]:my-0\" style=\"\">\n Autonomy : Choose only missions that excite you—no small gigs, no chasing.\n\n \n \n What You’ll Do \n \n\n• p]:pt-0 [&>p]:mb-2 [&>p]:my-0\" style=\"\">\n Lead the design, deployment, and scaling of production AI systems.\n\n \n\n• p]:pt-0 [&>p]:mb-2 [&>p]:my-0\" style=\"\">\n Build ambitious software 0→1 in small, senior teams (3–5 people).\n\n \n\n• p]:pt-0 [&>p]:mb-2 [&>p]:my-0\" style=\"\">\n Scope, propose, and execute solutions with real ownership.\n\n \n\n• p]:pt-0 [&>p]:mb-2 [&>p]:my-0\" style=\"\">\n Partner with founders, CTOs, and product leaders to deliver outcomes that matter.\n\n \n \n Who Thrives Here \n \n\n• p]:pt-0 [&>p]:mb-2 [&>p]:my-0\" style=\"\">\n Senior AI/ML Engineers with production systems live.\n\n \n\n• p]:pt-0 [&>p]:mb-2 [&>p]:my-0\" style=\"\">\n AI Architects who’ve built enterprise AI stacks.\n\n \n\n• p]:pt-0 [&>p]:mb-2 [&>p]:my-0\" style=\"\">\n Tech Leaders balancing architecture with business outcomes.\n\n \n\n• p]:pt-0 [&>p]:mb-2 [&>p]:my-0\" style=\"\">\n Specialists in LLMs, CV, NLP, or infra with proven depth.\n\n \n \n Not a fit : under 4 years’ experience, simple website builders, or small gig seekers.\n\n Proof in the Network \n Your peers have scaled apps to millions, built enterprise AI platforms, shipped AI at unicorns, and deployed infra handling billions/day.\n\n How to Apply \n Apply once at  build.a.team/apply-ai . Short, rigorous process—we care more about what you’ve built than lengthy forms.",
+      "summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder.…",
+      "description": "Senior Independent AI Engineer / Architect \n\n Remote | Americas, Europe, or Israel \n\n \n\n Most AI engineers can find work.\n\n \n\n Finding work worth doing is harder.\n\n \n\n A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies.\n\n \n\n Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others.\n\n \n \n\n The Work \n\n You'll join small teams solving real problems.\n\n \n\n Not demos.\n\n Not proof-of-concepts that never ship.\n\n Not another thin wrapper around an API.\n\n \nRecent work has included:\n\n \n\n \n•  AI-native products built from 0→1 \n• Agent architectures and orchestration systems \n• Enterprise AI deployments \n• Retrieval, evaluation, and reliability infrastructure \n• LLM-powered workflows and products \n• Machine learning platforms operating at scale \n\n You'll work directly with founders, CTOs, and product leaders, helping shape both technical direction and execution.\n\n \n \n\n Why Builders Join \n\n The best opportunities rarely make it to the open market.\n\n \n\n A.Team exists to solve that.\n\n \n\n No bidding.\n\n \n\n No prospecting.\n\n \n\n No race to the bottom.\n\n \n\n Just ambitious companies, difficult problems, and experienced peers.\n\n \n\n Who Thrives Here  \n\n People who have already shipped.\n\n \n\n Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn technical complexity into business value.\n\n \n\n What matters is a track record of building and shipping.\n\n \n\n The Details \n\n \n\n \n• Typical rates: $120-$170/hr \n• Remote \n• You keep 100% of your rate \n\n Not a Fit \n\n \n• Early-career engineers \n• People without production AI experience \n• Small gig seekers \n• Developers focused primarily on simple AI wrappers or templated implementations \n \n\n Apply \n\n Tell us what you've built.\n\n 👉 build.a.team/apply-ai .\n\n We'll take it from there.",
       "responsibilities": [
-        "Location:  Americas, Europe, or Israel",
-        "p]:pt-0 [&>p]:mb-2 [&>p]:my-0\" style=\"\">",
-        "Elite peers : ex-OpenAI, Google, Meta, Amazon.",
-        "Precision matching : Missions in LLMs, CV, NLP, ML infra, fine-tuning.",
-        "Compensation : $120–$170/hr, biweekly payouts, you keep 100%.",
-        "Autonomy : Choose only missions that excite you—no small gigs, no chasing."
+        "Senior Independent AI Engineer / Architect",
+        "Remote | Americas, Europe, or Israel",
+        "Most AI engineers can find work.",
+        "Finding work worth doing is harder.",
+        "A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies.",
+        "Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others."
       ],
       "source_note": "This role is distributed through Remotive and links back to the live source listing for the full application route.",
       "tags": [
@@ -1852,7 +1852,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-05-12T05:16:38-04:00",
-      "posted_label": "Posted 20 days ago",
+      "posted_label": "Posted 21 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/5991320004?gh_jid=5991320004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/5991320004?gh_jid=5991320004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
