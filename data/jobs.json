@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T03:40:44.813Z",
+  "generated_at": "2026-06-03T10:51:04.334Z",
   "coverage_label": "Direct company boards + selected market feeds",
   "total_jobs": 84,
   "curated_jobs": 63,
@@ -539,7 +539,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-05-28T05:01:43-04:00",
-      "posted_label": "Posted 5 days ago",
+      "posted_label": "Posted 6 days ago",
       "listing_url": "https://stripe.com/jobs/search?gh_jid=7954118",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=7954118",
       "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
@@ -1143,40 +1143,6 @@
       ]
     },
     {
-      "id": "greenhouse-stripe-7824008",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Product Designer, Global",
-      "company": "Stripe",
-      "category": "Product Design",
-      "location": "Singapore",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-05-20T16:58:18-04:00",
-      "posted_label": "Posted 13 days ago",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=7824008",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7824008",
-      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
-      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\n About the team \n The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe’s products. Product Designers work directly with Engineers, Product Managers, Data Scientists, and Marketers, as strategic partners, in each product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users love—and want to tell others about.\n\n The Global design team crafts product experiences that make cross-border selling as simple, performant, and scalable as domestic sales. Experiences empower businesses to easily expand into new markets worldwide without the friction of complex global operations, ranging from localized checkout experiences and comprehensive payment method coverage to handling global tax compliance and cross-border money management. Because of its global reach, this team’s efforts drive significant impact for our users and business, particularly in Asia-Pacific's fastest-growing digital economies. \n\n What you’ll do \n As a product designer, you’ll work closely with product managers and engineering teams to envision features in the Stripe Dashboard and checkout surfaces and partner with go-to-market teams to bring them to users. That includes new feature development, localization for priority geographies across Asia-Pacific and emerging markets, and setting vision for our products to meet new user expectations in an increasingly globally connected and AI driven world. You'll bring deep awareness of how businesses and consumers across diverse markets interact with payments and translate that understanding into intuitive, high-quality product experiences.\n\n Responsibilities \n \n\n• Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs \n\n• Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features \n\n• Prototype user experiences for user research testing and internal communication \n\n• Collaborate with teams across Stripe to craft a seamless dashboard user experience \n\n• Conduct UXR to test design decisions before shipping \n\n• Collaborate with our design systems teams to leverage and improve templates and components \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• Has 6+ years relevant design experience at a product-driven tech company \n\n• Has strong craft demonstrated through a portfolio of work \n\n• Demonstrated skills in prototyping at a high fidelity using the latest AI tools \n\n• Has experience collaborating closely with engineering teams \n\n• Excellent written and verbal communication skills through design deliverables, videos, and written artifacts \n \n Preferred qualifications \n \n\n• Experience working in a growth team driving user activation \n\n• Are excited about building collaborative relationships with many partners \n\n• Has a passion for turning complexity into usable, beautiful experiences \n\n• Are a strong design leader comfortable with bringing your point of view to a team",
-      "responsibilities": [
-        "Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs",
-        "Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features",
-        "Prototype user experiences for user research testing and internal communication",
-        "Collaborate with teams across Stripe to craft a seamless dashboard user experience",
-        "Conduct UXR to test design decisions before shipping",
-        "Collaborate with our design systems teams to leverage and improve templates and components"
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "8811 Product Design",
-        "Singapore Locations"
-      ]
-    },
-    {
       "id": "greenhouse-stripe-7861422",
       "tier": "curated",
       "source": "greenhouse",
@@ -1208,6 +1174,40 @@
       "tags": [
         "8811 Product Design",
         "Ireland Locations"
+      ]
+    },
+    {
+      "id": "greenhouse-stripe-7824008",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Product Designer, Global",
+      "company": "Stripe",
+      "category": "Product Design",
+      "location": "Singapore",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-05-20T16:58:18-04:00",
+      "posted_label": "Posted 13 days ago",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=7824008",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7824008",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\n About the team \n The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe’s products. Product Designers work directly with Engineers, Product Managers, Data Scientists, and Marketers, as strategic partners, in each product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users love—and want to tell others about.\n\n The Global design team crafts product experiences that make cross-border selling as simple, performant, and scalable as domestic sales. Experiences empower businesses to easily expand into new markets worldwide without the friction of complex global operations, ranging from localized checkout experiences and comprehensive payment method coverage to handling global tax compliance and cross-border money management. Because of its global reach, this team’s efforts drive significant impact for our users and business, particularly in Asia-Pacific's fastest-growing digital economies. \n\n What you’ll do \n As a product designer, you’ll work closely with product managers and engineering teams to envision features in the Stripe Dashboard and checkout surfaces and partner with go-to-market teams to bring them to users. That includes new feature development, localization for priority geographies across Asia-Pacific and emerging markets, and setting vision for our products to meet new user expectations in an increasingly globally connected and AI driven world. You'll bring deep awareness of how businesses and consumers across diverse markets interact with payments and translate that understanding into intuitive, high-quality product experiences.\n\n Responsibilities \n \n\n• Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs \n\n• Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features \n\n• Prototype user experiences for user research testing and internal communication \n\n• Collaborate with teams across Stripe to craft a seamless dashboard user experience \n\n• Conduct UXR to test design decisions before shipping \n\n• Collaborate with our design systems teams to leverage and improve templates and components \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• Has 6+ years relevant design experience at a product-driven tech company \n\n• Has strong craft demonstrated through a portfolio of work \n\n• Demonstrated skills in prototyping at a high fidelity using the latest AI tools \n\n• Has experience collaborating closely with engineering teams \n\n• Excellent written and verbal communication skills through design deliverables, videos, and written artifacts \n \n Preferred qualifications \n \n\n• Experience working in a growth team driving user activation \n\n• Are excited about building collaborative relationships with many partners \n\n• Has a passion for turning complexity into usable, beautiful experiences \n\n• Are a strong design leader comfortable with bringing your point of view to a team",
+      "responsibilities": [
+        "Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs",
+        "Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features",
+        "Prototype user experiences for user research testing and internal communication",
+        "Collaborate with teams across Stripe to craft a seamless dashboard user experience",
+        "Conduct UXR to test design decisions before shipping",
+        "Collaborate with our design systems teams to leverage and improve templates and components"
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "8811 Product Design",
+        "Singapore Locations"
       ]
     },
     {
@@ -1639,11 +1639,11 @@
       "salary": "$120 - $170 /hour",
       "remote": true,
       "published_at": "2026-05-16T10:16:39",
-      "posted_label": "Posted 17 days ago",
+      "posted_label": "Posted 18 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder.…",
-      "description": "Senior Independent AI Engineer / Architect \n\n Remote | Americas, Europe, or Israel \n\n \n\n Most AI engineers can find work.\n\n \n\n Finding work worth doing is harder.\n\n \n\n A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies.\n\n \n\n Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others.\n\n \n \n\n The Work \n\n You'll join small teams solving real problems.\n\n \n\n Not demos.\n\n Not proof-of-concepts that never ship.\n\n Not another thin wrapper around an API.\n\n \nRecent work has included:\n\n \n\n \n•  AI-native products built from 0→1 \n• Agent architectures and orchestration systems \n• Enterprise AI deployments \n• Retrieval, evaluation, and reliability infrastructure \n• LLM-powered workflows and products \n• Machine learning platforms operating at scale \n\n You'll work directly with founders, CTOs, and product leaders, helping shape both technical direction and execution.\n\n \n \n\n Why Builders Join \n\n The best opportunities rarely make it to the open market.\n\n \n\n A.Team exists to solve that.\n\n \n\n No bidding.\n\n \n\n No prospecting.\n\n \n\n No race to the bottom.\n\n \n\n Just ambitious companies, difficult problems, and experienced peers.\n\n \n\n Who Thrives Here  \n\n People who have already shipped.\n\n \n\n Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn technical complexity into business value.\n\n \n\n What matters is a track record of building and shipping.\n\n \n\n The Details \n\n \n\n \n• Typical rates: $120-$170/hr \n• Remote \n• You keep 100% of your rate \n\n Not a Fit \n\n \n• Early-career engineers \n• People without production AI experience \n• Small gig seekers \n• Developers focused primarily on simple AI wrappers or templated implementations \n \n\n Apply \n\n Tell us what you've built.\n\n 👉 build.a.team/apply-ai .\n\n We'll take it from there.",
+      "description": "Senior Independent AI Engineer / Architect\n\n Remote | Americas, Europe, or Israel \n\n  \n\n Most AI engineers can find work.\n\n  \n\n Finding work worth doing is harder.\n\n  \n\n A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies.\n\n  \n\n Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others.\n\n  \n\n The Work \n\n You'll join small teams solving real problems.\n\n  \n\n Not demos.\n\n Not proof-of-concepts that never ship.\n\n Not another thin wrapper around an API.\n\n \nRecent work has included:\n\n  \n\n \n\n•  AI-native products built from 0→1 \n\n• Agent architectures and orchestration systems \n\n• Enterprise AI deployments \n\n• Retrieval, evaluation, and reliability infrastructure \n\n• LLM-powered workflows and products \n\n• Machine learning platforms operating at scale \n \n  \n\n You'll work directly with founders, CTOs, and product leaders, helping shape both technical direction and execution.\n\n   \n\n Why Builders Join \n\n The best opportunities rarely make it to the open market.\n\n  \n\n A.Team exists to solve that.\n\n  \n\n No bidding.\n\n  \n\n No prospecting.\n\n  \n\n No race to the bottom.\n\n  \n\n Just ambitious companies, difficult problems, and experienced peers.\n\n  \n\n Who Thrives Here \n\n People who have already shipped.\n\n  \n\n Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn technical complexity into business value.\n\n  \n\n What matters is a track record of building and shipping.\n\n  \n\n The Details\n\n  \n\n \n\n• Typical rates: $120-$170/hr \n\n• Remote \n\n• You keep 100% of your rate \n \n  \n\n Not a Fit\n\n \n\n• Early-career engineers \n\n• People without production AI experience \n\n• Small gig seekers \n\n• Developers focused primarily on simple AI wrappers or templated implementations \n \n  \n\n Apply\n\n Tell us what you've built.\n\n 👉 build.a.team/apply-ai .\n\n We'll take it from there.",
       "responsibilities": [
         "Senior Independent AI Engineer / Architect",
         "Remote | Americas, Europe, or Israel",
@@ -1749,7 +1749,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-05-15T06:39:07-04:00",
-      "posted_label": "Posted 18 days ago",
+      "posted_label": "Posted 19 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/5995989004?gh_jid=5995989004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/5995989004?gh_jid=5995989004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
@@ -1886,7 +1886,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-05-12T05:16:38-04:00",
-      "posted_label": "Posted 21 days ago",
+      "posted_label": "Posted 22 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/5991320004?gh_jid=5991320004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/5991320004?gh_jid=5991320004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
