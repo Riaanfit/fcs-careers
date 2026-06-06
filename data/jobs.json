@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-06T02:45:35.208Z",
+  "generated_at": "2026-06-06T08:29:00.109Z",
   "coverage_label": "Direct company boards + selected market feeds",
-  "total_jobs": 85,
+  "total_jobs": 86,
   "curated_jobs": 64,
-  "expanded_jobs": 21,
+  "expanded_jobs": 22,
   "jobs": [
     {
       "id": "greenhouse-stripe-7951146",
@@ -896,6 +896,39 @@
       ]
     },
     {
+      "id": "remotive-1185979",
+      "tier": "expanded",
+      "source": "remotive",
+      "source_label": "Remotive",
+      "source_type_label": "Selected market feed",
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "category": "Motion Design",
+      "location": "Worldwide",
+      "work_model": "Remote",
+      "employment_type": "freelance",
+      "salary": "$50-$75 /hour",
+      "remote": true,
+      "published_at": "2026-06-04T17:00:49",
+      "posted_label": "Posted 1 day ago",
+      "listing_url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "apply_url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "summary": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour).…",
+      "description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics.\n\n  \n\n The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour).\n\n  \n\n Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know):\n\n  \n\n \n\n• Health & beauty \n\n• Fitness \n\n• Home Decor \n\n• Fashion \n\n• Sports \n\n• Do it yourself \n\n• Finance \n\n• Legal \n\n• Medical \n\n• Family/Parenting \n\n• Relationships \n\n• Real Estate \n\n• Restaurants \n\n• Contracting (plumbing, pool building, remodeling, etc.) \n \n  \n\n These are just some of the more general industries and topics that we cover. \n\n  \n\n Requirements : \n\n \n\n• We ask that all work be completed using a word processor such as Microsoft Word or Open Office \n\n• A reliable internet connection and the ability to meet deadlines \n\n• Good communication skills and respond in a timely manner to editorial staff when they ask for updates on tasks, etc \n\n• Work well as a team member with the rest of our content management and editorial staff \n \n \n\n Note : Applicants to this job signaled that accessing some writing tasks may require payment.",
+      "responsibilities": [
+        "Our organization is seeking content writers to create articles and blog posts on a variety of topics.",
+        "The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour).",
+        "Contracting (plumbing, pool building, remodeling, etc.)",
+        "These are just some of the more general industries and topics that we cover.",
+        "We ask that all work be completed using a word processor such as Microsoft Word or Open Office",
+        "A reliable internet connection and the ability to meet deadlines"
+      ],
+      "source_note": "This role is distributed through Remotive and links back to the live source listing for the full application route.",
+      "tags": [
+        "REST"
+      ]
+    },
+    {
       "id": "greenhouse-figma-5971712004",
       "tier": "curated",
       "source": "greenhouse",
@@ -1050,7 +1083,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-06-02T23:04:14-04:00",
-      "posted_label": "Posted 2 days ago",
+      "posted_label": "Posted 3 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/6010954004?gh_jid=6010954004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/6010954004?gh_jid=6010954004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
@@ -1887,7 +1920,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-05-18T23:20:35-04:00",
-      "posted_label": "Posted 17 days ago",
+      "posted_label": "Posted 18 days ago",
       "listing_url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
       "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
       "summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole.…",
@@ -1925,7 +1958,7 @@
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder.…",
-      "description": "Senior Independent AI Engineer / Architect\n\n Remote | Americas, Europe, or Israel \n\n  \n\n Most AI engineers can find work.\n\n  \n\n Finding work worth doing is harder.\n\n  \n\n A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies.\n\n  \n\n Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others.\n\n  \n\n The Work \n\n You'll join small teams solving real problems.\n\n  \n\n Not demos.\n\n Not proof-of-concepts that never ship.\n\n Not another thin wrapper around an API.\n\n \nRecent work has included:\n\n  \n\n \n\n•  AI-native products built from 0→1 \n\n• Agent architectures and orchestration systems \n\n• Enterprise AI deployments \n\n• Retrieval, evaluation, and reliability infrastructure \n\n• LLM-powered workflows and products \n\n• Machine learning platforms operating at scale \n \n  \n\n You'll work directly with founders, CTOs, and product leaders, helping shape both technical direction and execution.\n\n   \n\n Why Builders Join \n\n The best opportunities rarely make it to the open market.\n\n  \n\n A.Team exists to solve that.\n\n  \n\n No bidding.\n\n  \n\n No prospecting.\n\n  \n\n No race to the bottom.\n\n  \n\n Just ambitious companies, difficult problems, and experienced peers.\n\n  \n\n Who Thrives Here \n\n People who have already shipped.\n\n  \n\n Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn technical complexity into business value.\n\n  \n\n What matters is a track record of building and shipping.\n\n  \n\n The Details\n\n  \n\n \n\n• Typical rates: $120-$170/hr \n\n• Remote \n\n• You keep 100% of your rate \n \n  \n\n Not a Fit\n\n \n\n• Early-career engineers \n\n• People without production AI experience \n\n• Small gig seekers \n\n• Developers focused primarily on simple AI wrappers or templated implementations \n \n  \n\n Apply\n\n Tell us what you've built.\n\n 👉 build.a.team/apply-ai .\n\n We'll take it from there.",
+      "description": "Senior Independent AI Engineer / Architect\n\n Remote | Americas, Europe, or Israel \n\n  \n\n Most AI engineers can find work.\n\n  \n\n Finding work worth doing is harder.\n\n  \n\n A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies.\n\n  \n\n Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others.\n\n  \n\n The Work\n\n You'll join small teams solving real problems.\n\n  \n\n Not demos.\n\n Not proof-of-concepts that never ship.\n\n Not another thin wrapper around an API.\n\n \nRecent work has included:\n\n  \n\n \n\n•  AI-native products built from 0→1 \n\n• Agent architectures and orchestration systems \n\n• Enterprise AI deployments \n\n• Retrieval, evaluation, and reliability infrastructure \n\n• LLM-powered workflows and products \n\n• Machine learning platforms operating at scale \n \n  \n\n You'll work directly with founders, CTOs, and product leaders, helping shape both technical direction and execution.\n\n  \n\n Why Builders Join\n\n The best opportunities rarely make it to the open market.\n\n  \n\n A.Team exists to solve that.\n\n  \n\n No bidding.\n\n  \n\n No prospecting.\n\n  \n\n No race to the bottom.\n\n  \n\n Just ambitious companies, difficult problems, and experienced peers.\n\n  \n\n Who Thrives Here \n\n People who have already shipped.\n\n  \n\n Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn technical complexity into business value.\n\n  \n\n What matters is a track record of building and shipping.\n\n  \n\n The Details\n\n  \n\n \n\n• Typical rates: $120-$170/hr \n\n• Remote \n\n• You keep 100% of your rate \n \n  \n\n Not a Fit\n\n \n\n• Early-career engineers \n\n• People without production AI experience \n\n• Small gig seekers \n\n• Developers focused primarily on simple AI wrappers or templated implementations \n \n  \n\n Apply\n\n Tell us what you've built.\n\n 👉 build.a.team/apply-ai .\n\n We'll take it from there.",
       "responsibilities": [
         "Senior Independent AI Engineer / Architect",
         "Remote | Americas, Europe, or Israel",
