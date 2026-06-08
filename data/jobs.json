@@ -1,10 +1,78 @@
 {
-  "generated_at": "2026-06-08T03:34:32.897Z",
+  "generated_at": "2026-06-08T10:29:08.823Z",
   "coverage_label": "Direct company boards + selected market feeds",
   "total_jobs": 86,
   "curated_jobs": 64,
   "expanded_jobs": 22,
   "jobs": [
+    {
+      "id": "greenhouse-stripe-7824008",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Product Designer, Global",
+      "company": "Stripe",
+      "category": "Product Design",
+      "location": "Singapore",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-06-08T05:04:50-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=7824008",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7824008",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n\n About the team \n The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe products. Product designers work directly with engineers, product managers, data scientists, and marketers, as strategic partners, in each product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users love—and want to tell others about.\n\n The Global design team crafts product experiences that make cross-border selling as simple, performant, and scalable as domestic sales. Experiences empower businesses to expand into new markets worldwide without the friction of complex global operations, ranging from localized checkout experiences and comprehensive payment method coverage to handling global tax compliance and cross-border money management. Because of its global reach, this team's efforts drive significant impact for our users and business, particularly in the fastest-growing digital economies in Asia-Pacific.\n\n What you'll do \n As a product designer, you'll work closely with product managers and engineering teams to envision features in the Stripe Dashboard and checkout surfaces and partner with go-to-market teams to bring them to users. That includes new feature development, localization for priority geographies across Asia-Pacific and emerging markets, and setting a vision for our products to meet new user expectations in an increasingly globally connected and AI-driven world. You'll bring deep awareness of how businesses and consumers across diverse markets interact with payments and translate that understanding into intuitive, high-quality product experiences.\n\n Responsibilities \n \n\n• Understand user workflows and pain points, and produce, test, and iterate on high-quality designs to solve user needs. \n\n• Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features. \n\n• Prototype user experiences for user research testing and internal communication. \n\n• Collaborate with teams across Stripe to craft a seamless dashboard user experience. \n\n• Conduct UXR to test design decisions before shipping. \n\n• Collaborate with our design systems teams to leverage and improve templates and components. \n \n Who you are \n We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• 6+ years of relevant design experience at a product-driven tech company \n\n• Strong craft demonstrated through a portfolio of work \n\n• Demonstrated skills in prototyping at high fidelity using the latest AI tools \n\n• Experience collaborating closely with engineering teams \n\n• Excellent written and verbal communication skills through design deliverables, videos, and written artifacts \n \n Preferred qualifications \n \n\n• Experience working in a growth team driving user activation \n\n• Excitement about building collaborative relationships with many partners \n\n• A passion for turning complexity into usable, beautiful experiences \n\n• A strong design leader, comfortable with bringing a point of view to a team",
+      "responsibilities": [
+        "Understand user workflows and pain points, and produce, test, and iterate on high-quality designs to solve user needs.",
+        "Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features.",
+        "Prototype user experiences for user research testing and internal communication.",
+        "Collaborate with teams across Stripe to craft a seamless dashboard user experience.",
+        "Conduct UXR to test design decisions before shipping.",
+        "Collaborate with our design systems teams to leverage and improve templates and components."
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "8811 Product Design",
+        "Singapore Locations"
+      ]
+    },
+    {
+      "id": "greenhouse-stripe-7529428",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Software Engineer, Data & AI",
+      "company": "Stripe",
+      "category": "Product Design",
+      "location": "Bengaluru",
+      "work_model": "Remote",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": true,
+      "published_at": "2026-06-08T00:40:46-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=7529428",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7529428",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n\n About the team \n The Data Foundations team drives Data Engineering and Data Apps and Tooling work across Stripe, enabling Stripe employees to leverage data to make informed decisions and build user-centric products. We provide tools and infrastructure to move, store, process, and analyze data, both at rest and in motion.\n\n Revenue and Finance Automation —The Revenue and Finance Automation (RFA) suite gives businesses power over the entire life cycle of their cash flow. By coordinating billing, tax, reporting, and data services in one modern stack, the Revenue and Finance Automation suite eliminates the inefficiencies of legacy finance tools and supports revenue growth.\n\n Data Engineering Solutions —We are experts in data, working to make it cost-effective, understandable, and trustworthy. We build pipelines processing billions of events a day and are stewards of canonical data warehouses and datasets delivering products for Stripe users while embedding with teams to build their data products. We are experts in using the Stripe Data Platform and to scale we lead the data culture and data education to enable product teams to own their data. We invest in [AI] Data Ops to scale incident handling and serve as an escalation path for data incidents to minimize their impact. The Data Engineering Solutions team will work closely with product teams delivering trustworthy data, backend code, and innovative AI tools, platforms, and services for data.\n\n What you'll do \n As a Software Engineer, you'll design and build platforms and system solutions that are configurable and scalable around the globe. You'll partner with many functions at Stripe, with the opportunity to both work on financial platform systems, as well as direct user-facing business impact.\n\n Responsibilities \n • Design, build, and maintain APIs, services, and systems across engineering teams at Stripe.\n\n • Work with engineers across the company to build new features at large scale.\n\n • Maintain a collaborative environment, engaging in discussions and decision-making processes with stakeholders within various domains at Stripe.\n\n Who you are \n We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n • 4+ years of experience in delivering, extending, and maintaining large-scale distributed systems\n\n • Love to design systems that are elegant abstractions over complex patterns and practices, especially in the financial industry.\n\n • Hold yourself and others to a high bar when working with production systems.\n\n • Take pride in working on projects to successful completion involving a wide variety of technologies and systems.\n\n • Think about systems, services, and platforms, and write high-quality code.\n\n • You have great product taste and a track record of taking complex problems and solving them elegantly.\n\n • You are capable of working in ambiguous, fast-moving environments and have a curiosity to learn the domain to a deep level.\n\n • Enjoy working with a diverse group of people with different expertise.\n\n Preferred qualifications \n • Familiarity with large-scale distributed systems\n\n • Experience working in high-growth teams similar to Stripe",
+      "responsibilities": [
+        "Design, build, and maintain APIs, services, and systems across engineering teams at Stripe.",
+        "Work with engineers across the company to build new features at large scale.",
+        "Maintain a collaborative environment, engaging in discussions and decision-making processes with stakeholders within various domains at Stripe.",
+        "We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.",
+        "Minimum requirements",
+        "4+ years of experience in delivering, extending, and maintaining large-scale distributed systems"
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "8122 Data Foundations",
+        "India Locations"
+      ]
+    },
     {
       "id": "greenhouse-stripe-7587814",
       "tier": "curated",
@@ -1662,40 +1730,6 @@
       ]
     },
     {
-      "id": "greenhouse-stripe-7824008",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Product Designer, Global",
-      "company": "Stripe",
-      "category": "Product Design",
-      "location": "Singapore",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-05-20T16:58:18-04:00",
-      "posted_label": "Posted 18 days ago",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=7824008",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7824008",
-      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
-      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\n About the team \n The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe’s products. Product Designers work directly with Engineers, Product Managers, Data Scientists, and Marketers, as strategic partners, in each product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users love—and want to tell others about.\n\n The Global design team crafts product experiences that make cross-border selling as simple, performant, and scalable as domestic sales. Experiences empower businesses to easily expand into new markets worldwide without the friction of complex global operations, ranging from localized checkout experiences and comprehensive payment method coverage to handling global tax compliance and cross-border money management. Because of its global reach, this team’s efforts drive significant impact for our users and business, particularly in Asia-Pacific's fastest-growing digital economies. \n\n What you’ll do \n As a product designer, you’ll work closely with product managers and engineering teams to envision features in the Stripe Dashboard and checkout surfaces and partner with go-to-market teams to bring them to users. That includes new feature development, localization for priority geographies across Asia-Pacific and emerging markets, and setting vision for our products to meet new user expectations in an increasingly globally connected and AI driven world. You'll bring deep awareness of how businesses and consumers across diverse markets interact with payments and translate that understanding into intuitive, high-quality product experiences.\n\n Responsibilities \n \n\n• Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs \n\n• Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features \n\n• Prototype user experiences for user research testing and internal communication \n\n• Collaborate with teams across Stripe to craft a seamless dashboard user experience \n\n• Conduct UXR to test design decisions before shipping \n\n• Collaborate with our design systems teams to leverage and improve templates and components \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• Has 6+ years relevant design experience at a product-driven tech company \n\n• Has strong craft demonstrated through a portfolio of work \n\n• Demonstrated skills in prototyping at a high fidelity using the latest AI tools \n\n• Has experience collaborating closely with engineering teams \n\n• Excellent written and verbal communication skills through design deliverables, videos, and written artifacts \n \n Preferred qualifications \n \n\n• Experience working in a growth team driving user activation \n\n• Are excited about building collaborative relationships with many partners \n\n• Has a passion for turning complexity into usable, beautiful experiences \n\n• Are a strong design leader comfortable with bringing your point of view to a team",
-      "responsibilities": [
-        "Understand user workflows and pain points, and produce, test and iterate on high quality designs to solve user needs",
-        "Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features",
-        "Prototype user experiences for user research testing and internal communication",
-        "Collaborate with teams across Stripe to craft a seamless dashboard user experience",
-        "Conduct UXR to test design decisions before shipping",
-        "Collaborate with our design systems teams to leverage and improve templates and components"
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "8811 Product Design",
-        "Singapore Locations"
-      ]
-    },
-    {
       "id": "greenhouse-stripe-7663023",
       "tier": "curated",
       "source": "greenhouse",
@@ -1727,40 +1761,6 @@
       "tags": [
         "8811 Product Design",
         "Canada Locations"
-      ]
-    },
-    {
-      "id": "greenhouse-stripe-7529428",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Software Engineer, Data & AI",
-      "company": "Stripe",
-      "category": "Product Design",
-      "location": "Bengaluru",
-      "work_model": "Remote",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": true,
-      "published_at": "2026-05-20T16:58:18-04:00",
-      "posted_label": "Posted 18 days ago",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=7529428",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7529428",
-      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accel…",
-      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n\n About the Organization \n The Data Foundations team drives Data Engineering and Data Apps &amp; Tooling work across Stripe, enabling Stripes to leverage data to make informed decisions and build user-centric products. We provide tools and infrastructure to move, store, process, and analyze data, both at rest and in motion. \n\n \n\n• Revenue and Finance Automation - Revenue and Finance Automation (RFA) suite gives businesses power over the entire life cycle of their cash flow. By coordinating billing, tax, reporting, and data services in one modern stack, Stripe’s revenue and finance automation suite eliminates the inefficiencies of legacy finance tools and supports revenue growth. \n\n• Data Engineering Solutions - We are experts in data, working to make it cost-effective, understandable, and trustworthy. We build pipelines processing billions of events a day and are stewards of canonical data warehouses and datasets delivering products for Stripe Users while embedding with teams to build their data products. We are experts in using the Stripe Data Platform and to scale we lead the data culture and data education to enable product teams to own their data. We invest in [AI] Data Ops to scale incident handling and serve as an escalation path for data incidents to minimize their impact. The Data Engineering Solutions team will work closely with product teams delivering trustworthy data / backend code / and innovative (AI) tools/platforms/services for data.. \n \n What you’ll do \n As a Software Engineer, you will design and build platforms, and system solutions that are configurable and scalable around the globe. You will partner with many functions at Stripe, with the opportunity to both work on financial platform systems, as well as direct user-facing business impact.\n\n Responsibilities \n \n\n• Design, build, and maintain APIs, services, and systems across Stripe’s engineering teams. \n\n• Work with engineers across the company to build new features at large-scale. \n\n• Maintain a collaborative environment, engaging in discussions and decision-making processes with stakeholders within various domains at Stripe. \n \n Who you are \n We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• 4+ years of experience in delivering, extending, and maintaining large scale distributed systems. \n\n• Love to design systems that are elegant abstractions over complex patterns/practices, especially in the financial industry. \n\n• Hold yourself and others to a high bar when working with production systems. \n\n• Take pride in working on projects to successful completion involving a wide variety of technologies and systems. \n\n• Think about systems, services, and platforms, and write high quality code. \n\n• You have great product taste and a track record of taking complex problems and solving them elegantly. \n\n• You are capable of working in ambiguous fast-moving environments and have a curiosity to learn the domain to a deep level. \n\n• Enjoy working with a diverse group of people with different expertise. \n \n Preferred qualifications \n \n\n• Familiarity with large scale distributed systems. \n\n• Experience working in high-growth teams similar to Stripe. \n\n• If you meet the minimum requirements, we encourage you to apply. Preferred qualifications are beneficial but not mandatory.",
-      "responsibilities": [
-        "About the Organization",
-        "Design, build, and maintain APIs, services, and systems across Stripe’s engineering teams.",
-        "Work with engineers across the company to build new features at large-scale.",
-        "Maintain a collaborative environment, engaging in discussions and decision-making processes with stakeholders within various domains at Stripe.",
-        "We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.",
-        "Minimum requirements"
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "8122 Data Foundations",
-        "India Locations"
       ]
     },
     {
@@ -1954,7 +1954,7 @@
       "salary": "$120 - $170 /hour",
       "remote": true,
       "published_at": "2026-05-16T10:16:39",
-      "posted_label": "Posted 22 days ago",
+      "posted_label": "Posted 23 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder.…",
@@ -2201,7 +2201,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-05-12T05:16:38-04:00",
-      "posted_label": "Posted 26 days ago",
+      "posted_label": "Posted 27 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/5991320004?gh_jid=5991320004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/5991320004?gh_jid=5991320004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
