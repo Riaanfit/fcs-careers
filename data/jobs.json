@@ -1,10 +1,78 @@
 {
-  "generated_at": "2026-06-11T03:32:32.050Z",
+  "generated_at": "2026-06-11T10:16:39.324Z",
   "coverage_label": "Direct company boards + selected market feeds",
   "total_jobs": 86,
   "curated_jobs": 65,
   "expanded_jobs": 21,
   "jobs": [
+    {
+      "id": "greenhouse-stripe-7861422",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Product Designer, Global",
+      "company": "Stripe",
+      "category": "Product Design",
+      "location": "Ireland",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-06-11T05:34:43-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=7861422",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7861422",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n\n About the team \n The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe's products. Product Designers work directly with Engineers, Product Managers, Data Scientists, and Marketers, as strategic partners, in each product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users love—and want to tell others about.\n\n The Global design team crafts product experiences that make cross-border selling as simple, performant, and scalable as domestic sales. Experiences empower businesses to easily expand into new markets worldwide without the friction of complex global operations, ranging from localized checkout experiences and comprehensive payment method coverage to handling global tax compliance and cross-border money management. Because of its global reach, this team's efforts drive significant impact for our users and business and navigate the unique challenges of designing for regions with dozens of currencies, languages, and regulatory frameworks.\n\n What you'll do \n As a product designer, you'll work closely with product managers and engineering teams to envision features in the Stripe Dashboard and checkout surfaces and partner with go-to-market teams to bring them to users. That includes new feature development, localization for priority geographies across Europe, the Middle East, and Africa, and setting vision for our products to meet new user expectations in an increasingly globally connected and AI-driven world.\n\n Responsibilities \n \n\n• Understand user workflows and pain points, and produce, test, and iterate on high-quality designs to solve user needs \n\n• Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features \n\n• Prototype user experiences for user research testing and internal communication \n\n• Collaborate with teams across Stripe to craft a seamless dashboard user experience \n\n• Conduct UXR to test design decisions before shipping \n\n• Collaborate with our design systems teams to leverage and improve templates and components \n \n Who you are \n We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• 6+ years of relevant design experience at a product-driven tech company \n\n• Strong craft demonstrated through a portfolio of work \n\n• Demonstrated skills in prototyping at high fidelity using the latest AI tools \n\n• Experience collaborating closely with engineering teams \n\n• Excellent written and verbal communication skills through design deliverables, videos, and written artifacts \n \n Preferred qualifications \n \n\n• Experience working in a growth team driving user activation \n\n• Excited about building collaborative relationships with many partners \n\n• A passion for turning complexity into usable, beautiful experiences \n\n• A strong design leader comfortable bringing your point of view to a team",
+      "responsibilities": [
+        "Understand user workflows and pain points, and produce, test, and iterate on high-quality designs to solve user needs",
+        "Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features",
+        "Prototype user experiences for user research testing and internal communication",
+        "Collaborate with teams across Stripe to craft a seamless dashboard user experience",
+        "Conduct UXR to test design decisions before shipping",
+        "Collaborate with our design systems teams to leverage and improve templates and components"
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "8811 Product Design",
+        "Ireland Locations"
+      ]
+    },
+    {
+      "id": "greenhouse-stripe-7769564",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Brand Designer, Identity",
+      "company": "Stripe",
+      "category": "Product Design",
+      "location": "Spain",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-06-11T04:29:39-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=7769564",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7769564",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n\n About the team \n The Stripe Brand Studio is a multidisciplinary team that accelerates the awareness and trajectory of our brand. We craft the creative vision and strategy for different types of projects and audiences, and amplify them across various mediums, channels, objects to environments, and digital and physical experiences.\n\n The Stripe brand identity team is responsible for defining and evolving Stripe's visual identity, and bringing the Stripe brand to life in new and impactful ways across surfaces. Our goal is to enable the creation of a coherent, high-quality brand experience across the user journey, building recognition and trust in Stripe at every turn. We collaborate with other design systems teams to translate our brand for Stripe.com and Dashboard, and partner with teams across the company on high impact user-facing projects to create work that feels authentic to Stripe at scale.\n\n Responsibilities \n \n\n• Elevate a flexible, world-class brand system that exemplifies Stripe's commitment to craft and beauty across all surfaces \n\n• Architect and evolve a library of assets and templates that empower cross-functional partners to ship brand-aligned work independently \n\n• Define the self-serve roadmap and strategy for how non-design teams create on-brand assets at scale, prioritizing high-leverage AI tools and systems \n\n• Partner directly with the systems team to seamlessly translate foundational brand updates into the broader ecosystem \n\n• Act as the creative lead for external vendors and internal producers to ensure all artifacts meet our rigorous quality standards \n\n• Audit and iterate on asset libraries to identify gaps and build innovative, scalable design solutions \n\n• Stay curious and experimental as an adamant maker, obsessed with tinkering and iterating to create beautiful things \n\n• Shape a strategic vision that pushes brand boundaries and builds internal awareness of design's impact at Stripe \n \n Who you are \n We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• 6+ years of relevant design and art direction experience for technical and product-driven companies \n\n• Strong track record independently delivering work as well as influencing the work of other designers, contractors, and agencies \n\n• Strong track record of cross-functional collaboration across teams and disciplines \n\n• A strong strategic acumen for building leading brands in a fast-paced, global-facing environment \n\n• Proficient in Figma, Adobe Creative Cloud, and Google Slides \n\n• Excellent craft \n \n Preferred qualifications \n \n\n• Are genuinely curious, ambitious, and creative with a refreshing sense of design, impeccable typography skills, digitally savvy and deep appreciation for creative process, technology, and design engineering \n\n• Are persuasive and humble in explaining your work, process, and decisions, and experienced at facilitating stakeholders to advance the project as well as design quality \n\n• Have experience building and prototyping with AI tools \n\n• Have excellent organization and presentation skills, and excel in written and verbal communication \n\n• Love working with other designers to help them learn and grow—and invite them to help you learn and grow",
+      "responsibilities": [
+        "Elevate a flexible, world-class brand system that exemplifies Stripe's commitment to craft and beauty across all surfaces",
+        "Architect and evolve a library of assets and templates that empower cross-functional partners to ship brand-aligned work independently",
+        "Define the self-serve roadmap and strategy for how non-design teams create on-brand assets at scale, prioritizing high-leverage AI tools and systems",
+        "Partner directly with the systems team to seamlessly translate foundational brand updates into the broader ecosystem",
+        "Act as the creative lead for external vendors and internal producers to ensure all artifacts meet our rigorous quality standards",
+        "Audit and iterate on asset libraries to identify gaps and build innovative, scalable design solutions"
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "8113 Brand Studio",
+        "Spain Locations"
+      ]
+    },
     {
       "id": "greenhouse-anthropic-5252781008",
       "tier": "curated",
@@ -71,40 +139,6 @@
       "tags": [
         "2323 Campaigns and Strategy",
         "US"
-      ]
-    },
-    {
-      "id": "greenhouse-stripe-7769564",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Brand Designer, Identity",
-      "company": "Stripe",
-      "category": "Product Design",
-      "location": "Spain",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-06-10T12:02:01-04:00",
-      "posted_label": "Posted today",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=7769564",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7769564",
-      "summary": "Who we are Following our 2025 brand refresh, Stripe's visual identity is evolving to meet the scale of our global ambitions.…",
-      "description": "Who we are \n Following our 2025 brand refresh, Stripe's visual identity is evolving to meet the scale of our global ambitions. To maintain our high bar for craft and beauty while moving at the speed of our product suite, we are looking for a Brand Designer to lead our Self-Serve Design ecosystem.\n\n In this role, you will be the bridge between our core brand identity and its execution across the company. You won't just be building templates. You'll be building a scalable design language that empowers every Stripe to communicate with excellence. This is a high-impact, high-ownership position where you will help define the roadmap for how our brand scales, ensuring that even the most decentralized assets feel cohesive, intentional, and beautiful.\n\n Responsibilities \n \n\n• Elevate a flexible, world-class brand system that exemplifies Stripe's commitment to craft and beauty across all surfaces \n\n• Architect and evolve a library of assets and templates that empower cross-functional partners to ship brand-aligned work independently \n\n• Define the self-serve roadmap and strategy for how non-design teams create on-brand assets at scale, prioritizing high-leverage AI tools and systems \n\n• Partner directly with the systems team to seamlessly translate foundational brand updates into the broader ecosystem \n\n• Act as the creative lead for external vendors and internal producers to ensure all artifacts meet our rigorous quality standards \n\n• Audit and iterate on asset libraries to identify gaps and build innovative, scalable design solutions \n\n• Stay curious and experimental as an adamant maker, obsessed with tinkering and iterating to create beautiful things \n\n• Shape a strategic vision that pushes brand boundaries and builds internal awareness of design's impact at Stripe \n \n Who you are \n We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• 6+ years of relevant design and art direction experience for technical and product-driven companies \n\n• Strong track record independently delivering work as well as influencing the work of other designers, contractors, and agencies \n\n• Strong track record of cross-functional collaboration across teams and disciplines \n\n• A strong strategic acumen for building leading brands in a fast-paced, global-facing environment \n\n• Proficient in Figma, Adobe Creative Cloud, and Google Slides \n\n• Excellent craft \n \n Preferred qualifications \n \n\n• Are genuinely curious, ambitious, and creative with a refreshing sense of design, impeccable typography skills, digitally savvy and deep appreciation for creative process, technology, and design engineering \n\n• Are persuasive and humble in explaining your work, process, and decisions, and experienced at facilitating stakeholders to advance the project as well as design quality \n\n• Have experience building and prototyping with AI tools \n\n• Have excellent organization and presentation skills, and excel in written and verbal communication \n\n• Love working with other designers to help them learn and grow—and invite them to help you learn and grow",
-      "responsibilities": [
-        "Elevate a flexible, world-class brand system that exemplifies Stripe's commitment to craft and beauty across all surfaces",
-        "Architect and evolve a library of assets and templates that empower cross-functional partners to ship brand-aligned work independently",
-        "Define the self-serve roadmap and strategy for how non-design teams create on-brand assets at scale, prioritizing high-leverage AI tools and systems",
-        "Partner directly with the systems team to seamlessly translate foundational brand updates into the broader ecosystem",
-        "Act as the creative lead for external vendors and internal producers to ensure all artifacts meet our rigorous quality standards",
-        "Audit and iterate on asset libraries to identify gaps and build innovative, scalable design solutions"
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "8113 Brand Studio",
-        "Spain Locations"
       ]
     },
     {
@@ -395,7 +429,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-06-08T05:04:50-04:00",
-      "posted_label": "Posted 2 days ago",
+      "posted_label": "Posted 3 days ago",
       "listing_url": "https://stripe.com/jobs/search?gh_jid=7824008",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=7824008",
       "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
@@ -928,40 +962,6 @@
       "tags": [
         "8811 Product Design",
         "United Kingdom Locations"
-      ]
-    },
-    {
-      "id": "greenhouse-stripe-7861422",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Product Designer, Global",
-      "company": "Stripe",
-      "category": "Product Design",
-      "location": "Ireland",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-06-05T13:09:36-04:00",
-      "posted_label": "Posted 5 days ago",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=7861422",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7861422",
-      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
-      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n\n About the team \n The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe's products. Product Designers work directly with Engineers, Product Managers, Data Scientists, and Marketers, as strategic partners, in each product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users love—and want to tell others about.\n\n The Global design team crafts product experiences that make cross-border selling as simple, performant, and scalable as domestic sales. Experiences empower businesses to easily expand into new markets worldwide without the friction of complex global operations, ranging from localized checkout experiences and comprehensive payment method coverage to handling global tax compliance and cross-border money management. Because of its global reach, this team's efforts drive significant impact for our users and business and navigate the unique challenges of designing for regions with dozens of currencies, languages, and regulatory frameworks.\n\n What you'll do \n As a product designer, you'll work closely with product managers and engineering teams to envision features in the Stripe Dashboard and checkout surfaces and partner with go-to-market teams to bring them to users. That includes new feature development, localization for priority geographies across Europe, the Middle East, and Africa, and setting vision for our products to meet new user expectations in an increasingly globally connected and AI-driven world.\n\n Responsibilities \n • Understand user workflows and pain points, and produce, test, and iterate on high-quality designs to solve user needs • Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features • Prototype user experiences for user research testing and internal communication • Collaborate with teams across Stripe to craft a seamless dashboard user experience • Conduct UXR to test design decisions before shipping • Collaborate with our design systems teams to leverage and improve templates and components\n\n Who you are \n We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• 6+ years of relevant design experience at a product-driven tech company \n\n• Strong craft demonstrated through a portfolio of work \n\n• Demonstrated skills in prototyping at high fidelity using the latest AI tools \n\n• Experience collaborating closely with engineering teams \n\n• Excellent written and verbal communication skills through design deliverables, videos, and written artifacts \n \n Preferred qualifications \n \n\n• Experience working in a growth team driving user activation \n\n• Excited about building collaborative relationships with many partners \n\n• A passion for turning complexity into usable, beautiful experiences \n\n• A strong design leader comfortable bringing your point of view to a team",
-      "responsibilities": [
-        "We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.",
-        "Minimum requirements",
-        "6+ years of relevant design experience at a product-driven tech company",
-        "Strong craft demonstrated through a portfolio of work",
-        "Demonstrated skills in prototyping at high fidelity using the latest AI tools",
-        "Experience collaborating closely with engineering teams"
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "8811 Product Design",
-        "Ireland Locations"
       ]
     },
     {
@@ -2223,7 +2223,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-05-12T05:16:38-04:00",
-      "posted_label": "Posted 29 days ago",
+      "posted_label": "Posted 1 month ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/5991320004?gh_jid=5991320004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/5991320004?gh_jid=5991320004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
