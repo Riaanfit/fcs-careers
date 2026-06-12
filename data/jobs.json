@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-12T10:04:27.092Z",
+  "generated_at": "2026-06-12T14:49:45.048Z",
   "coverage_label": "Direct company boards + selected market feeds",
-  "total_jobs": 88,
+  "total_jobs": 89,
   "curated_jobs": 66,
-  "expanded_jobs": 22,
+  "expanded_jobs": 23,
   "jobs": [
     {
       "id": "greenhouse-stripe-7769564",
@@ -294,7 +294,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-06-10T10:55:13.152Z",
-      "posted_label": "Posted 1 day ago",
+      "posted_label": "Posted 2 days ago",
       "listing_url": "https://jobs.lever.co/binance/cc3dde64-30c3-4d91-bf0f-009fd051ce1b",
       "apply_url": "https://jobs.lever.co/binance/cc3dde64-30c3-4d91-bf0f-009fd051ce1b/apply",
       "summary": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users.…",
@@ -1187,7 +1187,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-06-05T10:18:41-04:00",
-      "posted_label": "Posted 6 days ago",
+      "posted_label": "Posted 7 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/6014530004?gh_jid=6014530004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/6014530004?gh_jid=6014530004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
@@ -1394,7 +1394,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-06-03T09:40:30-04:00",
-      "posted_label": "Posted 8 days ago",
+      "posted_label": "Posted 9 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/5692764004?gh_jid=5692764004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/5692764004?gh_jid=5692764004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
@@ -2085,7 +2085,7 @@
       "salary": "$120 - $170 /hour",
       "remote": true,
       "published_at": "2026-05-16T10:16:39",
-      "posted_label": "Posted 26 days ago",
+      "posted_label": "Posted 27 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder.…",
@@ -2157,7 +2157,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-05-15T14:00:51",
-      "posted_label": "Posted 27 days ago",
+      "posted_label": "Posted 28 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711",
       "summary": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
@@ -2195,7 +2195,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-05-15T06:39:07-04:00",
-      "posted_label": "Posted 27 days ago",
+      "posted_label": "Posted 28 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/5995989004?gh_jid=5995989004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/5995989004?gh_jid=5995989004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
@@ -2895,6 +2895,34 @@
       "tags": [
         "Communications",
         "San Francisco, CA"
+      ]
+    },
+    {
+      "id": "lever-binance-e1911b5c-c3ef-4027-9390-01578ece1ffa",
+      "tier": "expanded",
+      "source": "lever",
+      "source_label": "Lever",
+      "source_type_label": "Direct company board",
+      "title": "Senior Graphic Designer - Paid Advertisement",
+      "company": "Binance",
+      "category": "Brand Design",
+      "location": "Southern Europe",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-03-13T16:26:28.897Z",
+      "posted_label": "Posted 3 months ago",
+      "listing_url": "https://jobs.lever.co/binance/e1911b5c-c3ef-4027-9390-01578ece1ffa",
+      "apply_url": "https://jobs.lever.co/binance/e1911b5c-c3ef-4027-9390-01578ece1ffa/apply",
+      "summary": "We’re looking for a Senior graphic designer with strong marketing design skills to join our video team (part of a creative studio) to elevate our brand, social and paid ads video content.…",
+      "description": "We’re looking for a Senior graphic designer with strong marketing design skills to join our video team (part of a creative studio) to elevate our brand, social and paid ads video content.\nBinance is the world’s leading cryptocurrency super app, serving 300+ millions of users globally with a secure platform to trade, invest, and manage digital assets. The Global Creative Team shapes how Binance shows up in the world—developing high-impact campaigns, brand systems and creative assets that communicate innovation, trust, and accessibility at scale.",
+      "responsibilities": [
+        "We’re looking for a Senior graphic designer with strong marketing design skills to join our video team (part of a creative studio) to elevate our brand, social and paid ads video content."
+      ],
+      "source_note": "This role is pulled from the company’s public Lever board and links back to the original listing.",
+      "tags": [
+        "Marketing"
       ]
     },
     {
