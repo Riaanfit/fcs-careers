@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-18T03:31:30.455Z",
-  "coverage_label": "Direct company boards + selected market feeds",
-  "total_jobs": 89,
+  "generated_at": "2026-06-18T10:22:26.097Z",
+  "coverage_label": "Direct company boards",
+  "total_jobs": 84,
   "curated_jobs": 69,
-  "expanded_jobs": 20,
+  "expanded_jobs": 15,
   "jobs": [
     {
       "id": "greenhouse-figma-5691911004",
@@ -1147,7 +1147,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-06-16T02:43:05-04:00",
-      "posted_label": "Posted 1 day ago",
+      "posted_label": "Posted 2 days ago",
       "listing_url": "https://job-boards.greenhouse.io/gusto/jobs/7514758",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7514758",
       "summary": "About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers.…",
@@ -1183,7 +1183,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-06-16T02:12:45-04:00",
-      "posted_label": "Posted 1 day ago",
+      "posted_label": "Posted 2 days ago",
       "listing_url": "https://job-boards.greenhouse.io/gusto/jobs/6625049",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/6625049",
       "summary": "About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers.…",
@@ -1221,7 +1221,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-06-16T02:03:03-04:00",
-      "posted_label": "Posted 1 day ago",
+      "posted_label": "Posted 2 days ago",
       "listing_url": "https://job-boards.greenhouse.io/gusto/jobs/7826328",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7826328",
       "summary": "About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers.…",
@@ -1255,7 +1255,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-06-16T01:53:26-04:00",
-      "posted_label": "Posted 1 day ago",
+      "posted_label": "Posted 2 days ago",
       "listing_url": "https://job-boards.greenhouse.io/gusto/jobs/7676166",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7676166",
       "summary": "About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers.…",
@@ -1289,7 +1289,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-06-16T01:28:05-04:00",
-      "posted_label": "Posted 1 day ago",
+      "posted_label": "Posted 2 days ago",
       "listing_url": "https://job-boards.greenhouse.io/gusto/jobs/7674047",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7674047",
       "summary": "About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers.…",
@@ -1323,7 +1323,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-06-16T01:12:59-04:00",
-      "posted_label": "Posted 1 day ago",
+      "posted_label": "Posted 2 days ago",
       "listing_url": "https://job-boards.greenhouse.io/gusto/jobs/7975460",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7975460",
       "summary": "About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers.…",
@@ -1520,44 +1520,6 @@
       ]
     },
     {
-      "id": "remotive-2090982",
-      "tier": "expanded",
-      "source": "remotive",
-      "source_label": "Remotive",
-      "source_type_label": "Selected market feed",
-      "title": "Senior Data Scientist",
-      "company": "Lemon.io",
-      "category": "3D / Creative Technology",
-      "location": "Americas, Europe, Asia, Oceania",
-      "work_model": "Remote",
-      "employment_type": "full_time",
-      "salary": "Salary not stated",
-      "remote": true,
-      "published_at": "2026-06-11T13:24:37",
-      "posted_label": "Posted 6 days ago",
-      "listing_url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2090982",
-      "apply_url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2090982",
-      "summary": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
-      "description": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.\n\n   \n\n What we offer: \n\n \n\n• The rate depends on your skills and experience. We've already paid out over $11M to our engineers. \n\n• No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. \n\n• Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. \n\n• We respect your seniority so you can expect no micromanagement or screen trackers. \n\n• Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? \n\n• Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. \n \n   \n\n Requirements: \n\n \n\n• \n 4+ years of commercial experience as a Data Scientist\n\n \n\n• \n 3+ years of experience with NumPy/Pandas\n\n \n\n• \n 3+ years of experience with Python\n\n \n\n• \n Experience with AWS, GCP, or Azure is required\n\n \n\n• \n Strong technical skills: as a Senior Data Scientist, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.\n\n \n\n• \n Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.\n\n \n\n• \n Strong self-organizational skills — ability to work full-time remotely with no supervision.\n\n \n\n• \n Reliability — we want to trust you and expect that you won’t let us and the client down.\n\n \n\n• \n Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.\n\n \n \n   \n\n NOT YOUR TECH STACK? \n\n We have multiple projects available for Senior Developers. If you have 4+ years of commercial software development experience and are proficient in any of the following areas: AI Engineering, PHP & Angular, React & Java, Data Science, Blockchain (Web3/Solidity/Solana), React & Python, React & Node, React & Golang, Data Analysis, React & PHP, Symfony, PHP & Vue, Vue & Node.js, DevOps, Android & iOS, Angular & Node.js, Python & Vue, MLOps, Rust, Golang, Shopify & JavaScript, Unreal Engine & C++, Python & LLM, Unity, Vue & Nuxt, Java & Spring, ML Engineering, or Python & Flask — we’d be happy to connect and match you with a suitable project.\n\n  \n\n We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.\n\n \n\n  \n\n We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).",
-      "responsibilities": [
-        "The rate depends on your skills and experience. We've already paid out over $11M to our engineers.",
-        "No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.",
-        "Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.",
-        "We respect your seniority so you can expect no micromanagement or screen trackers.",
-        "Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?",
-        "Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do."
-      ],
-      "source_note": "This role is distributed through Remotive and links back to the live source listing for the full application route.",
-      "tags": [
-        "android",
-        "AWS",
-        "azure",
-        "C++",
-        "data science",
-        "golang"
-      ]
-    },
-    {
       "id": "greenhouse-anthropic-5252781008",
       "tier": "curated",
       "source": "greenhouse",
@@ -1620,44 +1582,6 @@
         "Design",
         "Product & Design",
         "Binance Accelerator Program"
-      ]
-    },
-    {
-      "id": "remotive-1956455",
-      "tier": "expanded",
-      "source": "remotive",
-      "source_label": "Remotive",
-      "source_type_label": "Selected market feed",
-      "title": "iOS Developer",
-      "company": "nooro",
-      "category": "Product Design",
-      "location": "USA",
-      "work_model": "Remote",
-      "employment_type": "full_time",
-      "salary": "$60k-$130k (depending on experience)",
-      "remote": true,
-      "published_at": "2026-06-09T21:15:39",
-      "posted_label": "Posted 8 days ago",
-      "listing_url": "https://remotive.com/remote-jobs/software-development/ios-developer-1956455",
-      "apply_url": "https://remotive.com/remote-jobs/software-development/ios-developer-1956455",
-      "summary": "WHO ARE WE? At nooro, we're revolutionizing pain management for seniors. Our platform is transforming how older adults engage with pain management at home.…",
-      "description": "WHO ARE WE? \n\n  \n\n At nooro, we're revolutionizing pain management for seniors. Our platform is transforming how older adults engage with pain management at home. We're on a mission to make wellness more accessible and effective through technology.\n\n  \n\n Check our website here: https://nooro-us.com/\n\n  \n\n We're a fast-moving startup that works on quick iteration and bold decisions. Our team is lean, agile, and empowered to make meaningful impacts daily. If you enjoy a dynamic environment where ideas become a reality at lightning speed and you're not afraid to wear multiple hats, you'll fit right in.\n\n  \n\n WHAT WILL YOU DO? \n\n  \n\n - Own and drive the development of our iOS application\n\n - Build elegant, performant features using **Swift (We’re 100% Swift!)** and **SwiftUI**\n\n - Implement complex UI/UX designs from **Figma** with pixel-perfect accuracy\n\n - Ensure app performance, quality, and responsiveness\n\n - Collaborate with our backend team on API integration\n\n - Write clean, modular, and reusable code\n\n - Participate in code reviews and architectural decisions\n\n - Help shape our mobile development practices\n\n  \n\n HOW TO APPLY? \n\n  \n\n If you believe we're the right fit, please fill in this form:  https://forms.gle/xeL6pPbdjMHo11A28 \n\n  \n\n WHAT ARE THE REQUIREMENTS? \n\n  \n\n - 5+ years of professional iOS development experience\n\n - Strong expertise in Swift and SwiftUI\n\n - Deep understanding of iOS platform capabilities and limitations\n\n - Experience with iOS app architecture (MVVM preferred)\n\n - Experience with Core Data and local storage solutions\n\n - Proficiency in making RESTful API calls and handling responses\n\n - Experience with dependency injection on iOS\n\n - Strong version control skills with Git/GitHub\n\n - Experience with App Store deployment and TestFlight\n\n - Knowledge of iOS security best practices\n\n  \n\n APPLYING PROCESS \n\n  \n\n STEP 1 | QUESTIONNAIRE: If you believe we're the right fit, please fill in this form:  https://forms.gle/xeL6pPbdjMHo11A28 \n\n  \n\n STEP 2 | TEST: Once we review your form submission, we will send you a test\n\n  \n\n STEP 3 | TECHNICAL INTERVIEW: Once we review your test submission, you will have a call with our development leader\n\n  \n\n STEP 4 | BEHAVIORAL INTERVIEW: After the technical interview, you will have a call with our CEO to talk about the way our company and team members operate in general\n\n  \n\n WHAT DO WE OFFER? \n\n  \n\n - 100% remote work environment\n\n - Competitive compensation\n\n - Opportunity to make a meaningful impact in healthcare technology\n\n - Collaborative, innovative team culture",
-      "responsibilities": [
-        "Check our website here: https://nooro-us.com/",
-        "Own and drive the development of our iOS application",
-        "Build elegant, performant features using **Swift (We’re 100% Swift!)** and **SwiftUI**",
-        "Implement complex UI/UX designs from **Figma** with pixel-perfect accuracy",
-        "Ensure app performance, quality, and responsiveness",
-        "Collaborate with our backend team on API integration"
-      ],
-      "source_note": "This role is distributed through Remotive and links back to the live source listing for the full application route.",
-      "tags": [
-        "api",
-        "backend",
-        "git",
-        "ios",
-        "security",
-        "swift"
       ]
     },
     {
@@ -1728,39 +1652,6 @@
       "tags": [
         "Marketing",
         "US"
-      ]
-    },
-    {
-      "id": "remotive-1185979",
-      "tier": "expanded",
-      "source": "remotive",
-      "source_label": "Remotive",
-      "source_type_label": "Selected market feed",
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "category": "Motion Design",
-      "location": "Worldwide",
-      "work_model": "Remote",
-      "employment_type": "freelance",
-      "salary": "$50-$75 /hour",
-      "remote": true,
-      "published_at": "2026-06-04T17:00:49",
-      "posted_label": "Posted 13 days ago",
-      "listing_url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "apply_url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "summary": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour).…",
-      "description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics.\n\n  \n\n The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour).\n\n  \n\n Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know):\n\n  \n\n \n\n• Health & beauty \n\n• Fitness \n\n• Home Decor \n\n• Fashion \n\n• Sports \n\n• Do it yourself \n\n• Finance \n\n• Legal \n\n• Medical \n\n• Family/Parenting \n\n• Relationships \n\n• Real Estate \n\n• Restaurants \n\n• Contracting (plumbing, pool building, remodeling, etc.) \n \n  \n\n These are just some of the more general industries and topics that we cover. \n\n  \n\n Requirements : \n\n \n\n• We ask that all work be completed using a word processor such as Microsoft Word or Open Office \n\n• A reliable internet connection and the ability to meet deadlines \n\n• Good communication skills and respond in a timely manner to editorial staff when they ask for updates on tasks, etc \n\n• Work well as a team member with the rest of our content management and editorial staff \n \n \n\n Note : Applicants to this job signaled that accessing some writing tasks may require payment.",
-      "responsibilities": [
-        "Our organization is seeking content writers to create articles and blog posts on a variety of topics.",
-        "The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour).",
-        "Contracting (plumbing, pool building, remodeling, etc.)",
-        "These are just some of the more general industries and topics that we cover.",
-        "We ask that all work be completed using a word processor such as Microsoft Word or Open Office",
-        "A reliable internet connection and the ability to meet deadlines"
-      ],
-      "source_note": "This role is distributed through Remotive and links back to the live source listing for the full application route.",
-      "tags": [
-        "REST"
       ]
     },
     {
@@ -2206,44 +2097,6 @@
         "New York City, NY",
         "San Francisco, CA",
         "Seattle, WA"
-      ]
-    },
-    {
-      "id": "remotive-2090887",
-      "tier": "expanded",
-      "source": "remotive",
-      "source_label": "Remotive",
-      "source_type_label": "Selected market feed",
-      "title": "Mid/Senior AI Cinematic Video Editor",
-      "company": "EverAI",
-      "category": "Motion Design",
-      "location": "Worldwide",
-      "work_model": "Remote",
-      "employment_type": "full_time",
-      "salary": "Salary not stated",
-      "remote": true,
-      "published_at": "2026-05-19T20:34:33",
-      "posted_label": "Posted 29 days ago",
-      "listing_url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887",
-      "apply_url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887",
-      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what…",
-      "description": "Our Vision & Products\n\n 🚀 EverAI — Building the Future of AI Companionship \n\n One of the Top 15 Largest & Fastest-Growing AI Companies in the World \n\n 50 Million Users in 2 years — Help Us Reach 100M first, 500M next \n\n At EverAI , we’re shaping what it means to connect with AI. With 50 million users and counting , we're not just building products — we're creating entirely new categories.\n\n Our flagship product is the world’s largest AI companionship platform , redefining relationships for millions. It is governed by our proprietary moderation system, EverGuard — an internal AI designed to ensure everything we build is safe, ethical, and human-first .\n\n And we’re only just getting started! \n\n  \n\n Our Team\n\n We are an enthusiastic, passionate and hardworking team of ≈ 75 people. Our founding team has strong entrepreneurial experience building and scaling web products from 0 to IPO.\n\n   \n\n Alexis Soulopoulos [CEO]\n\n • 10+ years in Tech Executive Leadership \n\n • Co-Founder Mad Paws Holdings (from 0 to IPO) \n\n • Forbes 30 under 30 + Deloitte TechFast50 ’22 & ‘23 \n\n   \n\n Michael Monin [Co-founder & CTO]\n\n • 10+ years as CTO / COO (web2/web3), 1+ year in AI/LLM \n\n • Serial-entrepreneur: MTK Digital (exited / 0->$20m revenue) and Zipchat (AI Chatbot for E-commerce brands) \n\n   \n\n Thomas Lacroix [Co-founder & CMO]\n\n • 8+ years in Customer Acquisition & E-commerce Growth \n\n • Serial-entrepreneur: Curatible (sold to Blackstone) and MTK Digital (exited / 0->$20m revenue) \n\n   \n\n Maruša Fasano [CFO/Legal]\n\n • 25+ years in Finance, Strategy, M&A \n\n • Ex-CFO/M&A @Curatible (exited to Blackstone) \n\n • Ex-President of the Board @SotremoSA (exited) \n\n • Co-founder/CFO @SoftOne (exited) \n\n  \n\n Your Role\n\n We are looking for a Mid/Senior AI Cinematic Video Editor who is deeply embedded in generative video workflows and can independently craft high-quality, narrative-driven content from concept to final output. \n\n You are a sharp-eyed video editor comfortable operating at the intersection of creativity and emerging technology, building visually compelling long-form videos using AI-first pipelines. You take ownership of the entire production stack — from prompting and generation to editing, compositing, graphic design work and final delivery. You thrive in a high-performance environment where your quick wits and passion for story-telling shine.\n\n Reporting to your Content Lead, this is what you'll be doing:\n\n  \n\n Key Responsibilities\n\n \n\n• \n Conceptualise scripts based on current production needs and centred around existing AI characters (our own IPs)\n\n \n\n• \n Create narrative-driven, longform video content , including stylized and explicit NSFW visuals, with a strong focus on storytelling, atmosphere, and visual coherence throughout\n\n \n\n• \n Own and manage end-to-end AI video production workflows , from ideation and prompting to generation, editing, and post-production\n\n \n\n• \n Utilise tools such as Kling, Seedance, Happy Horse and other AI video models/platforms to produce high-quality visual sequences\n\n \n\n• \n Develop and maintain consistent character appearance, style, and scene continuity across longer narratives using advanced techniques\n\n \n\n• \n Integrate motion graphic design and colour correction to deliver cohesive final outputs\n\n \n\n• \n Experiment rapidly with new AI models, tools, and techniques , incorporating them into production workflows and sharing skills with the rest of the team\n\n \n\n• \n Align with your Content Lead’s creative direction while maintaining a high degree of autonomy in execution and technical decision-making \n\n \n\n• \n Continuously refine workflows for efficiency, scalability, and output quality \n\n \n \n  \n\n Your Qualifications\n\n  \n\n Hard Skills\n\n \n\n• \n 4–6+ years of experience in video production, VFX, or digital art , with a strong portfolio (AI-driven video work is a must)\n\n \n\n• \n Hands-on experience with the latest AI video tools and models (e.g., Kling, Seedance, Happy Horse, and similar emerging options)\n\n \n\n• \n Solid understanding of AI image/video generation pipelines , including prompting, batching, consistency techniques, and post-processing\n\n \n\n• \n Experience with traditional tools like Premiere Pro, After Effects or similar for final assembly and polish\n\n \n\n• \n Strong grasp of visual storytelling, pacing, composition, and cinematic language \n\n \n\n• \n Ability to maintain character and scene consistency across sequences in AI-generated content\n\n \n \n  \n\n Soft Skills\n\n 🗣 Strong communication & collaboration skills (fluent in English)\n\n 🎯 High ownership — able to take ideas from concept to completion independently\n\n ⚡️ Experimental mindset — comfortable navigating ambiguity and evolving tools\n\n ⏱️ Fast iteration cycles — able to test, fail, refine, and improve quickly\n\n 🧠 Curious and self-driven — constantly exploring new AI capabilities and workflows\n\n 🧢 Open to feedback and continuous improvement\n\n 🍭 #NSFW — Comfortable working with uncensored models and explicit adult content\n\n  \n\n Bonus Points\n\n \n\n• \n Experience in AI-native storytelling or filmmaking \n\n \n\n• \n Background in 3D, VFX, technical art or as a colourist \n\n \n\n• \n Familiarity with training/customizing models (LoRAs, embeddings, fine-tuning) \n\n \n\n• \n Prior experience in adult, dating, or adjacent creative industries a huge bonus \n\n \n\n• \n Experience with ComfyUI \n\n \n\n• \n Experience with Stable Diffusion / AUTOMATIC1111 and related tooling (Advanced prompting, working with trained LoRAs, refining, upscaling, inpainting etc.)\n\n \n \n  \n\n Why EverAI?\n\n 📈 Exponential Growth : From 50M users in 2 years, to 100M next — and 500M beyond\n\n 🚀 Track Record of Category-Creating Innovation : We consistently launch world-first AI applications — setting the pace, not following it\n\n 🌍 Global Impact : Top-tier user growth, real-world adoption, and cultural relevance\n\n 🧠 Proven Leadership : A senior team that’s launched, scaled, and exited & IPO’d multiple scale ups — now fully focused on reshaping AI companionship\n\n 👥 Elite Remote Team : 100% remote and built to win — world-class talent from Tier 1 tech companies , with a culture of ownership, velocity, and radical creativity\n\n 🛡️ Ethical Core : Our AI ecosystem is governed by EverGuard, our proprietary AI moderation technology , ensuring responsible development at scale\n\n  \n\n What We Offer\n\n ✍️ Contract Type: We prefer B2B, but we’re flexible, what matters is long-term commitment and impact\n📍 Work From Anywhere: Fully remote. Choose the environment where you do your best work\n🏝️ Paid Time Off: 4 weeks (20 working days) of PTO per year to recharge and reset\n👨‍👩‍👧‍👦 Annual Gathering: A yearly in-person meetup to connect, brainstorm, and celebrate wins together\n❤️‍🩹 Health & Wellness Support: Monthly allowance of 100 USD for health insurance expenses + unlimited 1:1 sessions with psychologists and lifestyle experts through OpenUp (also available for up to three family members)\n🏢 Co-Working Space Budget: Work from a co-working space up to twice per month (35 EUR / 40 USD per visit) to stay inspired and connected\n📚 Learning Budget: Dedicated funds to support your professional growth: courses, books, conferences, events, or certifications\n💻 Equipment: Company laptop provided + monitor budget up to 250 USD for your workspace setup\n⚡ AI Tools Access: Premium access to ChatGPT, Cursor, Hugging Face, Claude Code, and any other tool needed to excel at your job, power your ideas and workflows\n\n  \n\n 🎯 Top Tier Talent Is Our Multiplier\n\n We’re a fully remote group of A-players from Tier 1 tech , led by an exec team who’ve launched, scaled, and exited multiple companies . We move fast, and care deeply about what we build — and who we build it with.\n\n We’re looking for exceptional talent ready to ship & distribute world-first AI products at scale, fast, and co-create with us this category-defining business.\n\n If that’s you — reach out and apply!",
-      "responsibilities": [
-        "Our Vision & Products",
-        "🚀 EverAI — Building the Future of AI Companionship",
-        "One of the Top 15 Largest & Fastest-Growing AI Companies in the World",
-        "50 Million Users in 2 years — Help Us Reach 100M first, 500M next",
-        "At EverAI , we’re shaping what it means to connect with AI. With 50 million users and counting , we're not just building products — we're creating entirely new categories.",
-        "And we’re only just getting started!"
-      ],
-      "source_note": "This role is distributed through Remotive and links back to the live source listing for the full application route.",
-      "tags": [
-        "excel",
-        "video",
-        "AI/ML",
-        "customer acquisition",
-        "graphic design",
-        "video production"
       ]
     },
     {
@@ -2887,34 +2740,6 @@
       "tags": [
         "Communications",
         "San Francisco, CA"
-      ]
-    },
-    {
-      "id": "lever-binance-e1911b5c-c3ef-4027-9390-01578ece1ffa",
-      "tier": "expanded",
-      "source": "lever",
-      "source_label": "Lever",
-      "source_type_label": "Direct company board",
-      "title": "Senior Graphic Designer - Paid Advertisement",
-      "company": "Binance",
-      "category": "Brand Design",
-      "location": "Southern Europe",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-03-13T16:26:28.897Z",
-      "posted_label": "Posted 3 months ago",
-      "listing_url": "https://jobs.lever.co/binance/e1911b5c-c3ef-4027-9390-01578ece1ffa",
-      "apply_url": "https://jobs.lever.co/binance/e1911b5c-c3ef-4027-9390-01578ece1ffa/apply",
-      "summary": "We’re looking for a Senior graphic designer with strong marketing design skills to join our video team (part of a creative studio) to elevate our brand, social and paid ads video content.…",
-      "description": "We’re looking for a Senior graphic designer with strong marketing design skills to join our video team (part of a creative studio) to elevate our brand, social and paid ads video content.\nBinance is the world’s leading cryptocurrency super app, serving 300+ millions of users globally with a secure platform to trade, invest, and manage digital assets. The Global Creative Team shapes how Binance shows up in the world—developing high-impact campaigns, brand systems and creative assets that communicate innovation, trust, and accessibility at scale.",
-      "responsibilities": [
-        "We’re looking for a Senior graphic designer with strong marketing design skills to join our video team (part of a creative studio) to elevate our brand, social and paid ads video content."
-      ],
-      "source_note": "This role is pulled from the company’s public Lever board and links back to the original listing.",
-      "tags": [
-        "Marketing"
       ]
     },
     {
