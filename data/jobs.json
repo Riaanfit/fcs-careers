@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-20T08:48:32.144Z",
+  "generated_at": "2026-06-20T13:52:39.725Z",
   "coverage_label": "Direct company boards + selected market feeds",
-  "total_jobs": 89,
+  "total_jobs": 88,
   "curated_jobs": 70,
-  "expanded_jobs": 19,
+  "expanded_jobs": 18,
   "jobs": [
     {
       "id": "greenhouse-stripe-7823683",
@@ -1429,7 +1429,7 @@
       "salary": "$120 - $170 /hour",
       "remote": true,
       "published_at": "2026-06-16T10:16:11",
-      "posted_label": "Posted 3 days ago",
+      "posted_label": "Posted 4 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder.…",
@@ -1640,7 +1640,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-06-11T13:24:37",
-      "posted_label": "Posted 8 days ago",
+      "posted_label": "Posted 9 days ago",
       "listing_url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2090982",
       "apply_url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2090982",
       "summary": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
@@ -1678,7 +1678,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-06-10T10:55:13.152Z",
-      "posted_label": "Posted 9 days ago",
+      "posted_label": "Posted 10 days ago",
       "listing_url": "https://jobs.lever.co/binance/cc3dde64-30c3-4d91-bf0f-009fd051ce1b",
       "apply_url": "https://jobs.lever.co/binance/cc3dde64-30c3-4d91-bf0f-009fd051ce1b/apply",
       "summary": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users.…",
@@ -1850,7 +1850,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-06-03T09:40:30-04:00",
-      "posted_label": "Posted 16 days ago",
+      "posted_label": "Posted 17 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/5692764004?gh_jid=5692764004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/5692764004?gh_jid=5692764004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
@@ -2278,44 +2278,6 @@
         "New York City, NY",
         "San Francisco, CA",
         "Seattle, WA"
-      ]
-    },
-    {
-      "id": "remotive-2090887",
-      "tier": "expanded",
-      "source": "remotive",
-      "source_label": "Remotive",
-      "source_type_label": "Selected market feed",
-      "title": "Mid/Senior AI Cinematic Video Editor",
-      "company": "EverAI",
-      "category": "Motion Design",
-      "location": "Worldwide",
-      "work_model": "Remote",
-      "employment_type": "full_time",
-      "salary": "Salary not stated",
-      "remote": true,
-      "published_at": "2026-05-19T20:34:33",
-      "posted_label": "Posted 1 month ago",
-      "listing_url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887",
-      "apply_url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887",
-      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what…",
-      "description": "Our Vision & Products\n\n 🚀 EverAI — Building the Future of AI Companionship \n\n One of the Top 15 Largest & Fastest-Growing AI Companies in the World \n\n 50 Million Users in 2 years — Help Us Reach 100M first, 500M next \n\n At EverAI , we’re shaping what it means to connect with AI. With 50 million users and counting , we're not just building products — we're creating entirely new categories.\n\n Our flagship product is the world’s largest AI companionship platform , redefining relationships for millions. It is governed by our proprietary moderation system, EverGuard — an internal AI designed to ensure everything we build is safe, ethical, and human-first .\n\n And we’re only just getting started! \n\n  \n\n Our Team\n\n We are an enthusiastic, passionate and hardworking team of ≈ 75 people. Our founding team has strong entrepreneurial experience building and scaling web products from 0 to IPO.\n\n   \n\n Alexis Soulopoulos [CEO]\n\n • 10+ years in Tech Executive Leadership \n\n • Co-Founder Mad Paws Holdings (from 0 to IPO) \n\n • Forbes 30 under 30 + Deloitte TechFast50 ’22 & ‘23 \n\n   \n\n Michael Monin [Co-founder & CTO]\n\n • 10+ years as CTO / COO (web2/web3), 1+ year in AI/LLM \n\n • Serial-entrepreneur: MTK Digital (exited / 0->$20m revenue) and Zipchat (AI Chatbot for E-commerce brands) \n\n   \n\n Thomas Lacroix [Co-founder & CMO]\n\n • 8+ years in Customer Acquisition & E-commerce Growth \n\n • Serial-entrepreneur: Curatible (sold to Blackstone) and MTK Digital (exited / 0->$20m revenue) \n\n   \n\n Maruša Fasano [CFO/Legal]\n\n • 25+ years in Finance, Strategy, M&A \n\n • Ex-CFO/M&A @Curatible (exited to Blackstone) \n\n • Ex-President of the Board @SotremoSA (exited) \n\n • Co-founder/CFO @SoftOne (exited) \n\n  \n\n Your Role\n\n We are looking for a Mid/Senior AI Cinematic Video Editor who is deeply embedded in generative video workflows and can independently craft high-quality, narrative-driven content from concept to final output. \n\n You are a sharp-eyed video editor comfortable operating at the intersection of creativity and emerging technology, building visually compelling long-form videos using AI-first pipelines. You take ownership of the entire production stack — from prompting and generation to editing, compositing, graphic design work and final delivery. You thrive in a high-performance environment where your quick wits and passion for story-telling shine.\n\n Reporting to your Content Lead, this is what you'll be doing:\n\n  \n\n Key Responsibilities\n\n \n\n• \n Conceptualise scripts based on current production needs and centred around existing AI characters (our own IPs)\n\n \n\n• \n Create narrative-driven, longform video content , including stylized and explicit NSFW visuals, with a strong focus on storytelling, atmosphere, and visual coherence throughout\n\n \n\n• \n Own and manage end-to-end AI video production workflows , from ideation and prompting to generation, editing, and post-production\n\n \n\n• \n Utilise tools such as Kling, Seedance, Happy Horse and other AI video models/platforms to produce high-quality visual sequences\n\n \n\n• \n Develop and maintain consistent character appearance, style, and scene continuity across longer narratives using advanced techniques\n\n \n\n• \n Integrate motion graphic design and colour correction to deliver cohesive final outputs\n\n \n\n• \n Experiment rapidly with new AI models, tools, and techniques , incorporating them into production workflows and sharing skills with the rest of the team\n\n \n\n• \n Align with your Content Lead’s creative direction while maintaining a high degree of autonomy in execution and technical decision-making \n\n \n\n• \n Continuously refine workflows for efficiency, scalability, and output quality \n\n \n \n  \n\n Your Qualifications\n\n  \n\n Hard Skills\n\n \n\n• \n 4–6+ years of experience in video production, VFX, or digital art , with a strong portfolio (AI-driven video work is a must)\n\n \n\n• \n Hands-on experience with the latest AI video tools and models (e.g., Kling, Seedance, Happy Horse, and similar emerging options)\n\n \n\n• \n Solid understanding of AI image/video generation pipelines , including prompting, batching, consistency techniques, and post-processing\n\n \n\n• \n Experience with traditional tools like Premiere Pro, After Effects or similar for final assembly and polish\n\n \n\n• \n Strong grasp of visual storytelling, pacing, composition, and cinematic language \n\n \n\n• \n Ability to maintain character and scene consistency across sequences in AI-generated content\n\n \n \n  \n\n Soft Skills\n\n 🗣 Strong communication & collaboration skills (fluent in English)\n\n 🎯 High ownership — able to take ideas from concept to completion independently\n\n ⚡️ Experimental mindset — comfortable navigating ambiguity and evolving tools\n\n ⏱️ Fast iteration cycles — able to test, fail, refine, and improve quickly\n\n 🧠 Curious and self-driven — constantly exploring new AI capabilities and workflows\n\n 🧢 Open to feedback and continuous improvement\n\n 🍭 #NSFW — Comfortable working with uncensored models and explicit adult content\n\n  \n\n Bonus Points\n\n \n\n• \n Experience in AI-native storytelling or filmmaking \n\n \n\n• \n Background in 3D, VFX, technical art or as a colourist \n\n \n\n• \n Familiarity with training/customizing models (LoRAs, embeddings, fine-tuning) \n\n \n\n• \n Prior experience in adult, dating, or adjacent creative industries a huge bonus \n\n \n\n• \n Experience with ComfyUI \n\n \n\n• \n Experience with Stable Diffusion / AUTOMATIC1111 and related tooling (Advanced prompting, working with trained LoRAs, refining, upscaling, inpainting etc.)\n\n \n \n  \n\n Why EverAI?\n\n 📈 Exponential Growth : From 50M users in 2 years, to 100M next — and 500M beyond\n\n 🚀 Track Record of Category-Creating Innovation : We consistently launch world-first AI applications — setting the pace, not following it\n\n 🌍 Global Impact : Top-tier user growth, real-world adoption, and cultural relevance\n\n 🧠 Proven Leadership : A senior team that’s launched, scaled, and exited & IPO’d multiple scale ups — now fully focused on reshaping AI companionship\n\n 👥 Elite Remote Team : 100% remote and built to win — world-class talent from Tier 1 tech companies , with a culture of ownership, velocity, and radical creativity\n\n 🛡️ Ethical Core : Our AI ecosystem is governed by EverGuard, our proprietary AI moderation technology , ensuring responsible development at scale\n\n  \n\n What We Offer\n\n ✍️ Contract Type: We prefer B2B, but we’re flexible, what matters is long-term commitment and impact\n📍 Work From Anywhere: Fully remote. Choose the environment where you do your best work\n🏝️ Paid Time Off: 4 weeks (20 working days) of PTO per year to recharge and reset\n👨‍👩‍👧‍👦 Annual Gathering: A yearly in-person meetup to connect, brainstorm, and celebrate wins together\n❤️‍🩹 Health & Wellness Support: Monthly allowance of 100 USD for health insurance expenses + unlimited 1:1 sessions with psychologists and lifestyle experts through OpenUp (also available for up to three family members)\n🏢 Co-Working Space Budget: Work from a co-working space up to twice per month (35 EUR / 40 USD per visit) to stay inspired and connected\n📚 Learning Budget: Dedicated funds to support your professional growth: courses, books, conferences, events, or certifications\n💻 Equipment: Company laptop provided + monitor budget up to 250 USD for your workspace setup\n⚡ AI Tools Access: Premium access to ChatGPT, Cursor, Hugging Face, Claude Code, and any other tool needed to excel at your job, power your ideas and workflows\n\n  \n\n 🎯 Top Tier Talent Is Our Multiplier\n\n We’re a fully remote group of A-players from Tier 1 tech , led by an exec team who’ve launched, scaled, and exited multiple companies . We move fast, and care deeply about what we build — and who we build it with.\n\n We’re looking for exceptional talent ready to ship & distribute world-first AI products at scale, fast, and co-create with us this category-defining business.\n\n If that’s you — reach out and apply!",
-      "responsibilities": [
-        "Our Vision & Products",
-        "🚀 EverAI — Building the Future of AI Companionship",
-        "One of the Top 15 Largest & Fastest-Growing AI Companies in the World",
-        "50 Million Users in 2 years — Help Us Reach 100M first, 500M next",
-        "At EverAI , we’re shaping what it means to connect with AI. With 50 million users and counting , we're not just building products — we're creating entirely new categories.",
-        "And we’re only just getting started!"
-      ],
-      "source_note": "This role is distributed through Remotive and links back to the live source listing for the full application route.",
-      "tags": [
-        "excel",
-        "video",
-        "AI/ML",
-        "customer acquisition",
-        "graphic design",
-        "video production"
       ]
     },
     {
