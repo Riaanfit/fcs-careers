@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T08:05:04.774Z",
+  "generated_at": "2026-07-16T13:40:40.650Z",
   "coverage_label": "Direct company boards + selected market feeds",
   "total_jobs": 83,
   "curated_jobs": 62,
@@ -122,7 +122,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-07-15T05:30:30-04:00",
-      "posted_label": "Posted today",
+      "posted_label": "Posted 1 day ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/6105678004?gh_jid=6105678004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/6105678004?gh_jid=6105678004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
@@ -620,6 +620,44 @@
       "tags": [
         "2323 Campaigns and Strategy",
         "US"
+      ]
+    },
+    {
+      "id": "remotive-2091067",
+      "tier": "expanded",
+      "source": "remotive",
+      "source_label": "Remotive",
+      "source_type_label": "Selected market feed",
+      "title": "Senior DevOps Engineer",
+      "company": "Lemon.io",
+      "category": "Motion Design",
+      "location": "Americas, Europe, Asia, Africa, Oceania",
+      "work_model": "Remote",
+      "employment_type": "full_time",
+      "salary": "Salary not stated",
+      "remote": true,
+      "published_at": "2026-07-14T14:14:46",
+      "posted_label": "Posted 1 day ago",
+      "listing_url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091067",
+      "apply_url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091067",
+      "summary": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
+      "description": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. \n\n  \n\n What we offer: \n\n \n\n \n\n• The rate depends on your skills and experience. We've already paid out over $11M to our engineers. \n\n• No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. \n\n• Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. \n\n• We respect your seniority so you can expect no micromanagement or screen trackers. \n\n• Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? \n\n• Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. \n \n  \n\n Requirements: \n\n \n\n \n\n• \n 4+ years of experience as a DevOps Engineer\n\n \n\n• \n At least 3 years of experience with Python or Bash\n\n \n\n• \n 3+ years of experience with AWS/GCP/Microsoft Azure/Azure DevOps is required\n\n \n\n• \n Experience in at least 2 commercial projects using Terraform, Kubernetes or SQL is required\n\n \n \n  \n\n \n\n• \n Strong technical skills: as a Senior DevOps, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.\n\n \n\n• \n Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.\n\n \n\n• \n Strong self-organizational skills — ability to work full-time remotely with no supervision.\n\n \n\n• \n Reliability — we want to trust you and expect that you won’t let us and the client down.\n\n \n\n• \n Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.\n\n \n \n  \n\n NOT YOUR TECH STACK? \n\n \n\n We have a variety of projects, so if you have 4+ years of commercial software development experience and are proficient in AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Dart, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue,MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering, we would be happy to connect with you and match you with a project that fits your experience.\n\n  \n\n We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.\n\n \n\n We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).",
+      "responsibilities": [
+        "The rate depends on your skills and experience. We've already paid out over $11M to our engineers.",
+        "No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.",
+        "Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.",
+        "We respect your seniority so you can expect no micromanagement or screen trackers.",
+        "Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?",
+        "Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do."
+      ],
+      "source_note": "This role is distributed through Remotive and links back to the live source listing for the full application route.",
+      "tags": [
+        ".Net",
+        "android",
+        "AWS",
+        "azure",
+        "C",
+        "C#"
       ]
     },
     {
@@ -1215,7 +1253,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-07-02T11:45:47",
-      "posted_label": "Posted 13 days ago",
+      "posted_label": "Posted 14 days ago",
       "listing_url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2090986",
       "apply_url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2090986",
       "summary": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
@@ -1253,7 +1291,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-06-30T04:45:40-04:00",
-      "posted_label": "Posted 15 days ago",
+      "posted_label": "Posted 16 days ago",
       "listing_url": "https://stripe.com/jobs/search?gh_jid=7954118",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=7954118",
       "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
@@ -1287,7 +1325,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-06-30T04:40:33-04:00",
-      "posted_label": "Posted 15 days ago",
+      "posted_label": "Posted 16 days ago",
       "listing_url": "https://stripe.com/jobs/search?gh_jid=8008405",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=8008405",
       "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
@@ -1939,7 +1977,7 @@
       "salary": "$30k - $100k",
       "remote": true,
       "published_at": "2026-06-24T11:41:57",
-      "posted_label": "Posted 21 days ago",
+      "posted_label": "Posted 22 days ago",
       "listing_url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2091035",
       "apply_url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2091035",
       "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what…",
@@ -1977,7 +2015,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-06-24T09:57:46",
-      "posted_label": "Posted 21 days ago",
+      "posted_label": "Posted 22 days ago",
       "listing_url": "https://remotive.com/remote-jobs/product/senior-product-manager-2090984",
       "apply_url": "https://remotive.com/remote-jobs/product/senior-product-manager-2090984",
       "summary": "Are you a talented Senior Product Manager looking for a remote job where you can showcase your skills and earn competitive compensation? Look no further than Lemon.io — a marketplace that connects you with hand-picked startups in the US and…",
@@ -2101,44 +2139,6 @@
       "tags": [
         "Product",
         "US"
-      ]
-    },
-    {
-      "id": "remotive-1919266",
-      "tier": "expanded",
-      "source": "remotive",
-      "source_label": "Remotive",
-      "source_type_label": "Selected market feed",
-      "title": "Senior Independent AI Engineer / Architect",
-      "company": "A.Team",
-      "category": "Product Design",
-      "location": "Americas, Europe, Israel",
-      "work_model": "Remote",
-      "employment_type": "contract",
-      "salary": "$120 - $170 /hour",
-      "remote": true,
-      "published_at": "2026-06-16T10:16:11",
-      "posted_label": "Posted 29 days ago",
-      "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder.…",
-      "description": "Senior Independent AI Engineer / Architect\n\n Remote | Americas, Europe, or Israel \n\n  \n\n Most AI engineers can find work.\n\n  \n\n Finding work worth doing is harder.\n\n  \n\n A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies.\n\n  \n\n Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others.\n\n  \n\n The Work\n\n You'll join small teams solving real problems.\n\n  \n\n Not demos.\n\n Not proof-of-concepts that never ship.\n\n Not another thin wrapper around an API.\n\n \nRecent work has included:\n\n  \n\n \n\n•  AI-native products built from 0→1 \n\n• Agent architectures and orchestration systems \n\n• Enterprise AI deployments \n\n• Retrieval, evaluation, and reliability infrastructure \n\n• LLM-powered workflows and products \n\n• Machine learning platforms operating at scale \n \n  \n\n You'll work directly with founders, CTOs, and product leaders, helping shape both technical direction and execution.\n\n  \n\n Why Builders Join\n\n The best opportunities rarely make it to the open market.\n\n  \n\n A.Team exists to solve that.\n\n  \n\n No bidding.\n\n  \n\n No prospecting.\n\n  \n\n No race to the bottom.\n\n  \n\n Just ambitious companies, difficult problems, and experienced peers.\n\n  \n\n Who Thrives Here \n\n People who have already shipped.\n\n  \n\n Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn technical complexity into business value.\n\n  \n\n What matters is a track record of building and shipping.\n\n  \n\n The Details\n\n  \n\n \n\n• Typical rates: $120-$170/hr \n\n• Remote \n\n• You keep 100% of your rate \n \n  \n\n Not a Fit\n\n \n\n• Early-career engineers \n\n• People without production AI experience \n\n• Small gig seekers \n\n• Developers focused primarily on simple AI wrappers or templated implementations \n \n  \n\n Apply\n\n Tell us what you've built.\n\n 👉 build.a.team/apply-ai .\n\n We'll take it from there.",
-      "responsibilities": [
-        "Senior Independent AI Engineer / Architect",
-        "Remote | Americas, Europe, or Israel",
-        "Most AI engineers can find work.",
-        "Finding work worth doing is harder.",
-        "A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies.",
-        "Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others."
-      ],
-      "source_note": "This role is distributed through Remotive and links back to the live source listing for the full application route.",
-      "tags": [
-        "go",
-        "UI/UX",
-        "wordpress",
-        "chat",
-        "apple",
-        "testing"
       ]
     },
     {
