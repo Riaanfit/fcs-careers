@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21T08:20:17.751Z",
+  "generated_at": "2026-07-21T13:28:48.984Z",
   "coverage_label": "Direct company boards + selected market feeds",
-  "total_jobs": 88,
-  "curated_jobs": 65,
+  "total_jobs": 86,
+  "curated_jobs": 63,
   "expanded_jobs": 23,
   "jobs": [
     {
@@ -280,40 +280,6 @@
         "United States - Denver, CO",
         "United States - New York, NY",
         "United States - San Francisco, CA"
-      ]
-    },
-    {
-      "id": "greenhouse-anthropic-5305402008",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Software Engineer, Web Platform",
-      "company": "Anthropic",
-      "category": "Product Design",
-      "location": "San Francisco, CA",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-07-19T10:58:02-04:00",
-      "posted_label": "Posted 1 day ago",
-      "listing_url": "https://job-boards.greenhouse.io/anthropic/jobs/5305402008",
-      "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5305402008",
-      "summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole.…",
-      "description": "About Anthropic \n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n\n About the role \n Claude.ai is Anthropic's flagship consumer product, spanning web, mobile, desktop, and browser extensions—and it's growing fast. The Web Platform team owns the foundational layer that makes all of this possible: the shared infrastructure, components, APIs, and tooling that let every other product team at Anthropic ship quickly, reliably, and with confidence.\n\n As a Software Engineer on this team, you'll be hands-on building the platform that other engineers depend on every day. This means designing and shipping shared components and design-system-level abstractions, evolving the backend-for-frontend (BFF) APIs that power our client applications, and improving the build, deploy, and observability systems that keep Claude.ai running smoothly across surfaces. Your work will directly shape how fast teams across Anthropic can innovate—and how stable their experiences are when they do.\n\n This is a great fit if you care deeply about developer experience and want your engineering work to have outsized leverage: instead of shipping one feature, you're building the tools and systems that make dozens of features possible.\n\n Key responsibilities \n \n\n• Improve developer velocity across the organization by reducing friction in our build, deploy, and testing pipelines \n\n• Work on performance and reliability: identify and resolve latency issues, improve observability, and help establish high standards that the rest of the platform team can build on \n\n• Design and build shared UI components, libraries, and abstractions that product teams across Anthropic use to ship consistently and efficiently on web and mobile \n\n• Partner closely with product engineering teams to understand their needs, unblock them when possible, and shape platform investments around where the most impact is \n\n• Help maintain and evolve documentation and tooling that make the platform approachable for engineers joining or building on top of it \n \n Minimum qualifications \n \n\n• Have strong practical skills in modern web technologies (React, TypeScript or comparable frameworks) and experience designing or consuming APIs that serve frontend applications \n\n• Care about developer experience and have a track record of building things that make other engineers more productive \n\n• Have solid instincts around reliability, observability, and performance—and enjoy operationalizing those instincts in production systems \n\n• Thrive in fast-paced, collaborative environments and enjoy working closely with cross-functional partners \n\n• Pick up slack, even if it goes outside your job description \n \n Preferred qualifications \n \n\n• Have 5+ years of software engineering experience, with significant time spent building shared platforms, developer tools, or infrastructure that other engineers rely on \n\n• Building shared component libraries, design systems or reusable UI infrastructure \n\n• API design and and client-server architecture patterns that balance flexibility with consistency across client platforms \n\n• Performance optimization and latency reduction in production web applications \n\n• CI/CD, build systems, and/or deployment automation \n\n• Observability and monitoring (e.g. metrics, logging, tracing) \n The annual compensation range for this role is listed below. \n\n For sales roles, the range provided is the role’s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.\n\n Annual Salary: $320,000 &mdash; $405,000 USD Logistics \n Minimum education: Bachelor’s degree or an equivalent combination of education, training, and/or experience\n\n Required field of study: A field relevant to the role as demonstrated through coursework, training, or professional experience\n\n Minimum years of experience: Years of experience required will correlate with the internal job level requirements for the position\n\n Location-based hybrid policy: Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.\n\n Visa sponsorship: We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.\n\n We encourage you to apply even if you do not believe you meet every single qualification. Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.\n\n Your safety matters to us. To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings.\n\n How we're different \n We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.\n\n The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.\n\n Come work with us! \n Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. Guidance on Candidates' AI Usage: Learn about our policy for using AI in our application process.",
-      "responsibilities": [
-        "Key responsibilities",
-        "Improve developer velocity across the organization by reducing friction in our build, deploy, and testing pipelines",
-        "Work on performance and reliability: identify and resolve latency issues, improve observability, and help establish high standards that the rest of the platform team can build on",
-        "Design and build shared UI components, libraries, and abstractions that product teams across Anthropic use to ship consistently and efficiently on web and mobile",
-        "Partner closely with product engineering teams to understand their needs, unblock them when possible, and shape platform investments around where the most impact is",
-        "Help maintain and evolve documentation and tooling that make the platform approachable for engineers joining or building on top of it"
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "Engineering & Design - Product",
-        "San Francisco, CA"
       ]
     },
     {
@@ -1228,7 +1194,7 @@
       "salary": "$120 - $170 /hour",
       "remote": true,
       "published_at": "2026-07-16T10:10:45",
-      "posted_label": "Posted 4 days ago",
+      "posted_label": "Posted 5 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder.…",
@@ -2046,7 +2012,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-07-02T11:45:47",
-      "posted_label": "Posted 18 days ago",
+      "posted_label": "Posted 19 days ago",
       "listing_url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2090986",
       "apply_url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2090986",
       "summary": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
@@ -2084,7 +2050,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-06-30T04:45:40-04:00",
-      "posted_label": "Posted 20 days ago",
+      "posted_label": "Posted 21 days ago",
       "listing_url": "https://stripe.com/jobs/search?gh_jid=7954118",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=7954118",
       "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
@@ -2118,7 +2084,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-06-30T04:40:33-04:00",
-      "posted_label": "Posted 20 days ago",
+      "posted_label": "Posted 21 days ago",
       "listing_url": "https://stripe.com/jobs/search?gh_jid=8008405",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=8008405",
       "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
@@ -2410,40 +2376,6 @@
       ]
     },
     {
-      "id": "greenhouse-stripe-7746721",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Staff Frontend Engineer, Stripe Dashboard",
-      "company": "Stripe",
-      "category": "Product Design",
-      "location": "Seattle",
-      "work_model": "Remote",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": true,
-      "published_at": "2026-06-26T17:05:35-04:00",
-      "posted_label": "Posted 24 days ago",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=7746721",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7746721",
-      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
-      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n\n About the team \n The Merchant Experience team builds the UI operating system and core experiences that power decades of growth for millions of businesses globally, enabling Stripe to be the business SaaS solution of choice for next-gen companies. We own the foundational platforms and product surfaces that merchants interact with every day—from the Stripe Dashboard to the frameworks and tooling that hundreds of Stripe engineers use to build world-class user interfaces.\n\n We're at an inflection point. AI is fundamentally changing how users interact with software, and we believe Stripe is uniquely positioned to reimagine what a merchant experience looks like in an AI-native world. At the same time, we're raising the bar on the quality and performance of everything we ship—because the millions of businesses that depend on Stripe deserve an experience that is fast, reliable, and crafted with care.\n\n What you'll do \n As a Senior Staff Engineer on the Merchant Experience team, you'll be a technical leader responsible for shaping the next generation of how Stripe merchants interact with our products. You'll drive a step-function improvement in the quality and performance of our core surfaces, and help define what AI-powered merchant experiences look like at Stripe.\n\n Responsibilities \n \n\n• Define technical strategy for merchant-facing experiences across Stripe, with a focus on quality, performance, and the integration of AI into core user workflows \n\n• Lead the design and delivery of complex, cross-team projects that measurably improve the reliability, responsiveness, and polish of Stripe merchant surfaces \n\n• Champion a quality-first engineering culture—establish standards, tooling, and processes that make it easy to ship high-quality, performant UI by default \n\n• Drive performance as a product feature—own the technical approach to making the Dashboard and merchant tools best-in-class in speed and responsiveness, including instrumentation, budgets, and architectural improvements \n\n• Innovate on the future of merchant UX—explore and prototype how AI can transform the way merchants discover, configure, and operate Stripe products, moving beyond traditional dashboard paradigms \n\n• Build platforms and abstractions that make Stripe engineers more productive—frameworks, components, and developer tools that encode best practices for quality and performance \n\n• Partner across Stripe with Product, Design, AI and ML, and infrastructure teams to translate high-level product vision into a concrete technical roadmap \n\n• Mentor and grow engineers across the organization, raising the technical bar and fostering a culture of craftsmanship and high standards \n \n Who you are \n We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• This is a Senior Staff role—the expected scope of this role includes overseeing the work of 4-6 teams and owning an entire portfolio of products—and while there's no strict minimum we're looking for, most candidates will have at least 10-15 years of experience in the industry \n\n• Experience building and shipping complex, user-facing web applications that have reached large-scale audiences (hundreds of thousands of users) or have been contributed to by hundreds of engineers \n\n• A track record of leading large-scale, cross-functional engineering projects with broad organizational impact \n\n• Deep expertise in modern frontend and full-stack development—you have strong opinions on what makes a great user experience and the technical skills to make it real \n\n• Demonstrated ability to drive measurable improvements in software quality and performance (e.g., load times, reliability, test coverage, error rates) \n\n• Experience influencing technical direction and driving alignment across multiple teams without formal authority \n\n• Excellent communication skills—you can articulate a compelling technical vision to engineers, product leaders, and executives alike \n \n Preferred qualifications \n \n\n• Experience building or maintaining design systems, component libraries, or frontend platform infrastructure at scale—ideally with React \n\n• A deep interest in the intersection of AI and UX—you think critically about how emerging technologies change interaction models and are excited to pioneer new paradigms \n\n• Experience with performance engineering, including profiling, instrumentation, budgeting, and optimization of modern web applications \n\n• Experience with the complexities of deploying large web applications at global scale—bundling, CDNs, browser compatibility, and build tooling \n\n• Comfort working across the full stack—while this role skews frontend, you're not afraid to dive into APIs, backend services, or data layers when that's what the problem requires \n\n• Familiarity with distributed systems, API design, and building platforms that serve both internal developers and external users \n\n• A passion for developer experience and making other engineers more productive \n\n• Experience mentoring senior engineers and contributing to engineering culture and hiring \n\n• Hands-on experience integrating AI-powered capabilities into user-facing products—you've helped ship features that make complex workflows simpler and more intelligent",
-      "responsibilities": [
-        "Define technical strategy for merchant-facing experiences across Stripe, with a focus on quality, performance, and the integration of AI into core user workflows",
-        "Lead the design and delivery of complex, cross-team projects that measurably improve the reliability, responsiveness, and polish of Stripe merchant surfaces",
-        "Champion a quality-first engineering culture—establish standards, tooling, and processes that make it easy to ship high-quality, performant UI by default",
-        "Drive performance as a product feature—own the technical approach to making the Dashboard and merchant tools best-in-class in speed and responsiveness, including instrumentation, budgets, and architectural improvements",
-        "Innovate on the future of merchant UX—explore and prototype how AI can transform the way merchants discover, configure, and operate Stripe products, moving beyond traditional dashboard paradigms",
-        "Build platforms and abstractions that make Stripe engineers more productive—frameworks, components, and developer tools that encode best practices for quality and performance"
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "8414 MerchantXP - Eng",
-        "US"
-      ]
-    },
-    {
       "id": "greenhouse-stripe-7568117",
       "tier": "curated",
       "source": "greenhouse",
@@ -2666,7 +2598,7 @@
       "salary": "$30k - $100k",
       "remote": true,
       "published_at": "2026-06-24T11:41:57",
-      "posted_label": "Posted 26 days ago",
+      "posted_label": "Posted 27 days ago",
       "listing_url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2091035",
       "apply_url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2091035",
       "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what…",
@@ -2704,7 +2636,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-06-24T09:57:46",
-      "posted_label": "Posted 26 days ago",
+      "posted_label": "Posted 27 days ago",
       "listing_url": "https://remotive.com/remote-jobs/product/senior-product-manager-2090984",
       "apply_url": "https://remotive.com/remote-jobs/product/senior-product-manager-2090984",
       "summary": "Are you a talented Senior Product Manager looking for a remote job where you can showcase your skills and earn competitive compensation? Look no further than Lemon.io — a marketplace that connects you with hand-picked startups in the US and…",
