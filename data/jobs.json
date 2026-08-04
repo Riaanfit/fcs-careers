@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-04T02:05:16.745Z",
+  "generated_at": "2026-08-04T08:29:22.914Z",
   "coverage_label": "Direct company boards + selected market feeds",
-  "total_jobs": 89,
+  "total_jobs": 88,
   "curated_jobs": 70,
-  "expanded_jobs": 19,
+  "expanded_jobs": 18,
   "jobs": [
     {
       "id": "greenhouse-anthropic-5258579008",
@@ -2670,7 +2670,7 @@
       "salary": "$150k - $230k",
       "remote": true,
       "published_at": "2026-07-16T08:06:41",
-      "posted_label": "Posted 18 days ago",
+      "posted_label": "Posted 19 days ago",
       "listing_url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
       "apply_url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
       "summary": "We are hiring a Head of Marketing & Communications to tell the garden3d story across the internet, from wherever in the world you happen to be.…",
@@ -2790,34 +2790,6 @@
       "tags": [
         "Engineering",
         "United States - San Francisco, CA"
-      ]
-    },
-    {
-      "id": "lever-binance-5fde593f-16f8-4e2c-bb50-b4ad990b0026",
-      "tier": "expanded",
-      "source": "lever",
-      "source_label": "Lever",
-      "source_type_label": "Direct company board",
-      "title": "UI/UX Designer(6 months Contract)",
-      "company": "Binance",
-      "category": "Product Design",
-      "location": "Asia",
-      "work_model": "Remote",
-      "employment_type": "Full-time: Remote",
-      "salary": "Salary not stated",
-      "remote": true,
-      "published_at": "2026-07-09T07:51:33.266Z",
-      "posted_label": "Posted 25 days ago",
-      "listing_url": "https://jobs.lever.co/binance/5fde593f-16f8-4e2c-bb50-b4ad990b0026",
-      "apply_url": "https://jobs.lever.co/binance/5fde593f-16f8-4e2c-bb50-b4ad990b0026/apply",
-      "summary": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users.…",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.",
-      "responsibilities": [],
-      "source_note": "This role is pulled from the company’s public Lever board and links back to the original listing.",
-      "tags": [
-        "Design",
-        "Product & Design",
-        "Full-time: Remote"
       ]
     },
     {
