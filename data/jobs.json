@@ -1,10 +1,44 @@
 {
-  "generated_at": "2026-08-05T02:04:22.475Z",
+  "generated_at": "2026-08-05T08:28:07.708Z",
   "coverage_label": "Direct company boards + selected market feeds",
   "total_jobs": 88,
   "curated_jobs": 71,
   "expanded_jobs": 17,
   "jobs": [
+    {
+      "id": "greenhouse-stripe-8001909",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Creative Director, Event Design",
+      "company": "Stripe",
+      "category": "Creative Direction",
+      "location": "US",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-08-04T22:25:10-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=8001909",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8001909",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n\n About the team \n Brand Studio lays the foundations that help Stripe accelerate. We do this by creating, evolving, and maintaining Stripe's high-quality, versatile, and forward-looking brand design systems, experiences, and advertising campaigns. We sweat the details. We make it seem effortless. The Experiential team is responsible for bringing Stripe's brand to life in the real world—from flagship events and industry conferences to internal summits and curated partner experiences. This is a team that operates at the intersection of creativity, strategy, and production.\n\n What you'll do \n As Creative Director, Event Design, you will lead a team of talented designers and set the creative direction for all of Stripe's event and experience design. You are an inspiring leader and a sharp creative director—someone who can zoom out to define a cohesive creative vision, and zoom in to give precise, actionable feedback. You partner closely with event marketers, brand leaders, producers, and executive stakeholders to ensure every Stripe experience is cohesive, intentional, and unmistakably on-brand. You care deeply about your team's craft, their growth, and the culture they work within.\n\n Responsibilities: \n \n\n• Lead, manage, and grow a team of brand and experiential designers—setting clear expectations, fostering a culture of craft, and creating an environment where designers do their best work \n\n• Own the creative direction for Stripe's experiential design output: event design systems, digital and environmental graphics, keynote design concepting, and brand activations \n\n• Partner with the Experiential Creative Director and Brand Studio leadership to define the strategic creative vision for how Stripe shows up in the world \n\n• Champion creative quality—establish and maintain a high bar across all deliverables, from concept through execution \n\n• Build and evolve Stripe's experiential design system: scalable standards, templates, and creative frameworks that work globally across teams and events \n\n• Oversee relationships with external agencies, contractors, production studios, and vendor partners—aligning on creative direction and ensuring quality delivery \n\n• Collaborate cross-functionally with corporate events and product marketing, product design, brand design, and executive communications teams \n\n• Recruit, hire, and onboard design talent to build out the team as the function grows \n\n• Develop direct reports through regular 1:1s, structured feedback, career development conversations, and thoughtful performance calibration \n\n• Represent the Experiential design function in leadership forums and cross-functional planning processes \n \n Requirements: \n \n\n• 10+ years of relevant design experience, including 3+ years managing and growing a team of designers \n\n• Proven track record of creative direction for high-profile brand design and experiences, and events at a global scale \n\n• Strong people leadership skills—you have developed design talent, navigated performance challenges, and built healthy, high-output teams \n\n• Deep understanding of experiential design: environmental graphics, stage and scenic design, digital/physical brand integration, wayfinding, and event identity systems \n\n• Ability to design and art direct across a wide range of surface areas (digital, physical, motion, communication) and tooling (Figma, Keynote, Adobe Creative Cloud, and AI tools) \n\n• Strong executive presence—you can present and defend creative decisions to senior leaders with confidence and clarity \n\n• Ability to simultaneously manage creative quality and team health—you know when to coach, when to redirect, and when to roll up your sleeves \n\n• Systems-thinking approach with a track record of building scalable creative frameworks and extending shared patterns across a global brand \n\n• Experience managing agency relationships and large-scale external production partners \n\n• Strong track record of influencing without authority across marketing, product, and executive stakeholders \n\n• Ability to balance creative ambition and operational rigor, consistently shipping world-class work on deadline and on budget \n\n• Persuasive and humble, with a drive to seek feedback, and model the creative and collaborative behaviors that make great teams \n\n• Excellent communication and presentation skills—equally comfortable writing a creative brief and presenting work to a range of stakeholders \n\n• Highly detail-oriented, with a drive for perfection in every experience you ship \n\n• Passionate about Stripe's mission, dedicated to a user-first mindset, and grounded in data and business context",
+      "responsibilities": [
+        "Lead, manage, and grow a team of brand and experiential designers—setting clear expectations, fostering a culture of craft, and creating an environment where designers do their best work",
+        "Own the creative direction for Stripe's experiential design output: event design systems, digital and environmental graphics, keynote design concepting, and brand activations",
+        "Partner with the Experiential Creative Director and Brand Studio leadership to define the strategic creative vision for how Stripe shows up in the world",
+        "Champion creative quality—establish and maintain a high bar across all deliverables, from concept through execution",
+        "Build and evolve Stripe's experiential design system: scalable standards, templates, and creative frameworks that work globally across teams and events",
+        "Oversee relationships with external agencies, contractors, production studios, and vendor partners—aligning on creative direction and ensuring quality delivery"
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "8113 Brand Studio",
+        "US"
+      ]
+    },
     {
       "id": "greenhouse-anthropic-5252781008",
       "tier": "curated",
@@ -1657,40 +1691,6 @@
       ]
     },
     {
-      "id": "greenhouse-stripe-8001909",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Creative Director, Brand Experiences",
-      "company": "Stripe",
-      "category": "Creative Direction",
-      "location": "US",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-07-22T13:25:41-04:00",
-      "posted_label": "Posted 13 days ago",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=8001909",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8001909",
-      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
-      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n\n About the team \n Brand Studio lays the foundations that help Stripe accelerate. We do this by creating, evolving, and maintaining Stripe's high-quality, versatile, and forward-looking brand design systems, experiences, and advertising campaigns. We sweat the details. We make it seem effortless. The Experiential team is responsible for bringing Stripe's brand to life in the real world—from flagship events and industry conferences to internal summits and curated partner experiences. This is a team that operates at the intersection of creativity, strategy, and production.\n\n What you'll do \n As Creative Director, Brand Experiences, you will lead a team of talented designers and set the creative direction for all of Stripe's event and experience design. You are an inspiring leader and a sharp creative director—someone who can zoom out to define a cohesive creative vision, and zoom in to give precise, actionable feedback. You partner closely with event marketers, brand leaders, producers, and executive stakeholders to ensure every Stripe experience is cohesive, intentional, and unmistakably on-brand. You care deeply about your team's craft, their growth, and the culture they work within.\n\n Responsibilities: \n \n\n• Lead, manage, and grow a team of brand and experiential designers—setting clear expectations, fostering a culture of craft, and creating an environment where designers do their best work \n\n• Own the creative direction for Stripe's experiential design output: event design systems, digital and environmental graphics, keynote design concepting, and brand activations \n\n• Partner with the Experiential Creative Director and Brand Studio leadership to define the strategic creative vision for how Stripe shows up in the world \n\n• Champion creative quality—establish and maintain a high bar across all deliverables, from concept through execution \n\n• Build and evolve Stripe's experiential design system: scalable standards, templates, and creative frameworks that work globally across teams and events \n\n• Oversee relationships with external agencies, contractors, production studios, and vendor partners—aligning on creative direction and ensuring quality delivery \n\n• Collaborate cross-functionally with corporate events and product marketing, product design, brand design, and executive communications teams \n\n• Recruit, hire, and onboard design talent to build out the team as the function grows \n\n• Develop direct reports through regular 1:1s, structured feedback, career development conversations, and thoughtful performance calibration \n\n• Represent the Experiential design function in leadership forums and cross-functional planning processes \n \n Requirements: \n \n\n• 10+ years of relevant design experience, including 3+ years managing and growing a team of designers \n\n• Proven track record of creative direction for high-profile brand design and experiences, and events at a global scale \n\n• Strong people leadership skills—you have developed design talent, navigated performance challenges, and built healthy, high-output teams \n\n• Deep understanding of experiential design: environmental graphics, stage and scenic design, digital/physical brand integration, wayfinding, and event identity systems \n\n• Ability to design and art direct across a wide range of surface areas (digital, physical, motion, communication) and tooling (Figma, Keynote, Adobe Creative Cloud, and AI tools) \n\n• Strong executive presence—you can present and defend creative decisions to senior leaders with confidence and clarity \n\n• Ability to simultaneously manage creative quality and team health—you know when to coach, when to redirect, and when to roll up your sleeves \n\n• Systems-thinking approach with a track record of building scalable creative frameworks and extending shared patterns across a global brand \n\n• Experience managing agency relationships and large-scale external production partners \n\n• Strong track record of influencing without authority across marketing, product, and executive stakeholders \n\n• Ability to balance creative ambition and operational rigor, consistently shipping world-class work on deadline and on budget \n\n• Persuasive and humble, with a drive to seek feedback, and model the creative and collaborative behaviors that make great teams \n\n• Excellent communication and presentation skills—equally comfortable writing a creative brief and presenting work to a range of stakeholders \n\n• Highly detail-oriented, with a drive for perfection in every experience you ship \n\n• Passionate about Stripe's mission, dedicated to a user-first mindset, and grounded in data and business context",
-      "responsibilities": [
-        "Lead, manage, and grow a team of brand and experiential designers—setting clear expectations, fostering a culture of craft, and creating an environment where designers do their best work",
-        "Own the creative direction for Stripe's experiential design output: event design systems, digital and environmental graphics, keynote design concepting, and brand activations",
-        "Partner with the Experiential Creative Director and Brand Studio leadership to define the strategic creative vision for how Stripe shows up in the world",
-        "Champion creative quality—establish and maintain a high bar across all deliverables, from concept through execution",
-        "Build and evolve Stripe's experiential design system: scalable standards, templates, and creative frameworks that work globally across teams and events",
-        "Oversee relationships with external agencies, contractors, production studios, and vendor partners—aligning on creative direction and ensuring quality delivery"
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "8113 Brand Studio",
-        "US"
-      ]
-    },
-    {
       "id": "greenhouse-stripe-8047129",
       "tier": "curated",
       "source": "greenhouse",
@@ -2707,7 +2707,7 @@
       "salary": "$150k - $230k",
       "remote": true,
       "published_at": "2026-07-16T08:06:41",
-      "posted_label": "Posted 19 days ago",
+      "posted_label": "Posted 20 days ago",
       "listing_url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
       "apply_url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
       "summary": "We are hiring a Head of Marketing & Communications to tell the garden3d story across the internet, from wherever in the world you happen to be.…",
