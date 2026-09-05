@@ -1,10 +1,44 @@
 {
-  "generated_at": "2026-09-05T09:52:48.238Z",
+  "generated_at": "2026-09-05T14:28:01.276Z",
   "coverage_label": "Direct company boards + selected market feeds",
   "total_jobs": 99,
-  "curated_jobs": 79,
-  "expanded_jobs": 20,
+  "curated_jobs": 80,
+  "expanded_jobs": 19,
   "jobs": [
+    {
+      "id": "greenhouse-stripe-8175629",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Program Manager, Executive Experiences",
+      "company": "Stripe",
+      "category": "Product Design",
+      "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
+      "work_model": "Remote",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": true,
+      "published_at": "2026-09-05T06:42:00-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=8175629",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8175629",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accel…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n\n About the team \n The Executive Content &amp; Experiences team builds trusted relationships with leaders shaping the global economy. We design high-impact programs—including executive briefings, advisory boards, flagship convenings at Davos, and executive programming at Stripe Sessions—to bring Stripe's strategy to life. Beyond delivering premier high-touch moments, we turn leadership insights into actionable intelligence that directly informs Stripe’s narratives, product, and go-to-market direction.\n\n What you’ll do \n We are looking for an Executive Experiences Program Manager to drive end-to-end operational excellence for our most high-profile leadership programs. This involves leading global operations for Tier-1 flagship moments like Davos, our Exec Summit at Sessions, the launch of new Executive Briefing Centers, as well as managing broader operations and budget allocation across the team. This high-visibility role sits at the intersection of product marketing, executive engagement, strategic hospitality, and B2B pipeline development. You will build and scale a world-class execution engine that delivers flawless, high-touch experiences for executive audiences. This requires someone who can move fluidly between strategic planning and hands-on execution and can zoom in and out based on the task at hand.\n\n Responsibilities \n \n\n• Lead global end-to-end operational program management for flagship executive experiences (including Davos, Exec Summit at Sessions, and EBC space launches) across cross-functional internal teams and external partners. \n\n• Build, maintain, and evolve repeatable playbooks, best practices documentation, and toolkits to scale our executive event execution engine efficiently. \n\n• Coordinate and manage global budget planning and tracking in close partnership with accountable leads to ensure spend remains on-track. \n\n• Own executive-ready program communications, operationalizing reporting across functions into unified, digestible status updates and leadership dashboards. \n\n• Drive ongoing operational improvements via process innovation, automation, and the adoption of AI-powered tools to increase productivity and transform team workflows. \n \n Who you are \n A sharp, organized problem-solver who is a self-starter. You bring structure, clarity, and simplicity to complex problems and focus teams with competing priorities into aligned goals and plans. You are equally comfortable presenting to C-suite executives as you are clearing tactical operational roadblocks. You design systems, tools, and AI-first workflows to structure and automate programs and processes. You don’t think 1 step ahead, you think 10 steps ahead; you lead teams to structure phased milestones to achieve the intended end vision. You proactively anticipate risk and account for dependencies in plans to ensure we are planful and prepared for every foreseeable execution need in high-stakes environments.\n\n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• 10+ years of project management experience, ideally in marketing or events \n\n• Strong experience leading complex cross-functional initiatives \n\n• Proven ability to manage multiple stakeholders at the executive and working team level and competing priorities \n\n• Excellent organizational, communication, and follow-through skills \n\n• Experience managing budgets, creating playbooks, and operational documentation for scaled program maturity \n \n Preferred qualifications \n \n\n• Experience with large-scale, high-profile, executive-facing events \n\n• Experience managing projects in Asana (or other project planning software) \n\n• Experience with budget and procurement software \n\n• Experience partnering with agencies, vendors and third parties to bring consistency and standards \n\n• Experience in the Tech industry; financial services, payments, or B2B software a plus \n\n• AI project management workflow automation",
+      "responsibilities": [
+        "Lead global end-to-end operational program management for flagship executive experiences (including Davos, Exec Summit at Sessions, and EBC space launches) across cross-functional internal teams and external partners.",
+        "Build, maintain, and evolve repeatable playbooks, best practices documentation, and toolkits to scale our executive event execution engine efficiently.",
+        "Coordinate and manage global budget planning and tracking in close partnership with accountable leads to ensure spend remains on-track.",
+        "Own executive-ready program communications, operationalizing reporting across functions into unified, digestible status updates and leadership dashboards.",
+        "Drive ongoing operational improvements via process innovation, automation, and the adoption of AI-powered tools to increase productivity and transform team workflows.",
+        "We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement."
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "2325 Exec Marketing",
+        "US"
+      ]
+    },
     {
       "id": "greenhouse-gusto-8112001",
       "tier": "expanded",
@@ -2000,18 +2034,18 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-08-26T13:10:58",
-      "posted_label": "Posted 9 days ago",
+      "posted_label": "Posted 10 days ago",
       "listing_url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
       "apply_url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
       "summary": "Are you a talented QA looking for a remote job that lets you show your skills and get better compensation and career growth? Look no further than Lemon.io - the marketplace that connects you with hand-picked startups in the US and Europe.…",
-      "description": "Are you a talented QA looking for a remote job that lets you show your skills and get better compensation and career growth? Look no further than Lemon.io - the marketplace that connects you with hand-picked startups in the US and Europe.\n\n  \n\n We are seeking a Senior QA Engineer for our client — for direct hire. The client is a B2B service provider based in Cyprus that specializes in building and managing technology and operational services for online businesses.\n\n  \n\n We are looking for a detail-oriented and proactive QA Engineer who is passionate about quality and thrives in a fast-paced development environment. You'll play a key role in ensuring our products meet the highest standards by working across both manual testing and automation. Experience with tools like BrowserStack, TestRail, and Playwright (or willingness to grow into them) will help you succeed in this role.\n\n  \n\n If you are a clear communicator who is proactive, takes ownership, collaborates well, and asks clarifying questions — and if you're comfortable working independently, managing your time effectively, and delivering high-quality results — please apply.\n\n Overlap: 8 hours with Cyprus (standard working day).\nRemote from the EU, or on-site in Limassol, Cyprus.\n\n Benefits: paid leave (available after 6 months of work) and an annual Christmas party trip.\n\n   \n\n Requirements: \n\n \n\n• \n 3+ years of experience in automation testing\n\n \n\n• \n 2+ years of experience in manual testing\n\n \n\n• \n 2+ years of experience working with Cypress, Playwright or Selenium\n\n \n\n• \n Exceptional attention to detail\n\n \n\n• \n Good command of English, both written and spoken.\n\n \n\n• \n Strong organizational skills — ability to work full-time remotely with no supervision\n\n \n\n• \n Responsibility — we want to trust you!\n\n \n\n• \n Soft skills — we don’t ask you to find a topic for small talk, but being just polite is OK.\n\n \n \n   \n\n NOT YOUR TECH STACK? \n\n \n\n We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management,  Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.",
+      "description": "Are you a talented QA looking for a remote job that lets you show your skills and get better compensation and career growth? Look no further than Lemon.io - the marketplace that connects you with hand-picked startups in the US and Europe.\n\n   \n\n Requirements: \n\n \n\n• \n 3+ years of experience in automation testing\n\n \n\n• \n 2+ years of experience in manual testing\n\n \n\n• \n 3+ years of experience working with Cypress or Selenium\n\n \n\n• \n Exceptional attention to detail\n\n \n\n \n\n• \n Good command of English, both written and spoken.\n\n \n\n• \n Strong organizational skills — ability to work full-time remotely with no supervision\n\n \n\n• \n Responsibility — we want to trust you!\n\n \n\n• \n Soft skills — we don’t ask you to find a topic for small talk, but being just polite is OK.\n\n \n \n   \n\n NOT YOUR TECH STACK? \n\n We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management,  Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.",
       "responsibilities": [
-        "Overlap: 8 hours with Cyprus (standard working day).",
-        "Remote from the EU, or on-site in Limassol, Cyprus.",
-        "Benefits: paid leave (available after 6 months of work) and an annual Christmas party trip.",
         "3+ years of experience in automation testing",
         "2+ years of experience in manual testing",
-        "2+ years of experience working with Cypress, Playwright or Selenium"
+        "3+ years of experience working with Cypress or Selenium",
+        "Exceptional attention to detail",
+        "Good command of English, both written and spoken.",
+        "Strong organizational skills — ability to work full-time remotely with no supervision"
       ],
       "source_note": "This role is distributed through Remotive and links back to the live source listing for the full application route.",
       "tags": [
@@ -2072,7 +2106,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-08-25T13:57:53",
-      "posted_label": "Posted 10 days ago",
+      "posted_label": "Posted 11 days ago",
       "listing_url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091099",
       "apply_url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091099",
       "summary": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
@@ -2388,7 +2422,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-08-20T13:30:47",
-      "posted_label": "Posted 15 days ago",
+      "posted_label": "Posted 16 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-golang-developer-2091098",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-golang-developer-2091098",
       "summary": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
@@ -2426,7 +2460,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-08-19T12:12:11",
-      "posted_label": "Posted 16 days ago",
+      "posted_label": "Posted 17 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
       "summary": "Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
@@ -2600,7 +2634,7 @@
       "salary": "$120 - $170 /hour",
       "remote": true,
       "published_at": "2026-08-16T10:09:41",
-      "posted_label": "Posted 19 days ago",
+      "posted_label": "Posted 20 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder.…",
@@ -2903,39 +2937,6 @@
       "tags": [
         "Customer Operations and Support",
         "London, UK"
-      ]
-    },
-    {
-      "id": "remotive-1185979",
-      "tier": "expanded",
-      "source": "remotive",
-      "source_label": "Remotive",
-      "source_type_label": "Selected market feed",
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "category": "Motion Design",
-      "location": "Worldwide",
-      "work_model": "Remote",
-      "employment_type": "freelance",
-      "salary": "$50-$75 /hour",
-      "remote": true,
-      "published_at": "2026-08-04T16:53:05",
-      "posted_label": "Posted 1 month ago",
-      "listing_url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "apply_url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "summary": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour).…",
-      "description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics.\n\n  \n\n The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour).\n\n  \n\n Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know):\n\n  \n\n \n\n• Health & beauty \n\n• Fitness \n\n• Home Decor \n\n• Fashion \n\n• Sports \n\n• Do it yourself \n\n• Finance \n\n• Legal \n\n• Medical \n\n• Family/Parenting \n\n• Relationships \n\n• Real Estate \n\n• Restaurants \n\n• Contracting (plumbing, pool building, remodeling, etc.) \n \n  \n\n These are just some of the more general industries and topics that we cover. \n\n  \n\n Requirements : \n\n \n\n• We ask that all work be completed using a word processor such as Microsoft Word or Open Office \n\n• A reliable internet connection and the ability to meet deadlines \n\n• Good communication skills and respond in a timely manner to editorial staff when they ask for updates on tasks, etc \n\n• Work well as a team member with the rest of our content management and editorial staff \n \n \n\n Note : Applicants to this job signaled that accessing some writing tasks may require payment.",
-      "responsibilities": [
-        "Our organization is seeking content writers to create articles and blog posts on a variety of topics.",
-        "The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour).",
-        "Contracting (plumbing, pool building, remodeling, etc.)",
-        "These are just some of the more general industries and topics that we cover.",
-        "We ask that all work be completed using a word processor such as Microsoft Word or Open Office",
-        "A reliable internet connection and the ability to meet deadlines"
-      ],
-      "source_note": "This role is distributed through Remotive and links back to the live source listing for the full application route.",
-      "tags": [
-        "REST"
       ]
     },
     {
