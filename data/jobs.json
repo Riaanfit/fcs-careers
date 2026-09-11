@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T02:43:11.188Z",
+  "generated_at": "2026-09-11T10:30:32.952Z",
   "coverage_label": "Direct company boards + selected market feeds",
   "total_jobs": 96,
   "curated_jobs": 77,
@@ -1719,7 +1719,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-08-31T05:01:41-04:00",
-      "posted_label": "Posted 10 days ago",
+      "posted_label": "Posted 11 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/6144873004?gh_jid=6144873004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/6144873004?gh_jid=6144873004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
@@ -2565,7 +2565,7 @@
       "salary": "$120 - $170 /hour",
       "remote": true,
       "published_at": "2026-08-16T10:09:41",
-      "posted_label": "Posted 25 days ago",
+      "posted_label": "Posted 26 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder.…",
@@ -2941,6 +2941,32 @@
       ]
     },
     {
+      "id": "lever-binance-4d2279a4-2173-4e95-810d-61d952747db0",
+      "tier": "expanded",
+      "source": "lever",
+      "source_label": "Lever",
+      "source_type_label": "Direct company board",
+      "title": "Content Editor",
+      "company": "Binance",
+      "category": "Motion Design",
+      "location": "UAE, Dubai",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-07-28T08:06:39.593Z",
+      "posted_label": "Posted 1 month ago",
+      "listing_url": "https://jobs.lever.co/binance/4d2279a4-2173-4e95-810d-61d952747db0",
+      "apply_url": "https://jobs.lever.co/binance/4d2279a4-2173-4e95-810d-61d952747db0/apply",
+      "summary": "Role summary will be pulled from the source listing.",
+      "description": "",
+      "responsibilities": [],
+      "source_note": "This role is pulled from the company’s public Lever board and links back to the original listing.",
+      "tags": [
+        "Communications"
+      ]
+    },
+    {
       "id": "greenhouse-figma-6122399004",
       "tier": "curated",
       "source": "greenhouse",
@@ -3213,34 +3239,6 @@
       "tags": [
         "Customer Operations and Support",
         "US"
-      ]
-    },
-    {
-      "id": "lever-binance-cc3dde64-30c3-4d91-bf0f-009fd051ce1b",
-      "tier": "expanded",
-      "source": "lever",
-      "source_label": "Lever",
-      "source_type_label": "Direct company board",
-      "title": "Product Designer",
-      "company": "Binance",
-      "category": "Product Design",
-      "location": "Hong Kong",
-      "work_model": "Remote",
-      "employment_type": "Full-time: Remote",
-      "salary": "Salary not stated",
-      "remote": true,
-      "published_at": "2026-06-10T10:55:13.152Z",
-      "posted_label": "Posted 3 months ago",
-      "listing_url": "https://jobs.lever.co/binance/cc3dde64-30c3-4d91-bf0f-009fd051ce1b",
-      "apply_url": "https://jobs.lever.co/binance/cc3dde64-30c3-4d91-bf0f-009fd051ce1b/apply",
-      "summary": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users.…",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.",
-      "responsibilities": [],
-      "source_note": "This role is pulled from the company’s public Lever board and links back to the original listing.",
-      "tags": [
-        "Design",
-        "Product & Design",
-        "Full-time: Remote"
       ]
     },
     {
