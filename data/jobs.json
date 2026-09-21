@@ -1,10 +1,44 @@
 {
-  "generated_at": "2026-09-21T03:02:29.521Z",
+  "generated_at": "2026-09-21T11:50:21.270Z",
   "coverage_label": "Direct company boards + selected market feeds",
   "total_jobs": 97,
-  "curated_jobs": 78,
-  "expanded_jobs": 19,
+  "curated_jobs": 79,
+  "expanded_jobs": 18,
   "jobs": [
+    {
+      "id": "greenhouse-stripe-8209970",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Software Engineer, Stripe Data Pipeline",
+      "company": "Stripe",
+      "category": "Product Design",
+      "location": "Bangalore",
+      "work_model": "Remote",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": true,
+      "published_at": "2026-09-21T07:18:26-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=8209970",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8209970",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n\n About the team \n Stripe Data Pipeline —The Stripe Data Pipeline (SDP) team owns a critical product that delivers all of a merchant's Stripe data directly into their data warehouse. We serve major technology companies and Fortune 100 enterprises, delivering petabytes of data daily with high reliability, low latency, and strong correctness guarantees. SDP is marching towards 99.99% availability and near real-time data freshness across multiple warehouse platforms. Merchants depend on this data for their own billing, reconciliation and analytics, and the quality of what we deliver has immediate, visible impact. The systems are distributed, multi-tenant, and operate under strict SLAs. You will work on hard problems at the intersection of data infrastructure, merchant-facing product, and operational excellence.\n\n What you'll do \n As a Software Engineer, you'll design and build platforms and system solutions that are configurable and scalable around the globe. You'll partner with many functions at Stripe, with the opportunity to both work on financial platform systems, as well as direct user-facing business impact.\n\n Responsibilities \n • Design, build, and maintain APIs, services, and systems across engineering teams at Stripe.\n\n • Work with engineers across the company to build new features at large scale.\n\n • Maintain a collaborative environment, engaging in discussions and decision-making processes with stakeholders within various domains at Stripe.\n\n Who you are \n We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n • 7+ years of experience in delivering, extending, and maintaining large-scale distributed systems\n\n • Love to design systems that are elegant abstractions over complex patterns and practices, especially in the financial industry.\n\n • Hold yourself and others to a high bar when working with production systems.\n\n • Take pride in working on projects to successful completion involving a wide variety of technologies and systems.\n\n • Think about systems, services, and platforms, and write high-quality code.\n\n • You have great product taste and a track record of taking complex problems and solving them elegantly.\n\n • You are capable of working in ambiguous, fast-moving environments and have a curiosity to learn the domain to a deep level.\n\n • Enjoy working with a diverse group of people with different expertise.\n\n Preferred qualifications \n • Familiarity with large-scale distributed systems\n\n • Experience working in high-growth teams similar to Stripe",
+      "responsibilities": [
+        "Design, build, and maintain APIs, services, and systems across engineering teams at Stripe.",
+        "Work with engineers across the company to build new features at large scale.",
+        "Maintain a collaborative environment, engaging in discussions and decision-making processes with stakeholders within various domains at Stripe.",
+        "We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.",
+        "Minimum requirements",
+        "7+ years of experience in delivering, extending, and maintaining large-scale distributed systems"
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "8122 Data Foundations",
+        "India Locations"
+      ]
+    },
     {
       "id": "greenhouse-webflow-8204002",
       "tier": "curated",
@@ -1027,7 +1061,7 @@
       "salary": "$120 - $170 /hour",
       "remote": true,
       "published_at": "2026-09-16T10:10:53",
-      "posted_label": "Posted 4 days ago",
+      "posted_label": "Posted 5 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder.…",
@@ -2356,7 +2390,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-08-31T05:01:41-04:00",
-      "posted_label": "Posted 20 days ago",
+      "posted_label": "Posted 21 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/6144873004?gh_jid=6144873004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/6144873004?gh_jid=6144873004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
@@ -2765,44 +2799,6 @@
         "New York City, NY",
         "San Francisco, CA",
         "Seattle, WA"
-      ]
-    },
-    {
-      "id": "remotive-2091098",
-      "tier": "expanded",
-      "source": "remotive",
-      "source_label": "Remotive",
-      "source_type_label": "Selected market feed",
-      "title": "Senior Golang Developer",
-      "company": "Lemon.io",
-      "category": "Motion Design",
-      "location": "Europe, USA, UK, Canada, Australia, Singapore",
-      "work_model": "Remote",
-      "employment_type": "full_time",
-      "salary": "Salary not stated",
-      "remote": true,
-      "published_at": "2026-08-20T13:30:47",
-      "posted_label": "Posted 1 month ago",
-      "listing_url": "https://remotive.com/remote-jobs/software-development/senior-golang-developer-2091098",
-      "apply_url": "https://remotive.com/remote-jobs/software-development/senior-golang-developer-2091098",
-      "summary": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
-      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.\n\n  \n\n We are currently seeking a Senior Software Engineer for our client — a research-driven artificial intelligence company.\n\n  \n\n The client’s mission is to cut the cost of modern AI by co-designing hardware, software, algorithms, and models — with the goal of making AI’s benefits accessible to society. They’re active contributors to open-source AI research and are looking for researchers and engineers to help build the next generation of AI infrastructure.Cooperation: This starts as contract work via our platform. If it goes well, you’ll transition to a direct hire, with equity, health insurance, and other competitive benefits.\n\n  \n\n Locations: the EU, the US, Canada, the UK, Australia, Singapore\n\n  \n\n About the role: \n\n \n\n• You’d build the Go-based platform that lets research and inference teams provision, scale, repair, and tear down GPU clusters through an API - instead of filing tickets. \n\n• You’d own the product end to end : shaping internal platforms, improving developer experience, and operating the systems in production. \n \n  \n\n Requirements: \n\n \n\n• \n 5+ years of software development experience\n\n \n\n• \n 3+ years of experience with Golang and Kubernetes controllers\n\n \n\n• \n Knowledge of Temporal is a must\n\n \n \n  \n\n \n\n• \n Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.\n\n \n\n• \n Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.\n\n \n\n• \n Strong self-organizational skills — ability to work full-time remotely with no supervision.\n\n \n\n• \n Reliability — we want to trust you and expect that you won’t let us and the client down.\n\n \n\n• \n Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.\n\n \n \n  \n\n Sounds good for you? Apply now and join the Lemon.io community!\n\n   \n\n NOT YOUR TECH STACK? We have a variety of projects, so if you have 4+ years of commercial software development experience and are proficient in AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Dart, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering, we would be happy to connect with you and match you with a project that fits your experience.\n\n \n  \n\n We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.\n\n We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).",
-      "responsibilities": [
-        "We are currently seeking a Senior Software Engineer for our client — a research-driven artificial intelligence company.",
-        "Locations: the EU, the US, Canada, the UK, Australia, Singapore",
-        "You’d build the Go-based platform that lets research and inference teams provision, scale, repair, and tear down GPU clusters through an API - instead of filing tickets.",
-        "You’d own the product end to end : shaping internal platforms, improving developer experience, and operating the systems in production.",
-        "5+ years of software development experience",
-        "3+ years of experience with Golang and Kubernetes controllers"
-      ],
-      "source_note": "This role is distributed through Remotive and links back to the live source listing for the full application route.",
-      "tags": [
-        ".Net",
-        "android",
-        "C",
-        "C#",
-        "C++",
-        "data science"
       ]
     },
     {
