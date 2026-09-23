@@ -1,10 +1,78 @@
 {
-  "generated_at": "2026-09-23T03:02:05.958Z",
+  "generated_at": "2026-09-23T10:40:08.850Z",
   "coverage_label": "Direct company boards + selected market feeds",
-  "total_jobs": 100,
-  "curated_jobs": 82,
+  "total_jobs": 102,
+  "curated_jobs": 84,
   "expanded_jobs": 18,
   "jobs": [
+    {
+      "id": "greenhouse-stripe-7983076",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Product Designer, Design Systems",
+      "company": "Stripe",
+      "category": "Product Design",
+      "location": "Spain",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-09-23T03:09:25-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=7983076",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7983076",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\n About the team \n Sail is Stripe’s user interface platform and design system. We build the design language, components, tools, and front-end foundations that product teams use to create coherent, accessible, responsive, and high-quality experiences. Designers on Sail work closely with engineers and designers across Stripe to turn recurring product needs into durable solutions.\n\n What you’ll do \n As a Product Designer on Sail, you’ll contribute to the visual and interaction foundations of Stripe’s products. With support from experienced designers and engineers, you’ll work on scoped components, patterns, guidance, and tools. This role is a good fit for a designer who cares deeply about visual craft, enjoys thinking in systems, and wants to understand how design decisions become production interfaces.\n\n Responsibilities \n \n\n• Design and refine user interface components, patterns, and foundations for use across Stripe products \n\n• Create polished, coherent interfaces across interaction states, themes, and responsive layouts \n\n• Partner with front-end engineers to understand constraints and carry designs into production \n\n• Contribute to Figma libraries, prototypes, specifications, documentation, and examples \n\n• Gather input from product teams, share work, and iterate based on feedback \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• 2+ years of experience designing digital products \n\n• A portfolio demonstrating strong visual design craft \n\n• Experience using or contributing to a design system or component library \n\n• Experience working with front-end engineers \n\n• Working understanding of components, states, and responsive behavior \n\n• Experience using artificial intelligence tools in day-to-day design work, with familiarity with large language models, agents, and reusable skills or workflows \n \n Preferred qualifications \n \n\n• Experience creating or maintaining user interface components or shared design libraries \n\n• Working knowledge of HTML and CSS, with experience using artificial intelligence and prototyping tools to build and evaluate interactive interfaces \n\n• Experience designing native mobile interfaces for iOS or Android",
+      "responsibilities": [
+        "Design and refine user interface components, patterns, and foundations for use across Stripe products",
+        "Create polished, coherent interfaces across interaction states, themes, and responsive layouts",
+        "Partner with front-end engineers to understand constraints and carry designs into production",
+        "Contribute to Figma libraries, prototypes, specifications, documentation, and examples",
+        "Gather input from product teams, share work, and iterate based on feedback",
+        "We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement."
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "8811 Product Design",
+        "Spain Locations"
+      ]
+    },
+    {
+      "id": "greenhouse-anthropic-5017202008",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Software Engineer, Labs",
+      "company": "Anthropic",
+      "category": "Product Design",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-09-23T02:18:24-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://job-boards.greenhouse.io/anthropic/jobs/5017202008",
+      "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5017202008",
+      "summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole.…",
+      "description": "About Anthropic \n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n\n About the role \n At Anthropic, we're building AI systems that are safe, beneficial, and transformative. Our mission is to develop AI that benefits humanity, and we believe the most powerful capabilities emerge when we thoughtfully bridge the gap between research breakthroughs and real-world applications.\n\n Anthropic Labs serves as our internal accelerator. We're looking for the next breakout hits that bring substantial revenue or transform an industry. We operate in close partnership with research and build through fast iteration cycles. Past successes include Claude Code and MCP.\n\n We're seeking versatile, entrepreneurial engineers to join Labs. In this role, you'll work at the intersection of cutting-edge research and real-world application, rapidly building and testing new experiences, working directly with researchers and users, and generating the insights that shape Anthropic's product future. You'll need to be comfortable with ambiguity, willing to kill your own projects when the data says to, and energized by the pace of building in uncharted territory.\n\n Responsibilities \n \n\n• \n Rapidly prototype full-stack applications that showcase emerging AI capabilities, shipping early and often to maximize learning\n\n \n\n• \n Collaborate closely with research teams to understand new model capabilities and translate them into intuitive user experiences\n\n \n\n• \n Work directly with internal test users and external partners to gather feedback, iterate quickly, and validate (or invalidate) product concepts\n\n \n\n• \n Design and run structured experiments to test hypotheses, balancing creative exploration with rigorous evaluation\n\n \n\n• \n Generate documentation and insights to guide successful prototypes toward full product teams\n\n \n\n• \n Advocate for user experience and product considerations early in the research process\n\n \n\n• \n Provide feedback to research teams about model effectiveness and where capabilities can be improved\n\n \n\n• \n Flexibly contribute across Labs initiatives based on organizational priorities and emerging opportunities—context from one project should inform the next\n\n \n \n You may be a good fit if you \n \n\n• \n Have 8+ years of experience building full-stack applications, with a track record of zero-to-one work in startup or startup-like environments\n\n \n\n• \n Thrive in ambiguity and are energized (not anxious) by uncertainty—you're comfortable working on projects that might not exist in three months\n\n \n\n• \n Have a hacker mentality: high agency, bias toward shipping, comfort with technical debt when it's the right tradeoff\n\n \n\n• \n Are deeply user-centric—you validate ideas with actual users before over-investing and talk about problems before solutions\n\n \n\n• \n Can articulate learnings from failed or killed projects without defensiveness; you treat your work as experiments\n\n \n\n• \n Hold strong opinions loosely—you advocate forcefully for ideas but change your mind based on evidence\n\n \n\n• \n Are a generalist who can transition between different problem spaces as priorities shift\n\n \n\n• \n Work independently with good judgment about what matters, without needing constant direction\n\n \n\n• \n Have strong technical skills across modern web development stacks (React, Node.js, Python, etc.) and are comfortable with APIs, databases, and cloud technologies\n\n \n\n• \n Communicate effectively and translate complex AI capabilities into intuitive experiences\n\n \n\n• \n Care about the societal impacts and ethics of your work\n\n \n \n Strong candidates may also have \n \n\n• \n Experience building products that involve AI/ML components or working with large language models\n\n \n\n• \n Experience collaborating directly with research teams in AI/ML environments\n\n \n\n• \n Background conducting user research, interviews, and usability testing\n\n \n\n• \n Experience across both B2B and B2C product development, or in multiple industries\n\n \n\n• \n Design sensibility or hands-on experience with UI/UX for AI-powered applications\n\n \n\n• \n Experience with real-time applications, WebSocket implementations, or complex frontend interactions\n\n \n \n What we're not looking for at this stage \n \n\n• \n Deep specialists who can't adapt if their domain becomes irrelevant\n\n \n\n• \n Engineers who've only succeeded in big-company structures with well-defined processes and long timelines\n\n \n\n• \n People who are precious about their work or frame all past projects as successes\n\n \n\n• \n Those who need clear roadmaps and get stressed by shifting priorities\n\n \n \n Candidates need not have \n \n\n• \n 100% of the skills listed above\n\n \n\n• \n Formal certifications or education credentials\n\n \n\n• \n Direct machine learning or AI research experience\n\n \n \n Deadline to apply: None. Applications will be reviewed on a rolling basis.\n\n The annual compensation range for this role is listed below. \n\n For sales roles, the range provided is the role’s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.\n\n Annual Salary: $320,000 &mdash; $485,000 USD Logistics \n Minimum education: Bachelor’s degree or an equivalent combination of education, training, and/or experience\n\n Required field of study: A field relevant to the role as demonstrated through coursework, training, or professional experience\n\n Minimum years of experience: Years of experience required will correlate with the internal job level requirements for the position\n\n Location-based hybrid policy: Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.\n\n Visa sponsorship: We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.\n\n We encourage you to apply even if you do not believe you meet every single qualification. Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.\n\n Your safety matters to us. To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings.\n\n How we're different \n We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.\n\n The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.\n\n Come work with us! \n Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. Guidance on Candidates' AI Usage: Learn about our policy for using AI in our application process.",
+      "responsibilities": [
+        "Rapidly prototype full-stack applications that showcase emerging AI capabilities, shipping early and often to maximize learning",
+        "Collaborate closely with research teams to understand new model capabilities and translate them into intuitive user experiences",
+        "Work directly with internal test users and external partners to gather feedback, iterate quickly, and validate (or invalidate) product concepts",
+        "Design and run structured experiments to test hypotheses, balancing creative exploration with rigorous evaluation",
+        "Generate documentation and insights to guide successful prototypes toward full product teams",
+        "Advocate for user experience and product considerations early in the research process"
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "Engineering & Design - Product",
+        "San Francisco, CA"
+      ]
+    },
     {
       "id": "greenhouse-figma-6180053004",
       "tier": "curated",
@@ -143,6 +211,40 @@
       ]
     },
     {
+      "id": "greenhouse-stripe-8194604",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Frontend Engineer, Data Product Experiences",
+      "company": "Stripe",
+      "category": "Motion Design",
+      "location": "N/A",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-09-22T15:34:29-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=8194604",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8194604",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. \n\n About the team \n The Data Product Experiences (DPE) team is dedicated to making Stripe's merchant-facing data products intuitive, delightful, and actionable. We build client-side rendering engines, high-performance charting libraries, and interactive visualization interfaces that handle high-throughput streaming telemetry and real-time merchant analytics.\n\n What you’ll do \n In this role, you will architect and build high-performance client-side data rendering engines from scratch to visualize tens of thousands of data points smoothly. You will collaborate closely with Designers, Product Managers, and Front-End Systems Engineers to define cutting-edge data visualization paradigms that reduce cognitive load and prevent visual fatigue for Stripe's users.\n\n Responsibilities \n \n\n• Partner with designers and product managers to prototype, build, and ship interactive analytics dashboards and data visualization tools across the Stripe Dashboard. \n\n• Contribute to Stripe’s core design system by developing scalable, reusable visualization components and charting standards for engineering teams. \n\n• Design frontend integration strategies and robust API contracts to enable seamless adoption of analytics components by partner teams. \n\n• Provide technical leadership and mentorship through code reviews, pairing, and fostering frontend engineering best practices. \n\n• Collaborate across Product, Design, Data Infrastructure, and Analytics teams to deliver high-quality, data-driven user experiences. \n\n• Optimize rendering performance and state management for web applications handling large datasets, real-time telemetry, and high-density visual components. \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. \n\n Minimum requirements \n \n\n• 2+ years of relevant web front-end development or creative technology experience in a tech-forward, product-driven company. \n\n• Advanced experience with React, modern TypeScript/JavaScript, HTML5, CSS/Sass, and modern web application architecture. \n\n• Demonstrated experience building interactive web charts and visualizations using tools and libraries such as D3.js, Recharts, SVG, Canvas, or WebGL, with a focus on data density and visual-perceptual hierarchy. \n\n• Proven track record of writing clear, elegant, well-tested code in a collaborative team environment. \n\n• Deep experience designing and developing web applications that function seamlessly across modern browsers, screen dimensions, and devices. \n\n• Strong communication skills with the ability to work effectively alongside technical and non-technical stakeholders alike. \n \n Preferred qualifications \n \n\n• Passion for crafting beautiful data experiences on the web, demonstrated through a design portfolio or frontend codebase showcasing interactive dashboards, custom charting engines, creative tools, or design systems. \n\n• Exemplary understanding of formal design principles including typography, layout, color theory, data density balance, and visual proportion beyond basic web UI. \n\n• Experience building sophisticated interactive tools encompassing complex client-side state management, caching, and real-time data fetching strategies. \n\n• Advanced proficiency with React, with an emphasis on fluid interactions, subtle animations, visual refinement, and web rendering performance. \n\n• Experience with accessibility (a11y) standards for interactive charts and graphs, A/B testing frameworks, synthetic monitoring, and performance profiling tools.",
+      "responsibilities": [
+        "Partner with designers and product managers to prototype, build, and ship interactive analytics dashboards and data visualization tools across the Stripe Dashboard.",
+        "Contribute to Stripe’s core design system by developing scalable, reusable visualization components and charting standards for engineering teams.",
+        "Design frontend integration strategies and robust API contracts to enable seamless adoption of analytics components by partner teams.",
+        "Provide technical leadership and mentorship through code reviews, pairing, and fostering frontend engineering best practices.",
+        "Collaborate across Product, Design, Data Infrastructure, and Analytics teams to deliver high-quality, data-driven user experiences.",
+        "Optimize rendering performance and state management for web applications handling large datasets, real-time telemetry, and high-density visual components."
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "8122 Data Foundations",
+        "Canada Locations"
+      ]
+    },
+    {
       "id": "greenhouse-gusto-7905702",
       "tier": "expanded",
       "source": "greenhouse",
@@ -174,40 +276,6 @@
       "tags": [
         "Design",
         "New York, NY - Hybrid"
-      ]
-    },
-    {
-      "id": "greenhouse-stripe-8194606",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Frontend Engineer, Data Product Experiences",
-      "company": "Stripe",
-      "category": "Motion Design",
-      "location": "N/A",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-09-22T15:31:09-04:00",
-      "posted_label": "Posted today",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=8194606",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8194606",
-      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
-      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. \n\n About the team \n The Data Product Experiences (DPE) team is dedicated to making Stripe's merchant-facing data products intuitive, delightful, and actionable. We build client-side rendering engines, high-performance charting libraries, and interactive visualization interfaces that handle high-throughput streaming telemetry and real-time merchant analytics.\n\n What you’ll do \n In this role, you will architect and build high-performance client-side data rendering engines from scratch to visualize tens of thousands of data points smoothly. You will collaborate closely with Designers, Product Managers, and Front-End Systems Engineers to define cutting-edge data visualization paradigms that reduce cognitive load and prevent visual fatigue for Stripe's users.\n\n Responsibilities \n \n\n• Partner with designers and product managers to prototype, build, and ship interactive analytics dashboards and data visualization tools across the Stripe Dashboard. \n\n• Contribute to Stripe’s core design system by developing scalable, reusable visualization components and charting standards for engineering teams. \n\n• Design frontend integration strategies and robust API contracts to enable seamless adoption of analytics components by partner teams. \n\n• Provide technical leadership and mentorship through code reviews, pairing, and fostering frontend engineering best practices. \n\n• Collaborate across Product, Design, Data Infrastructure, and Analytics teams to deliver high-quality, data-driven user experiences. \n\n• Optimize rendering performance and state management for web applications handling large datasets, real-time telemetry, and high-density visual components. \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. \n\n Minimum requirements \n \n\n• 2+ years of relevant web front-end development or creative technology experience in a tech-forward, product-driven company. \n\n• Advanced experience with React, modern TypeScript/JavaScript, HTML5, CSS/Sass, and modern web application architecture. \n\n• Demonstrated experience building interactive web charts and visualizations using tools and libraries such as D3.js, Recharts, SVG, Canvas, or WebGL, with a focus on data density and visual-perceptual hierarchy. \n\n• Proven track record of writing clear, elegant, well-tested code in a collaborative team environment. \n\n• Deep experience designing and developing web applications that function seamlessly across modern browsers, screen dimensions, and devices. \n\n• Strong communication skills with the ability to work effectively alongside technical and non-technical stakeholders alike. \n \n Preferred qualifications \n \n\n• Passion for crafting beautiful data experiences on the web, demonstrated through a design portfolio or frontend codebase showcasing interactive dashboards, custom charting engines, creative tools, or design systems. \n\n• Exemplary understanding of formal design principles including typography, layout, color theory, data density balance, and visual proportion beyond basic web UI. \n\n• Experience building sophisticated interactive tools encompassing complex client-side state management, caching, and real-time data fetching strategies. \n\n• Advanced proficiency with React, with an emphasis on fluid interactions, subtle animations, visual refinement, and web rendering performance. \n\n• Experience with accessibility (a11y) standards for interactive charts and graphs, A/B testing frameworks, synthetic monitoring, and performance profiling tools.",
-      "responsibilities": [
-        "Partner with designers and product managers to prototype, build, and ship interactive analytics dashboards and data visualization tools across the Stripe Dashboard.",
-        "Contribute to Stripe’s core design system by developing scalable, reusable visualization components and charting standards for engineering teams.",
-        "Design frontend integration strategies and robust API contracts to enable seamless adoption of analytics components by partner teams.",
-        "Provide technical leadership and mentorship through code reviews, pairing, and fostering frontend engineering best practices.",
-        "Collaborate across Product, Design, Data Infrastructure, and Analytics teams to deliver high-quality, data-driven user experiences.",
-        "Optimize rendering performance and state management for web applications handling large datasets, real-time telemetry, and high-density visual components."
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "8122 Data Foundations",
-        "US"
       ]
     },
     {
@@ -1300,7 +1368,7 @@
       "salary": "$120 - $170 /hour",
       "remote": true,
       "published_at": "2026-09-16T10:10:53",
-      "posted_label": "Posted 6 days ago",
+      "posted_label": "Posted 7 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder.…",
@@ -2561,7 +2629,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-08-31T05:01:41-04:00",
-      "posted_label": "Posted 22 days ago",
+      "posted_label": "Posted 23 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/6144873004?gh_jid=6144873004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/6144873004?gh_jid=6144873004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
