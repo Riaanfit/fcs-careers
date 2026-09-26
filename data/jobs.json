@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T21:01:56.411Z",
+  "generated_at": "2026-09-26T03:13:55.170Z",
   "coverage_label": "Direct company boards + selected market feeds",
   "total_jobs": 103,
   "curated_jobs": 85,
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "greenhouse-stripe-8194606",
+      "id": "greenhouse-stripe-8194604",
       "tier": "curated",
       "source": "greenhouse",
       "source_label": "Greenhouse",
@@ -123,8 +123,8 @@
       "remote": false,
       "published_at": "2026-09-25T16:45:04-04:00",
       "posted_label": "Posted today",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=8194606",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8194606",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=8194604",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8194604",
       "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
       "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. \n\n About the team \n The Data Product Experiences (DPE) team is dedicated to making Stripe's merchant-facing data products intuitive, delightful, and actionable. We build client-side rendering engines, high-performance charting libraries, and interactive visualization interfaces that handle high-throughput streaming telemetry and real-time merchant analytics.\n\n What you’ll do \n In this role, you will architect and build high-performance client-side data rendering engines from scratch to visualize tens of thousands of data points smoothly. You will collaborate closely with Designers, Product Managers, and Front-End Systems Engineers to define cutting-edge data visualization paradigms that reduce cognitive load and prevent visual fatigue for Stripe's users.\n\n Responsibilities \n \n\n• Partner with designers and product managers to prototype, build, and ship interactive analytics dashboards and data visualization tools across the Stripe Dashboard. \n\n• Contribute to Stripe’s core design system by developing scalable, reusable visualization components and charting standards for engineering teams. \n\n• Design frontend integration strategies and robust API contracts to enable seamless adoption of analytics components by partner teams. \n\n• Provide technical leadership and mentorship through code reviews, pairing, and fostering frontend engineering best practices. \n\n• Collaborate across Product, Design, Data Infrastructure, and Analytics teams to deliver high-quality, data-driven user experiences. \n\n• Optimize rendering performance and state management for web applications handling large datasets, real-time telemetry, and high-density visual components. \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. \n\n Minimum requirements \n \n\n• 2+ years of relevant web front-end development or creative technology experience in a tech-forward, product-driven company. \n\n• Advanced experience with React, modern TypeScript/JavaScript, HTML5, CSS/Sass, and modern web application architecture. \n\n• Demonstrated experience building interactive web charts and visualizations using tools and libraries such as D3.js, Recharts, SVG, Canvas, or WebGL, with a focus on data density and visual-perceptual hierarchy. \n\n• Proven track record of writing clear, elegant, well-tested code in a collaborative team environment. \n\n• Deep experience designing and developing web applications that function seamlessly across modern browsers, screen dimensions, and devices. \n\n• Strong communication skills with the ability to work effectively alongside technical and non-technical stakeholders alike. \n \n Preferred qualifications \n \n\n• Passion for crafting beautiful data experiences on the web, demonstrated through a design portfolio or frontend codebase showcasing interactive dashboards, custom charting engines, creative tools, or design systems. \n\n• Exemplary understanding of formal design principles including typography, layout, color theory, data density balance, and visual proportion beyond basic web UI. \n\n• Experience building sophisticated interactive tools encompassing complex client-side state management, caching, and real-time data fetching strategies. \n\n• Advanced proficiency with React, with an emphasis on fluid interactions, subtle animations, visual refinement, and web rendering performance. \n\n• Experience with accessibility (a11y) standards for interactive charts and graphs, A/B testing frameworks, synthetic monitoring, and performance profiling tools.",
       "responsibilities": [
@@ -138,7 +138,7 @@
       "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
       "tags": [
         "8122 Data Foundations",
-        "US"
+        "Canada Locations"
       ]
     },
     {
@@ -1482,7 +1482,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-09-24T17:19:51-04:00",
-      "posted_label": "Posted today",
+      "posted_label": "Posted 1 day ago",
       "listing_url": "https://job-boards.greenhouse.io/vercel/jobs/5579560004",
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5579560004",
       "summary": "About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience.…",
@@ -1516,7 +1516,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-09-24T17:08:51-04:00",
-      "posted_label": "Posted today",
+      "posted_label": "Posted 1 day ago",
       "listing_url": "https://job-boards.greenhouse.io/vercel/jobs/6115908004",
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6115908004",
       "summary": "About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience.…",
@@ -1861,7 +1861,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-09-22T20:27:29-04:00",
-      "posted_label": "Posted 2 days ago",
+      "posted_label": "Posted 3 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
@@ -1895,7 +1895,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-09-22T19:04:41-04:00",
-      "posted_label": "Posted 2 days ago",
+      "posted_label": "Posted 3 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/6201114004?gh_jid=6201114004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/6201114004?gh_jid=6201114004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
@@ -2666,7 +2666,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-09-04T19:15:58-04:00",
-      "posted_label": "Posted 20 days ago",
+      "posted_label": "Posted 21 days ago",
       "listing_url": "https://job-boards.greenhouse.io/anthropic/jobs/5411318008",
       "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5411318008",
       "summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole.…",
