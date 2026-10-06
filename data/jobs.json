@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T04:34:15.928Z",
+  "generated_at": "2026-10-06T12:39:23.208Z",
   "coverage_label": "Direct company boards + selected market feeds",
-  "total_jobs": 100,
-  "curated_jobs": 85,
+  "total_jobs": 101,
+  "curated_jobs": 86,
   "expanded_jobs": 15,
   "jobs": [
     {
@@ -19,7 +19,7 @@
       "employment_type": "Not stated",
       "salary": "Salary not stated",
       "remote": false,
-      "published_at": "2026-10-05T18:07:33-04:00",
+      "published_at": "2026-10-06T07:01:36-04:00",
       "posted_label": "Posted today",
       "listing_url": "https://stripe.com/jobs/search?gh_jid=7663023",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=7663023",
@@ -37,6 +37,40 @@
       "tags": [
         "8811 Product Design",
         "Canada Locations"
+      ]
+    },
+    {
+      "id": "greenhouse-stripe-8238733",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Staff Engineer, Compute Foundation",
+      "company": "Stripe",
+      "category": "Product Design",
+      "location": "Sydney",
+      "work_model": "Remote",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": true,
+      "published_at": "2026-10-06T03:41:49-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=8238733",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8238733",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. \n\n About the team \n The Compute Foundation group builds and operates the core systems that enable every Stripe engineer to ship code, configuration, and infrastructure changes safely and at high velocity. Embedded on the Imaging team, you will design, build, and distribute Linux machine images; manage host bootstrapping and OS-configuration systems; oversee OS packages and security-patching infrastructure; and provide platforms that empower service teams to safely run workloads across cloud providers and regions.\n\n What you’ll do \n Own the foundation of Stripe’s compute fleet: Stripe’s services rely on host infrastructure that boots reliably, receives accurate configurations, and operates safely. Your decisions will directly shape the base operating system, package ecosystems, security posture, and bootstrap behavior of Stripe’s fleet.\n\n Lead active architectural transformations: The team is driving key platform evolutions, including modernizing the OS configuration layer, containerizing workloads, scaling machine image distribution across multi-cloud regions, and streamlining OS upgrades and critical security patching.\n\n Drive broad, end-to-end host lifecycle ownership: Work across the entire host lifecycle - from image construction, package distribution, kernel and OS configuration, early boot/systemd, storage, networking initialization, and workload readiness. You will tackle complex engineering challenges that balance reliability, security, compliance, developer experience, and performance.\n\n Your judgment prevents fleetwide incidents: Changes to machine images, packages, kernels, bootstrap systems, and host configuration can have broad consequences. You will design validation, canarying, rollout, health-evaluation, and rollback mechanisms that contain blast radius and make foundational infrastructure changes safer.\n\n Agency to shape technical strategy: As a Staff engineer, you will set technical direction for the team’s systems, author designs that span multiple teams, mentor engineers and be the person engineering managers and engineers rely on for the technical north-star.\n\n Responsibilities \n \n\n• Lead large, ambiguous infrastructure projects from initial design through production launch, broad adoption, and long-term operation. Define the architecture and success criteria, sequence the work, resolve technical ambiguity, coordinate cross-team dependencies, and shepherd projects to measurable impact.\n \n\n• Set technical direction for the evolution of Stripe’s host infrastructure, including how machine images are built, validated, distributed, and operated. Guide thoughtful decisions about when to containerize workloads and when host-based approaches remain appropriate. \n\n• Design systems and practices that make broad infrastructure changes safe and predictable. Establish strong validation, staged rollout, observability, and rollback capabilities. Build guardrails that prevent unhealthy changes from progressing and give operators clear, actionable information when failures occur. \n\n• Lead incident response for the systems the team owns. Systematically reduce operational toil and make reliability, security, debuggability, and maintainability first-class properties of the platform. \n\n• Partner with technical leaders across infrastructure, security, compliance, and service teams to represent the Imaging team’s perspective and align on shared technical direction. Build strong relationships with partner teams and lead work that crosses organizational and system boundaries. \n\n• Lead critical design reviews and establish standards for the safety, reliability, operability, and usability of Stripe’s host infrastructure. Mentor senior engineers through high-stakes architectural decisions. Raise the quality of designs and implementations through hands-on coding, code review, debugging, and operational leadership. \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. \n\n Minimum requirements \n \n\n• 10+ years of professional software engineering experience, with a demonstrated track record of designing and shipping production infrastructure systems of significant scale and complexity. \n\n• Proven ability to lead large, ambiguous infrastructure projects end-to-end - from technical design through delivery - including managing cross-team dependencies and coordinating migrations across many consuming teams. \n\n• Deep expertise in Linux systems, including boot and initialization, systems, processes, networking, filesystems, storage, packages, and production debugging.\nStrong foundations in cloud compute infrastructure, including machine images, virtual machines, autoscaling fleets, launch configuration, block storage, IAM, health evaluation, and multi-region operation in AWS, Azure, or an equivalent environment. \n\n• Experience designing or operating fleet-scale image, host-management, configuration-management, or infrastructure-provisioning systems. \n\n• Experience with safe infrastructure rollout practices, including automated validation, canarying, progressive rollout, health evaluation, rollback, and blast-radius containment. \n\n• Strong background in service reliability and operational excellence: demonstrated ability to lead incident response, reduce toil, and build systems that are reliable, debuggable, and maintainable by a team. \n\n• Track record of broad technical impact across multiple large systems: fluency across a complex codebase, force- multiplier effect through code review and mentorship, and the ability to set technical direction for a team rather than just execute within it. \n \n Preferred qualifications \n \n\n• Experience building modern image-based, immutable, or declarative infrastructure platforms. \n\n• Expertise with containers, Kubernetes, and migrating VM-based workloads to managed platforms \n\n• Experience operating large-scale Linux fleets across AWS, Azure, or multiple regions. \n\n• Familiarity with progressive delivery, automated validation, fleet health signals, and rollback systems. \n\n• Experience modernizing legacy configuration-management or host-provisioning systems. \n\n• Knowledge of OS security patching, software supply-chain security, and artifact provenance. \n\n• Strong developer-platform instincts, with experience building safe abstractions and self-service workflows.",
+      "responsibilities": [
+        "Lead incident response for the systems the team owns. Systematically reduce operational toil and make reliability, security, debuggability, and maintainability first-class properties of the platform.",
+        "We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.",
+        "Minimum requirements",
+        "10+ years of professional software engineering experience, with a demonstrated track record of designing and shipping production infrastructure systems of significant scale and complexity.",
+        "Proven ability to lead large, ambiguous infrastructure projects end-to-end - from technical design through delivery - including managing cross-team dependencies and coordinating migrations across many consuming teams.",
+        "Deep expertise in Linux systems, including boot and initialization, systems, processes, networking, filesystems, storage, packages, and production debugging."
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "8125 Core Compute",
+        "Australia Locations"
       ]
     },
     {
@@ -1938,7 +1972,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-09-25T03:13:29-04:00",
-      "posted_label": "Posted 10 days ago",
+      "posted_label": "Posted 11 days ago",
       "listing_url": "https://job-boards.greenhouse.io/vercel/jobs/5732855004",
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5732855004",
       "summary": "About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience.…",
@@ -2212,7 +2246,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-09-23T02:18:24-04:00",
-      "posted_label": "Posted 12 days ago",
+      "posted_label": "Posted 13 days ago",
       "listing_url": "https://job-boards.greenhouse.io/anthropic/jobs/5017202008",
       "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5017202008",
       "summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole.…",
@@ -2457,7 +2491,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-09-18T12:23:56",
-      "posted_label": "Posted 17 days ago",
+      "posted_label": "Posted 18 days ago",
       "listing_url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
       "apply_url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
       "summary": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
@@ -2601,7 +2635,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-09-16T12:35:28",
-      "posted_label": "Posted 19 days ago",
+      "posted_label": "Posted 20 days ago",
       "listing_url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
       "apply_url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
       "summary": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
@@ -2639,7 +2673,7 @@
       "salary": "$120 - $170 /hour",
       "remote": true,
       "published_at": "2026-09-16T10:10:53",
-      "posted_label": "Posted 19 days ago",
+      "posted_label": "Posted 20 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder.…",
