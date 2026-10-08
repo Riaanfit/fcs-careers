@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T04:13:00.631Z",
+  "generated_at": "2026-10-08T12:42:23.216Z",
   "coverage_label": "Direct company boards + selected market feeds",
   "total_jobs": 98,
   "curated_jobs": 84,
@@ -1605,6 +1605,39 @@
       ]
     },
     {
+      "id": "remotive-1185979",
+      "tier": "expanded",
+      "source": "remotive",
+      "source_label": "Remotive",
+      "source_type_label": "Selected market feed",
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "category": "Motion Design",
+      "location": "Worldwide",
+      "work_model": "Remote",
+      "employment_type": "freelance",
+      "salary": "$50-$75 /hour",
+      "remote": true,
+      "published_at": "2026-10-04T16:53:34",
+      "posted_label": "Posted 3 days ago",
+      "listing_url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "apply_url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "summary": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour).…",
+      "description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics.\n\n  \n\n The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour).\n\n  \n\n Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know):\n\n  \n\n \n\n• Health & beauty \n\n• Fitness \n\n• Home Decor \n\n• Fashion \n\n• Sports \n\n• Do it yourself \n\n• Finance \n\n• Legal \n\n• Medical \n\n• Family/Parenting \n\n• Relationships \n\n• Real Estate \n\n• Restaurants \n\n• Contracting (plumbing, pool building, remodeling, etc.) \n \n  \n\n These are just some of the more general industries and topics that we cover. \n\n  \n\n Requirements : \n\n \n\n• We ask that all work be completed using a word processor such as Microsoft Word or Open Office \n\n• A reliable internet connection and the ability to meet deadlines \n\n• Good communication skills and respond in a timely manner to editorial staff when they ask for updates on tasks, etc \n\n• Work well as a team member with the rest of our content management and editorial staff \n \n \n\n Note : Applicants to this job signaled that accessing some writing tasks may require payment.",
+      "responsibilities": [
+        "Our organization is seeking content writers to create articles and blog posts on a variety of topics.",
+        "The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour).",
+        "Contracting (plumbing, pool building, remodeling, etc.)",
+        "These are just some of the more general industries and topics that we cover.",
+        "We ask that all work be completed using a word processor such as Microsoft Word or Open Office",
+        "A reliable internet connection and the ability to meet deadlines"
+      ],
+      "source_note": "This role is distributed through Remotive and links back to the live source listing for the full application route.",
+      "tags": [
+        "REST"
+      ]
+    },
+    {
       "id": "greenhouse-anthropic-5379140008",
       "tier": "curated",
       "source": "greenhouse",
@@ -1800,14 +1833,14 @@
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
       "summary": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities.…",
-      "description": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. \n\n   \n\n Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities.\n\n We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale.\n\n   \n\n Open roles: Senior Back-end Engineer (Golang), Senior DevOps Engineer, Senior Site Reliability Engineer, Senior Storage Engineer, Senior Python & LLM Developer, Senior Back-end Engineer (Python)\n\n   \n\n Why this one's worth a look: \n\n You'll be working on infrastructure that directly shapes how AI gets built and deployed, at a company operating at the frontier of the field.\n\n Locations: EU, US, Canada, UK, Australia, Singapore, Ireland, Norway, Switzerland, Iceland, and Mexico.\n\n   \n\n Requirements for Senior Back-end Developers: \n\n \n\n• 5+ years of software development experience \n\n• 3+ years of experience with Golang and/or Python \n\n• 2+ years of experience with Kubernetes \n\n• 2+ years of experience with AI agent development \n \n   \n\n Not your stack? \n\n We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.\n\n \n We work with developers across 75+ countries in Europe, Latin America, North America, select Asian markets (Japan, Singapore, South Korea, Philippines, Indonesia, Malaysia, Vietnam, Thailand, Israel), Oceania (Australia, New Zealand, Papua New Guinea), and Africa (including Morocco, South Africa).",
+      "description": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. \n\n   \n\n Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities.\n\n We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale.\n\n   \n\n Open roles: Senior Back-end Engineer (Golang), Senior DevOps Engineer, Senior Site Reliability Engineer, Senior Storage Engineer, Senior Python & LLM Developer, Senior Back-end Engineer (Python)\n\n   \n\n Why this one's worth a look: \n\n You'll be working on infrastructure that directly shapes how AI gets built and deployed, at a company operating at the frontier of the field.\n\n Locations: the UK, Singapore, the US, and Canada.\n\n   \n\n Requirements for Senior Back-end Developers: \n\n \n\n• 5+ years of software development experience \n\n• 3+ years of experience with Golang and/or Python \n\n• 2+ years of experience with Kubernetes \n\n• 2+ years of experience with AI agent development \n \n   \n\n Not your stack? \n\n We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.\n\n \n \n\n We work with developers across 75+ countries in Europe, Latin America, North America, select Asian markets (Japan, Singapore, South Korea, Philippines, Indonesia, Malaysia, Vietnam, Thailand, Israel), Oceania (Australia, New Zealand, Papua New Guinea), and Africa (including Morocco, South Africa).",
       "responsibilities": [
         "Senior Developer? Work Remote. Get Paid Well. Build What Matters.",
         "Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities.",
         "Open roles: Senior Back-end Engineer (Golang), Senior DevOps Engineer, Senior Site Reliability Engineer, Senior Storage Engineer, Senior Python & LLM Developer, Senior Back-end Engineer (Python)",
         "Why this one's worth a look:",
         "You'll be working on infrastructure that directly shapes how AI gets built and deployed, at a company operating at the frontier of the field.",
-        "Locations: EU, US, Canada, UK, Australia, Singapore, Ireland, Norway, Switzerland, Iceland, and Mexico."
+        "Locations: the UK, Singapore, the US, and Canada."
       ],
       "source_note": "This role is distributed through Remotive and links back to the live source listing for the full application route.",
       "tags": [
@@ -2007,7 +2040,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-09-25T03:13:29-04:00",
-      "posted_label": "Posted 12 days ago",
+      "posted_label": "Posted 13 days ago",
       "listing_url": "https://job-boards.greenhouse.io/vercel/jobs/5732855004",
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5732855004",
       "summary": "About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience.…",
@@ -2281,7 +2314,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-09-23T02:18:24-04:00",
-      "posted_label": "Posted 14 days ago",
+      "posted_label": "Posted 15 days ago",
       "listing_url": "https://job-boards.greenhouse.io/anthropic/jobs/5017202008",
       "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5017202008",
       "summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole.…",
@@ -2526,7 +2559,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-09-18T12:23:56",
-      "posted_label": "Posted 19 days ago",
+      "posted_label": "Posted 20 days ago",
       "listing_url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
       "apply_url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
       "summary": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
@@ -2670,7 +2703,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-09-16T12:35:28",
-      "posted_label": "Posted 21 days ago",
+      "posted_label": "Posted 22 days ago",
       "listing_url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
       "apply_url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
       "summary": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
@@ -2708,7 +2741,7 @@
       "salary": "$120 - $170 /hour",
       "remote": true,
       "published_at": "2026-09-16T10:10:53",
-      "posted_label": "Posted 21 days ago",
+      "posted_label": "Posted 22 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder.…",
@@ -3350,38 +3383,6 @@
       "tags": [
         "Customer Operations and Support",
         "US"
-      ]
-    },
-    {
-      "id": "lever-binance-aac680dc-f6cc-40aa-93fe-44c3eb2ac1cb",
-      "tier": "expanded",
-      "source": "lever",
-      "source_label": "Lever",
-      "source_type_label": "Direct company board",
-      "title": "Graphic Designer Contractor - Gulf Binance",
-      "company": "Binance",
-      "category": "Brand Design",
-      "location": "Thailand, Bangkok",
-      "work_model": "Remote",
-      "employment_type": "Full-time Onsite or Remote",
-      "salary": "Salary not stated",
-      "remote": true,
-      "published_at": "2026-05-27T17:42:49.779Z",
-      "posted_label": "Posted 4 months ago",
-      "listing_url": "https://jobs.lever.co/binance/aac680dc-f6cc-40aa-93fe-44c3eb2ac1cb",
-      "apply_url": "https://jobs.lever.co/binance/aac680dc-f6cc-40aa-93fe-44c3eb2ac1cb/apply",
-      "summary": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users.…",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.\n\nAbout the Role\n\nAs part of BINANCE TH, a leading digital asset platform committed to advancing the adoption of blockchain and cryptocurrency in Thailand, we are seeking a highly creative and detail-oriented Graphic Designer Freelance to support our growing marketing and content initiatives.\n \nIn this role, you will be responsible for producing compelling visual assets across digital channels, including both static and motion content. You will work closely with cross-functional teams to translate campaign concepts into engaging visuals that align with BINANCE TH’s brand identity and global standards.\n \nThis position requires a strong balance of speed, creativity, and precision, with the ability to deliver high-quality work in a fast-paced, dynamic environment while maintaining strict adherence to brand guidelines.\n \nThis is a contract position for 6 months to 1 year.\nThis advertisement is for a position at Gulf Binance.",
-      "responsibilities": [
-        "This position requires a strong balance of speed, creativity, and precision, with the ability to deliver high-quality work in a fast-paced, dynamic environment while maintaining strict adherence to brand guidelines.",
-        "This is a contract position for 6 months to 1 year.",
-        "This advertisement is for a position at Gulf Binance."
-      ],
-      "source_note": "This role is pulled from the company’s public Lever board and links back to the original listing.",
-      "tags": [
-        "Design",
-        "Product & Design",
-        "Full-time Onsite or Remote"
       ]
     }
   ]
