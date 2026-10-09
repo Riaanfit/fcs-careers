@@ -1,10 +1,44 @@
 {
-  "generated_at": "2026-10-09T04:18:17.356Z",
+  "generated_at": "2026-10-09T12:29:09.286Z",
   "coverage_label": "Direct company boards + selected market feeds",
-  "total_jobs": 99,
-  "curated_jobs": 85,
+  "total_jobs": 97,
+  "curated_jobs": 83,
   "expanded_jobs": 14,
   "jobs": [
+    {
+      "id": "greenhouse-stripe-7861422",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Product Designer, Global",
+      "company": "Stripe",
+      "category": "Product Design",
+      "location": "Ireland",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-10-09T05:10:54-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=7861422",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7861422",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n\n About the team \n The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe's products. Product Designers work directly with Engineers, Product Managers, Data Scientists, and Marketers, as strategic partners, in each product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users love—and want to tell others about.\n\n The Global design team crafts product experiences that make cross-border selling as simple, performant, and scalable as domestic sales. Experiences empower businesses to easily expand into new markets worldwide without the friction of complex global operations, ranging from localized checkout experiences and comprehensive payment method coverage to handling global tax compliance and cross-border money management. Because of its global reach, this team's efforts drive significant impact for our users and business and navigate the unique challenges of designing for regions with dozens of currencies, languages, and regulatory frameworks.\n\n What you'll do \n As a product designer, you'll work closely with product managers and engineering teams to envision features in the Stripe Dashboard and checkout surfaces and partner with go-to-market teams to bring them to users. That includes new feature development, localization for priority geographies across Europe, the Middle East, and Africa, and setting vision for our products to meet new user expectations in an increasingly globally connected and AI-driven world.\n\n Responsibilities \n \n\n• Understand user workflows and pain points, and produce, test, and iterate on high-quality designs to solve user needs \n\n• Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features \n\n• Prototype user experiences for user research testing and internal communication \n\n• Collaborate with teams across Stripe to craft a seamless dashboard user experience \n\n• Conduct UXR to test design decisions before shipping \n\n• Collaborate with our design systems teams to leverage and improve templates and components \n \n Who you are \n We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• 6+ years of relevant design experience at a product-driven tech company \n\n• Strong craft demonstrated through a portfolio of work \n\n• Demonstrated skills in prototyping at high fidelity using the latest AI tools \n\n• Experience collaborating closely with engineering teams \n\n• Excellent written and verbal communication skills through design deliverables, videos, and written artifacts \n \n Preferred qualifications \n \n\n• Experience working in a growth team driving user activation \n\n• Excited about building collaborative relationships with many partners \n\n• A passion for turning complexity into usable, beautiful experiences \n\n• A strong design leader comfortable bringing your point of view to a team",
+      "responsibilities": [
+        "Understand user workflows and pain points, and produce, test, and iterate on high-quality designs to solve user needs",
+        "Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features",
+        "Prototype user experiences for user research testing and internal communication",
+        "Collaborate with teams across Stripe to craft a seamless dashboard user experience",
+        "Conduct UXR to test design decisions before shipping",
+        "Collaborate with our design systems teams to leverage and improve templates and components"
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "8811 Product Design",
+        "Ireland Locations"
+      ]
+    },
     {
       "id": "greenhouse-anthropic-5446776008",
       "tier": "curated",
@@ -756,40 +790,6 @@
       ]
     },
     {
-      "id": "greenhouse-stripe-7861422",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Product Designer, Global",
-      "company": "Stripe",
-      "category": "Product Design",
-      "location": "Ireland",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-10-07T19:02:27-04:00",
-      "posted_label": "Posted 1 day ago",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=7861422",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7861422",
-      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
-      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.\n\n About the team \n The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe's products. Product Designers work directly with Engineers, Product Managers, Data Scientists, and Marketers, as strategic partners, in each product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users love—and want to tell others about.\n\n The Global design team crafts product experiences that make cross-border selling as simple, performant, and scalable as domestic sales. Experiences empower businesses to easily expand into new markets worldwide without the friction of complex global operations, ranging from localized checkout experiences and comprehensive payment method coverage to handling global tax compliance and cross-border money management. Because of its global reach, this team's efforts drive significant impact for our users and business and navigate the unique challenges of designing for regions with dozens of currencies, languages, and regulatory frameworks.\n\n What you'll do \n As a product designer, you'll work closely with product managers and engineering teams to envision features in the Stripe Dashboard and checkout surfaces and partner with go-to-market teams to bring them to users. That includes new feature development, localization for priority geographies across Europe, the Middle East, and Africa, and setting vision for our products to meet new user expectations in an increasingly globally connected and AI-driven world.\n\n Responsibilities \n \n\n• Understand user workflows and pain points, and produce, test, and iterate on high-quality designs to solve user needs \n\n• Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features \n\n• Prototype user experiences for user research testing and internal communication \n\n• Collaborate with teams across Stripe to craft a seamless dashboard user experience \n\n• Conduct UXR to test design decisions before shipping \n\n• Collaborate with our design systems teams to leverage and improve templates and components \n \n Who you are \n We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• 6+ years of relevant design experience at a product-driven tech company \n\n• Strong craft demonstrated through a portfolio of work \n\n• Demonstrated skills in prototyping at high fidelity using the latest AI tools \n\n• Experience collaborating closely with engineering teams \n\n• Excellent written and verbal communication skills through design deliverables, videos, and written artifacts \n \n Preferred qualifications \n \n\n• Experience working in a growth team driving user activation \n\n• Excited about building collaborative relationships with many partners \n\n• A passion for turning complexity into usable, beautiful experiences \n\n• A strong design leader comfortable bringing your point of view to a team",
-      "responsibilities": [
-        "Understand user workflows and pain points, and produce, test, and iterate on high-quality designs to solve user needs",
-        "Partner closely with product, engineering, marketing, and strategy partners to define a north star and product experience for new features",
-        "Prototype user experiences for user research testing and internal communication",
-        "Collaborate with teams across Stripe to craft a seamless dashboard user experience",
-        "Conduct UXR to test design decisions before shipping",
-        "Collaborate with our design systems teams to leverage and improve templates and components"
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "8811 Product Design",
-        "Ireland Locations"
-      ]
-    },
-    {
       "id": "greenhouse-stripe-8164479",
       "tier": "curated",
       "source": "greenhouse",
@@ -1093,40 +1093,6 @@
       "tags": [
         "8512 Terminal - Eng",
         "Taiwan Locations"
-      ]
-    },
-    {
-      "id": "greenhouse-stripe-8128499",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Senior Staff Product Designer, Data & AI",
-      "company": "Stripe",
-      "category": "Product Design",
-      "location": "US / Canada",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-10-07T19:02:27-04:00",
-      "posted_label": "Posted 1 day ago",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=8128499",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8128499",
-      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
-      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\n About the team \n We design the products founders and finance teams use to understand their business and grow it. That spans two connected areas.\n\n \n\n• Data Products covers analytics, database, and data pipeline. These are the surfaces where a business asks questions of its own Stripe data and gets answers \n\n• Ecosystems and Startups covers Atlas, the App Marketplace, and the Business Network. These are how a company incorporates, connects to the tools around it, and transacts with other businesses on Stripe \n \n What you’ll do \n This role sits at the intersection of building trust in the internet economy, platform design, and new product creation, making it one of the most strategically important design opportunities at Stripe. It’s a strong fit for a designer who is energized by ambiguity, motivated by impact, and excited to shape both shared systems used across Stripe and net-new products.\n\n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• 10+ years of design experience at a tech, product-driven company \n\n• A strong portfolio demonstrating excellent craft, systems thinking, and end-to-end design, including a strong understanding of AI tools \n\n• Experience leading complex product work in close partnership with product management engineering, and design leadership \n\n• Experience shaping ambiguous spaces and driving clarity through design \n\n• A track record of influencing cross-functional teams and product direction \n \n Preferred qualifications \n \n\n• Thrive in environments where the opportunity spans systems, strategy, and zero to one product thinking \n\n• Enjoy turning complex systems, policies, and edge cases into elegant product experiences \n\n• Are energized by ambiguous, strategic problem spaces, not just well-defined execution \n\n• Are an influential storyteller who can align partners around a clear point of view \n\n• Can move fluidly between big-picture thinking and interaction-level craft \n\n• Know how to build trust through design, especially in high-stakes or sensitive user moments \n\n• Work well across disciplines and build credibility with technical, operational, and policy-oriented partners",
-      "responsibilities": [
-        "We design the products founders and finance teams use to understand their business and grow it. That spans two connected areas.",
-        "Data Products covers analytics, database, and data pipeline. These are the surfaces where a business asks questions of its own Stripe data and gets answers",
-        "Ecosystems and Startups covers Atlas, the App Marketplace, and the Business Network. These are how a company incorporates, connects to the tools around it, and transacts with other businesses on Stripe",
-        "We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.",
-        "Minimum requirements",
-        "10+ years of design experience at a tech, product-driven company"
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "8811 Product Design",
-        "US"
       ]
     },
     {
@@ -1775,43 +1741,6 @@
       ]
     },
     {
-      "id": "greenhouse-vercel-6102343004",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Product Security Engineer",
-      "company": "Vercel",
-      "category": "Product Design",
-      "location": "Hybrid - San Francisco, New York City, London",
-      "work_model": "Remote",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": true,
-      "published_at": "2026-10-02T14:28:10-04:00",
-      "posted_label": "Posted 6 days ago",
-      "listing_url": "https://job-boards.greenhouse.io/vercel/jobs/6102343004",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6102343004",
-      "summary": "About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience.…",
-      "description": "About Vercel: \n Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. \n\n Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. \n\n About the Role: \n Traditional product security teams work one report at a time: a person triages a bug bounty submission, validates it, reproduces it, and hands it off for a fix. That doesn't scale past a certain volume, and Vercel is well past it. Adding more triagers doesn't close that gap. Building the systems that triage at that scale does.\n\n This role is about building that system. Your core focus is tooling that triages and validates bug bounty and other externally reported security findings at scale, reasoning about validity, severity, and reproducibility the way a human triager would, but continuously and at volume. And we want to go beyond triage. The real leverage is in connecting a validated finding to its root cause and driving the fix, ideally with the remediation itself proposed or opened automatically for well-understood vulnerability classes.\n\n More broadly, this is a mandate to rethink traditional security tooling for how Vercel actually operates: agent-scale testing and automation in place of processes built for a much smaller company. This role also has real scope to build tooling that gives our customers their own security testing capabilities for what they build on Vercel, not just harden Vercel's own surface.\n\n Because of this, we're optimizing for someone who wants to build systems, not someone whose background is manual penetration testing. A software engineer with a strong desire to move into security, or a security engineer with a strong engineering background, is exactly who we're looking for.\n\n If you're based within a pre-determined commuting distance of one of our offices (SF, NY, or London), the role includes in-office anchor days on Monday, Tuesday, and Friday. If you're located beyond that distance, the role is fully remote. For location-specific details, please connect with our recruiting team.\n\n What You Will Do: \n \n\n• Build tooling to triage and validate bug bounty and external findings at scale: Design and operate the systems that take in externally reported vulnerabilities and automatically assess validity, severity, and reproducibility, at a volume no manual triage process could match. \n\n• Push triage beyond pattern matching, into agentic analysis: Build and operate LLM/agent-based reasoning that can validate business logic, auth, and design-level findings, not just match against known signatures. \n\n• Go from validated finding to root cause: Trace validated findings back to the underlying pattern or class, so the team fixes the reason it happened, not just the one report that came in. \n\n• Build toward automated remediation, not just automated triage: Design systems that can propose, and increasingly open, the fix itself for well-understood vulnerability classes, with the right human review gates in place. \n\n• Rethink traditional security tooling for scale: Question which parts of the traditional product security toolkit (manual threat modeling, ad hoc code review, point-in-time pentests) still make sense at Vercel's scale, and build the agent-driven tooling that replaces or augments them. \n\n• Own and evolve the bug bounty program: Manage the researcher-facing side (scope, policy, engagement) as well as the internal tooling, so every report gets resolved and makes the automated triage smarter for the next one. \n\n• Build toward customer-facing security testing capabilities: Extend the tooling and automation you build for Vercel's own products into a capability customers can use to test the security of what they build and deploy on the platform. \n \n About You: \n \n\n• You're a builder first: Strong software engineering background is more important here than classic penetration testing experience. You'd rather build the system that triages a thousand reports than work through them one at a time. We're equally excited by a software engineer who wants to move into security and a security engineer with a strong engineering background; a manual pentesting background alone is not what this role is optimized for. \n\n• Understand vulnerability triage and validation, even if that's not your primary background: You know (or can quickly learn) how to assess an externally reported finding, reproduce it, and judge severity, and you understand what makes that process hard to scale. \n\n• Curious about, or already building with, agentic and LLM-based security tooling: You have a point of view on where AI agents can reliably validate, root-cause, and fix vulnerabilities today, and where they can't yet. \n\n• Root cause and systems thinking: You default to \"how do I make this scale to the next ten thousand reports\" and \"why did this class of bug happen,\" rather than closing the one ticket in front of you. \n\n• Comfortable defining a new practice: Agent-scale product security isn't a mature discipline yet. You're excited to help define what it looks like at Vercel rather than inherit a playbook. \n\n• Web tech stack proficiency: Strong familiarity with JavaScript/TypeScript and Node.js runtime security, and modern web frameworks (ideally Next.js or React and Node-based frameworks), so you can read and validate the code your tooling is analyzing. \n \n Bonus If You: \n \n\n• Have built or contributed to security automation used broadly across an engineering org, not just for your own team. \n\n• Have experience running or triaging a bug bounty / vulnerability disclosure program. \n\n• Have experience testing or securing multi-tenant platforms where customer-built applications run on shared infrastructure. \n\n• Have built systems that auto-generate or auto-propose code fixes, not just findings. \n\n• Have thought about what security testing as a product capability could look like for a platform's customers. \n\n• Hold relevant security certifications or recognitions (for example, OSCP, OSWE, CISSP, or notable bug bounty hall of fame entries). These demonstrate your depth of knowledge, though they are not required. \n \n Compensation &amp; Benefits: \n \n\n• Competitive compensation package, including equity. \n\n• Inclusive Healthcare Package. \n\n• Learn and Grow - we provide mentorship and send you to events that help you build your network and skills. \n\n• Flexible Time Off. \n\n• We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed. \n \n The San Francisco, CA base pay range for this role is $208,000.00 - $312,000.00. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process. \n\n Disclosures: \n \n\n• Privacy: Please review our Job Applicant Privacy Policy for more information on how we handle your data. \n\n• Equal Opportunity: Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description.",
-      "responsibilities": [
-        "Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide.",
-        "Push triage beyond pattern matching, into agentic analysis: Build and operate LLM/agent-based reasoning that can validate business logic, auth, and design-level findings, not just match against known signatures.",
-        "Go from validated finding to root cause: Trace validated findings back to the underlying pattern or class, so the team fixes the reason it happened, not just the one report that came in.",
-        "Curious about, or already building with, agentic and LLM-based security tooling: You have a point of view on where AI agents can reliably validate, root-cause, and fix vulnerabilities today, and where they can't yet.",
-        "Root cause and systems thinking: You default to \"how do I make this scale to the next ten thousand reports\" and \"why did this class of bug happen,\" rather than closing the one ticket in front of you.",
-        "Comfortable defining a new practice: Agent-scale product security isn't a mature discipline yet. You're excited to help define what it looks like at Vercel rather than inherit a playbook."
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "Security",
-        "Office - Berlin",
-        "Office - London",
-        "Office - New York City",
-        "Office - San Francisco"
-      ]
-    },
-    {
       "id": "remotive-2091133",
       "tier": "expanded",
       "source": "remotive",
@@ -1936,7 +1865,7 @@
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
       "summary": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities.…",
-      "description": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. \n\n   \n\n Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities.\n\n We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale.\n\n   \n\n Open roles: Senior Back-end Engineer (Golang), Senior DevOps Engineer, Senior Site Reliability Engineer, Senior Storage Engineer, Senior Python & LLM Developer, Senior Back-end Engineer (Python)\n\n   \n\n Why this one's worth a look: \n\n You'll be working on infrastructure that directly shapes how AI gets built and deployed, at a company operating at the frontier of the field.\n\n Locations: the UK, Singapore, the US, and Canada.\n\n   \n\n Requirements for Senior Back-end Developers: \n\n \n\n• 5+ years of software development experience \n\n• 3+ years of experience with Golang and/or Python \n\n• 2+ years of experience with Kubernetes \n\n• 2+ years of experience with AI agent development \n \n   \n\n Not your stack? \n\n We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.\n\n \n \n\n We work with developers across 75+ countries in Europe, Latin America, North America, select Asian markets (Japan, Singapore, South Korea, Philippines, Indonesia, Malaysia, Vietnam, Thailand, Israel), Oceania (Australia, New Zealand, Papua New Guinea), and Africa (including Morocco, South Africa).",
+      "description": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. \n\n   \n\n Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities.\n\n We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale.\n\n   \n\n Open roles: Senior Back-end Engineer (Golang), Senior DevOps Engineer, Senior Site Reliability Engineer, Senior Storage Engineer, Senior Python & LLM Developer, Senior Back-end Engineer (Python)\n\n   \n\n Why this one's worth a look: \n\n You'll be working on infrastructure that directly shapes how AI gets built and deployed, at a company operating at the frontier of the field.\n\n Locations: the UK, Singapore, the US, and Canada.\n\n   \n\n Requirements for Senior Back-end Developers: \n\n \n\n• 5+ years of software development experience \n\n• 3+ years of experience with Golang and/or Python \n\n• 2+ years of experience with Kubernetes \n\n• 2+ years of experience with AI agent development \n \n   \n\n Not your stack? \n\n We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.\n\n \n  \n\n We work with developers across 75+ countries in Europe, Latin America, North America, select Asian markets (Japan, Singapore, South Korea, Philippines, Indonesia, Malaysia, Vietnam, Thailand, Israel), Oceania (Australia, New Zealand, Papua New Guinea), and Africa (including Morocco, South Africa).",
       "responsibilities": [
         "Senior Developer? Work Remote. Get Paid Well. Build What Matters.",
         "Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities.",
@@ -2143,7 +2072,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-09-25T03:13:29-04:00",
-      "posted_label": "Posted 13 days ago",
+      "posted_label": "Posted 14 days ago",
       "listing_url": "https://job-boards.greenhouse.io/vercel/jobs/5732855004",
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5732855004",
       "summary": "About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience.…",
@@ -2417,7 +2346,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-09-23T02:18:24-04:00",
-      "posted_label": "Posted 15 days ago",
+      "posted_label": "Posted 16 days ago",
       "listing_url": "https://job-boards.greenhouse.io/anthropic/jobs/5017202008",
       "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5017202008",
       "summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole.…",
@@ -2662,7 +2591,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-09-18T12:23:56",
-      "posted_label": "Posted 20 days ago",
+      "posted_label": "Posted 21 days ago",
       "listing_url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
       "apply_url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
       "summary": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.…",
@@ -2844,7 +2773,7 @@
       "salary": "$120 - $170 /hour",
       "remote": true,
       "published_at": "2026-09-16T10:10:53",
-      "posted_label": "Posted 22 days ago",
+      "posted_label": "Posted 23 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
       "summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder.…",
