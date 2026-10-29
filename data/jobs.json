@@ -1,10 +1,44 @@
 {
-  "generated_at": "2026-10-29T04:06:01.584Z",
+  "generated_at": "2026-10-29T12:11:12.134Z",
   "coverage_label": "Direct company boards + selected market feeds",
-  "total_jobs": 88,
-  "curated_jobs": 81,
-  "expanded_jobs": 7,
+  "total_jobs": 90,
+  "curated_jobs": 82,
+  "expanded_jobs": 8,
   "jobs": [
+    {
+      "id": "greenhouse-figma-6229275004",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Enterprise Support Specialist (Bengaluru, India)",
+      "company": "Figma",
+      "category": "Product Design",
+      "location": "Bengaluru, India",
+      "work_model": "Remote",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": true,
+      "published_at": "2026-10-29T01:49:41-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004",
+      "apply_url": "https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004",
+      "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
+      "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!\n\n As an Enterprise Support Specialist on the Customer Operations &amp; Support team, you’ll have the opportunity to partner closely with the Enterprise Support Manager to define and elevate our Enterprise Support function. As part of the growing team in our Bangalore hub, you’ll also help define how we operate in-region - shaping workflows, influencing tooling, and raising the bar for what great Enterprise support looks like at Figma. This team is responsible for crafting what exceptional support looks like for Figma's most strategic customers. You will be delivering the kind of experiences that build trust throughout the Figma community, from customers to key internal partners, such as Sales, Product, and Engineering.\n\n We're looking for a technical support expert experienced in working with B2B Enterprise-level customers with an ability to understand and help with their unique needs. You will diagnose issues, determine solutions, and anticipate customer impact, serving as a customer advocate while working cross functionally to deliver an exceptional experience. The work you do will span over technical product, account administration and billing. This role requires coverage during non-standard business hours to support global customers.\n\n Coverage outside standard business hours is part of this role. The shift days and hours for this role will be Wednesday to Sunday, 11.30pm IST - 8.30am IST.\n\n This role will be held from our Bengaluru office (in Koramangala) on a hybrid basis.\n\n What you'll do at Figma: \n \n\n• Develop expertise of Figma's products and the journey of our customers, from Product Designers to Account Administrators, to accurately diagnose sophisticated inquiries \n\n• Interact with Figma customers daily via email, taking ownership over cases from start to resolution \n\n• Partner closely with Sales teams to guide large scale organizations through complex workspace configurations, acting quickly to address technical issues and ensuring successful account setup \n\n• Operate as the voice of the customer, capturing both product and process gaps in the experience and presenting data-backed cases for new feature development and process automation \n\n• Act as designated point of contact for high-risk escalations and issues, proactively engaging the appropriate partners, and owning communication through to solution \n\n• Identify trends and communicate insights to our Product and Engineering teams to advocate for bug fixes, process improvements, and feature enhancements \n\n• Engage in pilot programs and experimentation to identify efficient approaches for delivering fast and personalized interactions to meet performance expectations and customer commitments \n\n• Recommend foundational tooling and processes in partnership with our Product Support Operations teams to ensure we are set up to scale \n \n We’d love to hear from you if you have: \n \n\n• 2+ years of experience in a technical SaaS Support environment, ideally supporting Enterprise customers \n\n• Proficiency in troubleshooting SAML/SSO and SCIM configurations for large-scale organizations \n\n• Familiarity with system administration for large end-user communities or guiding customers through complex implementations \n\n• Ability to assess the business impact of technical issues to drive cross-functional alignment, prioritization, and timely resolution \n \n While it’s not required, it’s an added plus if you also have: \n \n\n• Skilled in using tools such as Adobe XD, Sketch, and/or Framer and a passion for UX/UI development \n\n• Familiarity and willingness to learn AI concepts (e.g., prompt refinement, natural language tools, generative AI, machine learning basics) \n \n At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.\n\n At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status , or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.\n\n We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com . These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities. \n\n Examples of accommodations include but are not limited to: \n\n \n\n• Holding interviews in an accessible location \n\n• Enabling closed captioning on video conferencing \n\n• Ensuring all written communication be compatible with screen readers \n\n• Changing the mode or format of interviews \n \n To ensure the integrity of our hiring process and facilitate a more personal connection, we require all candidates keep their cameras on during video interviews. Additionally, if hired you will be required to attend in person onboarding.\n\n By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with Figma's Candidate Privacy Notice .\n\n Application limits: To help candidates focus on the opportunities most relevant to their skills and experience, Figma limits the number and frequency of applications. These limits apply to all roles:\n\n \n\n• Candidates may submit up to 5 applications during any rolling 30-day period. \n\n• Candidates may not reapply to the same role while an application is active or within 90 days of receiving a rejection. \n \n Once the applicable days has passed, candidates are welcome to apply again.",
+      "responsibilities": [
+        "Coverage outside standard business hours is part of this role. The shift days and hours for this role will be Wednesday to Sunday, 11.30pm IST - 8.30am IST.",
+        "This role will be held from our Bengaluru office (in Koramangala) on a hybrid basis.",
+        "What you'll do at Figma:",
+        "Develop expertise of Figma's products and the journey of our customers, from Product Designers to Account Administrators, to accurately diagnose sophisticated inquiries",
+        "Interact with Figma customers daily via email, taking ownership over cases from start to resolution",
+        "Partner closely with Sales teams to guide large scale organizations through complex workspace configurations, acting quickly to address technical issues and ensuring successful account setup"
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "Customer Operations and Support",
+        "Bengaluru, India"
+      ]
+    },
     {
       "id": "greenhouse-figma-6237757004",
       "tier": "curated",
@@ -971,6 +1005,44 @@
       ]
     },
     {
+      "id": "remotive-2091135",
+      "tier": "expanded",
+      "source": "remotive",
+      "source_label": "Remotive",
+      "source_type_label": "Selected market feed",
+      "title": "Senior Back-end Developer",
+      "company": "Lemon.io",
+      "category": "Motion Design",
+      "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
+      "work_model": "Remote",
+      "employment_type": "full_time",
+      "salary": "Salary not stated",
+      "remote": true,
+      "published_at": "2026-10-27T12:56:13",
+      "posted_label": "Posted 1 day ago",
+      "listing_url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
+      "apply_url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
+      "summary": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us.…",
+      "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us.\n\n  \n\n Currently, we have a few open positions from our client, an AI-native cloud company. AI teams use its platform to run inference on open-source models, fine-tune them and rent large GPU clusters. The fleet is set to grow about 10×; the team won't. That's where you come in.\n\n   \n\n Who they’re looking for : Site Reliability Engineer, Senior Back-end Developer with Golang, Senior Back-end Developer with Python, AI Infrastructure Engineer, Distributed Storage Engineer, DevOps.\n\n   \n\n Requirements for Senior Back-end Developers with Golang \n\n \n\n• 5+ years of commercial experience with Golang \n\n• 2+ years of commercial experience with Kubernetes \n\n• 1+ year of experience in AI-assisted coding \n\n• Experience with distributed systems \n \n   \n\n Requirements for Senior Back-end Developers with Python \n\n \n\n• \n 5+ years of commercial experience with Python\n\n \n\n• \n 2+ years of commercial experience with Linux\n\n \n\n• \n 2+ years of commercial experience with Kubernetes\n\n \n\n• \n 1+ year of experience in AI-assisted coding\n\n \n\n• \n Experience with distributed systems\n\n \n\n• \n You own problems end-to-end: you spot the issue, design and build the solution, and ship it to production\n\n \n\n• \n You can show the business impact of your work with concrete results (e.g., faster processing, lower costs, more users, fewer incidents)\n\n \n\n• \n Advanced English: you discuss business tasks, explain your decisions, raise issues early, and present yourself and your results well on client calls\n\n \n\n• \n You work full-time remotely and deliver without supervision\n\n \n\n• \n You onboard quickly and start shipping in your first weeks\n\n \n \n  \n\n Other job listings you can check using the link . You will be redirected to the career page with offers from the client on our website.\n\n   \n\n How it works \n\n \n\n• Apply and complete your profile \n\n• Verify your role \n\n• Once approved, we match you with a project. \n \n  \n\n Ready? Apply!\n\n   \n\n NOT YOUR TECH STACK? \n\n We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & An gular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Angular, Python & Node, React & Node.js, Node & TypeScript, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you. \n\n We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.\n\n \n\n  \n\n We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, Saudi Arabia, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).",
+      "responsibilities": [
+        "Who they’re looking for : Site Reliability Engineer, Senior Back-end Developer with Golang, Senior Back-end Developer with Python, AI Infrastructure Engineer, Distributed Storage Engineer, DevOps.",
+        "Requirements for Senior Back-end Developers with Golang",
+        "5+ years of commercial experience with Golang",
+        "2+ years of commercial experience with Kubernetes",
+        "1+ year of experience in AI-assisted coding",
+        "Experience with distributed systems"
+      ],
+      "source_note": "This role is distributed through Remotive and links back to the live source listing for the full application route.",
+      "tags": [
+        ".Net",
+        "android",
+        "C",
+        "C#",
+        "C++",
+        "cloud"
+      ]
+    },
+    {
       "id": "greenhouse-stripe-8226890",
       "tier": "curated",
       "source": "greenhouse",
@@ -985,7 +1057,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-10-27T05:21:13-04:00",
-      "posted_label": "Posted 1 day ago",
+      "posted_label": "Posted 2 days ago",
       "listing_url": "https://stripe.com/jobs/search?gh_jid=8226890",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=8226890",
       "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
