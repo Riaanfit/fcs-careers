@@ -1,10 +1,44 @@
 {
-  "generated_at": "2026-10-30T04:06:50.582Z",
+  "generated_at": "2026-10-30T12:01:44.593Z",
   "coverage_label": "Direct company boards + selected market feeds",
-  "total_jobs": 90,
-  "curated_jobs": 82,
+  "total_jobs": 91,
+  "curated_jobs": 83,
   "expanded_jobs": 8,
   "jobs": [
+    {
+      "id": "greenhouse-stripe-8265389",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Motion Designer, Stripe Identity",
+      "company": "Stripe",
+      "category": "Motion Design",
+      "location": "Barcelona",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-10-30T05:53:15-04:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=8265389",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8265389",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n\n About the team \n The Stripe Brand Studio is a multi-disciplinary team that accelerates the awareness and trajectory of our brand. We craft the creative vision and strategy for different types of projects and audiences, and amplify them across various mediums, channels, objects to environments, and digital and physical experiences.\n\n The Stripe brand identity team is responsible for defining and evolving Stripe’s visual identity, and bringing the Stripe brand to life in new and impactful ways across surfaces. Our goal is to enable the creation of a coherent, high quality brand experience across the user journey, building recognition and trust in Stripe at every turn. We collaborate with other design systems teams to translate our brand for Stripe.com and Dashboard, and partner with teams across the company on high impact user-facing projects to create work that feels authentic to Stripe at scale.\n\n What you’ll do \n 3d illustrator/animators at Stripe demonstrate passion for great design and for expanding, evolving, defining, and documenting flexible illustration systems that achieve bar-raising quality and consistency for the brand at scale. The ideal candidate excels at delivering on brand 3d illustration from conception, to 3d modeling, and all the way to motion. They have a deep understanding of visual storytelling, iterate quickly, and collaborate seamlessly with marketers, product managers, leaders, other designers, and agency partners.\n\n Responsibilities \n \n\n• Work across the Stripe brand ecosystem to develop, establish and create illustration and motion styles in close partnership with brand, product design, and marketing. \n\n• Create photo-realistic 3d compositions that tell editorial stories in static and motion and a variety of advertising surfaces from billboards to video. \n\n• Champion and influence how the Stripe brands expresses itself through image and motion and develop guidelines, systems, and processes to ensure quality and consistency at scale. \n\n• Work collaboratively with non-motion designers, elevating and informing each others’ work. \n\n• Oversee quality and consistency of 3d illustration/motion and how it is used to express our brand—from product, to advertising campaigns and events. \n\n• Oversee the work of external teams in creative strategy, execution, and production. \n\n• Collaborate with designers, researchers, product managers, marketers, and other cross-functional partners to serve a global audience. \n\n• Inspire, create and sustain a culture of excellence by expanding and evolving our best practices, design process, and ideation. \n\n• Stay curious and experimental as an avid maker, obsessed with tinkering and tool building with AI to create beautiful things \n\n• Shape a strategic vision that pushes brand boundaries and builds internal awareness of design’s impact at Stripe \n \n Who you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.\n\n Minimum requirements \n \n\n• 6+ years of relevant design and art direction experience for technical and product-driven companies. \n\n• Bachelor’s or Master’s degree in art, or equivalent professional experience. \n\n• Have a strong strategic acumen for building leading brands in a fast-paced, global facing environment. \n\n• Are a systems-thinker and excel at extrapolating and extending shared patterns and behaviors. \n\n• Proven excellence in effective art direction, and building and extending 3d illustration systems. \n\n• Have proven track record of using and building AI tools to create exceptional work in new ways \n\n• Have the ability to express and communicate a brand through distinct graphics, patterns, motion, interaction, and video. \n\n• Can effectively communicate concepts, direction and decisions with the team and with external partners. \n\n• Strong track record independently delivering work as well as collaborating with and influencing the work of other designers, contractors, and agencies. \n \n Preferred qualifications \n \n\n• Find a meaningful balance between optimizing for speed, quality, and doing risky, interesting, pixel-perfect work. \n\n• Are persuasive and humble in explaining your work, process, and decisions and crave feedback to help you design at your best. \n\n• Love working with other designers to help them learn and grow—and have them help you learn and grow.",
+      "responsibilities": [
+        "Work across the Stripe brand ecosystem to develop, establish and create illustration and motion styles in close partnership with brand, product design, and marketing.",
+        "Create photo-realistic 3d compositions that tell editorial stories in static and motion and a variety of advertising surfaces from billboards to video.",
+        "Champion and influence how the Stripe brands expresses itself through image and motion and develop guidelines, systems, and processes to ensure quality and consistency at scale.",
+        "Work collaboratively with non-motion designers, elevating and informing each others’ work.",
+        "Oversee quality and consistency of 3d illustration/motion and how it is used to express our brand—from product, to advertising campaigns and events.",
+        "Oversee the work of external teams in creative strategy, execution, and production."
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "8113 Brand Studio",
+        "Spain Locations"
+      ]
+    },
     {
       "id": "greenhouse-figma-6235282004",
       "tier": "curated",
@@ -1416,7 +1450,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-10-29T01:49:41-04:00",
-      "posted_label": "Posted today",
+      "posted_label": "Posted 1 day ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
