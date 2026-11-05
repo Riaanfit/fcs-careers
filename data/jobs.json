@@ -1,10 +1,44 @@
 {
-  "generated_at": "2026-11-05T04:52:16.473Z",
+  "generated_at": "2026-11-05T13:54:12.455Z",
   "coverage_label": "Direct company boards + selected market feeds",
-  "total_jobs": 88,
+  "total_jobs": 87,
   "curated_jobs": 82,
-  "expanded_jobs": 6,
+  "expanded_jobs": 5,
   "jobs": [
+    {
+      "id": "greenhouse-stripe-8241571",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Junior Commercial Associate, Works in Progress",
+      "company": "Stripe",
+      "category": "Motion Design",
+      "location": "London",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-11-05T04:46:57-05:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://stripe.com/jobs/search?gh_jid=8241571",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8241571",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accel…",
+      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. \n\n About the team \n Works in Progress is Stripe's magazine of new and underrated ideas to improve the world. We publish an eclectic mix of articles on policy, economics, business, technology, science, history, arts and culture, published online and in print. We have a fast-growing global audience, primarily in tech, finance and politics, and we are building out the team across editorial, design, operations and commercial.\n\n What you’ll do \n This is an entry-level commercial role for a recent graduate who is ambitious, organised and excited to learn quickly in a small, entrepreneurial team.\n\n You will work closely with the Director of Commercial and Audiovisual across the magazine’s commercial activity: advertising, subscriptions, events, marketing and partnerships. You will help keep commercial projects moving by conducting research, supporting outreach, maintaining pipelines and trackers, following up with prospective partners, and contributing to growth experiments.\n\n You will learn by doing: writing outbound emails, building target lists, preparing materials, tracking results, joining calls and following up consistently. It is a strong opportunity for someone who wants early exposure to senior commercial work and meaningful responsibility from the start of their career.\n\n Responsibilities \n \n\n• Support the advertising sales process, including preparing rate cards, pitch decks, outreach and pipeline materials. \n\n• Research and build target lists of potential advertisers, sponsors, agencies, founders, investors and partners. \n\n• Draft clear, thoughtful outbound emails and follow-ups. \n\n• Maintain accurate CRM records, commercial trackers and reporting. \n\n• Support subscription growth through acquisition and retention ideas, and help measure their effectiveness. \n\n• Help develop the events business, including sponsor research, partnership outreach and event planning support. \n\n• Assist with early marketing and growth experiments across paid acquisition, referrals, partnerships, direct mail and audience development. \n\n• Prepare decks, reports and briefing materials that help commercial conversations move forward. \n\n• Join meetings and calls with clients, partners and agencies, taking notes and supporting follow-up. \n\n• Help turn commercial ideas into clear proposals with pricing, positioning and next steps. \n\n• Work across sales, marketing, events and subscriptions, adapting quickly as priorities evolve. \n\n• Take on the practical, sometimes unglamorous work needed to help a small business grow. \n \n Who you are \n We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. \n\n Minimum requirements \n \n\n• Is a recent graduate, or has equivalent early-career experience. \n\n• Is excited by commercial work and motivated by helping ideas turn into revenue. \n\n• Is interested in sales, marketing, partnerships, media, events or business development. \n\n• Is highly organised and comfortable managing lists, trackers and multiple follow-ups. \n\n• Is numerate and confident using spreadsheets. \n\n• Is a sharp, clear writer who can communicate professionally over email and in presentations. \n\n• Is proactive, resilient and comfortable reaching out to people they do not know. \n\n• Is curious, resourceful and willing to learn quickly. \n\n• Enjoys working in a small team where everyone pitches in. \n\n• Is comfortable with both high-profile opportunities and repetitive operational work, such as researching prospects and following up on outreach. \n\n• Has an interest in media, publishing, technology, economics, policy or culture. Previous media or publishing experience is helpful but not required. \n \n Working at Works in Progress \n\n This role is based in London and requires working from the office every day. You will be part of a small, ambitious team that cares deeply about the magazine and its growth. In return, you will get a steep learning curve, close mentorship and the chance to contribute directly to building the commercial future of Works in Progress.",
+      "responsibilities": [
+        "This is an entry-level commercial role for a recent graduate who is ambitious, organised and excited to learn quickly in a small, entrepreneurial team.",
+        "Support the advertising sales process, including preparing rate cards, pitch decks, outreach and pipeline materials.",
+        "Research and build target lists of potential advertisers, sponsors, agencies, founders, investors and partners.",
+        "Draft clear, thoughtful outbound emails and follow-ups.",
+        "Maintain accurate CRM records, commercial trackers and reporting.",
+        "Support subscription growth through acquisition and retention ideas, and help measure their effectiveness."
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "2414 Works in Progress",
+        "GB-London"
+      ]
+    },
     {
       "id": "greenhouse-stripe-8283782",
       "tier": "curated",
@@ -88,7 +122,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-11-04T06:34:53-05:00",
-      "posted_label": "Posted today",
+      "posted_label": "Posted 1 day ago",
       "listing_url": "https://stripe.com/jobs/search?gh_jid=8265389",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=8265389",
       "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
@@ -225,7 +259,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-11-03T08:20:48-05:00",
-      "posted_label": "Posted 1 day ago",
+      "posted_label": "Posted 2 days ago",
       "listing_url": "https://stripe.com/jobs/search?gh_jid=8155002",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=8155002",
       "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerat…",
@@ -599,7 +633,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-10-30T09:45:21-04:00",
-      "posted_label": "Posted 5 days ago",
+      "posted_label": "Posted 6 days ago",
       "listing_url": "https://job-boards.greenhouse.io/gusto/jobs/7918214",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7918214",
       "summary": "About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers.…",
@@ -923,40 +957,6 @@
       "tags": [
         "2326 Bridge - Marketing",
         "US"
-      ]
-    },
-    {
-      "id": "greenhouse-stripe-8241571",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Junior Commercial Associate, Works in Progress",
-      "company": "Stripe",
-      "category": "Motion Design",
-      "location": "London",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-10-29T10:42:09-04:00",
-      "posted_label": "Posted 6 days ago",
-      "listing_url": "https://stripe.com/jobs/search?gh_jid=8241571",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8241571",
-      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accel…",
-      "description": "Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. \n\n About the team \n Works in Progress is Stripe's magazine of new and underrated ideas to improve the world. We publish an eclectic mix of articles on policy, economics, business, technology, science, history, arts and culture, published online and in print. We have a fast-growing global audience, primarily in tech, finance and politics, and we are building out the team across editorial, design, operations and commercial.\n\n What you’ll do \n This is an entry-level commercial role for a recent graduate who is ambitious, organised and excited to learn quickly in a small, entrepreneurial team.\n\n You will work closely with the Director of Commercial and Audiovisual across the magazine’s commercial activity: advertising, subscriptions, events, marketing and partnerships. You will help keep commercial projects moving by conducting research, supporting outreach, maintaining pipelines and trackers, following up with prospective partners, and contributing to growth experiments.\n\n You will learn by doing: writing outbound emails, building target lists, preparing materials, tracking results, joining calls and following up consistently. It is a strong opportunity for someone who wants early exposure to senior commercial work and meaningful responsibility from the start of their career.\n\n Responsibilities \n \n\n• Support the advertising sales process, including preparing rate cards, pitch decks, outreach and pipeline materials. \n\n• Research and build target lists of potential advertisers, sponsors, agencies, founders, investors and partners. \n\n• Draft clear, thoughtful outbound emails and follow-ups. \n\n• Maintain accurate CRM records, commercial trackers and reporting. \n\n• Support subscription growth through acquisition and retention ideas, and help measure their effectiveness. \n\n• Help develop the events business, including sponsor research, partnership outreach and event planning support. \n\n• Assist with early marketing and growth experiments across paid acquisition, referrals, partnerships, direct mail and audience development. \n\n• Prepare decks, reports and briefing materials that help commercial conversations move forward. \n\n• Join meetings and calls with clients, partners and agencies, taking notes and supporting follow-up. \n\n• Help turn commercial ideas into clear proposals with pricing, positioning and next steps. \n\n• Work across sales, marketing, events and subscriptions, adapting quickly as priorities evolve. \n\n• Take on the practical, sometimes unglamorous work needed to help a small business grow. \n \n Who you are \n We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. \n\n Minimum requirements \n \n\n• Is a recent graduate, or has equivalent early-career experience. \n\n• Is excited by commercial work and motivated by helping ideas turn into revenue. \n\n• Is interested in sales, marketing, partnerships, media, events or business development. \n\n• Is highly organised and comfortable managing lists, trackers and multiple follow-ups. \n\n• Is numerate and confident using spreadsheets. \n\n• Is a sharp, clear writer who can communicate professionally over email and in presentations. \n\n• Is proactive, resilient and comfortable reaching out to people they do not know. \n\n• Is curious, resourceful and willing to learn quickly. \n\n• Enjoys working in a small team where everyone pitches in. \n\n• Is comfortable with both high-profile opportunities and repetitive operational work, such as researching prospects and following up on outreach. \n\n• Has an interest in media, publishing, technology, economics, policy or culture. Previous media or publishing experience is helpful but not required. \n \n Working at Works in Progress \n\n This role is based in London and requires working from the office every day. You will be part of a small, ambitious team that cares deeply about the magazine and its growth. In return, you will get a steep learning curve, close mentorship and the chance to contribute directly to building the commercial future of Works in Progress.",
-      "responsibilities": [
-        "This is an entry-level commercial role for a recent graduate who is ambitious, organised and excited to learn quickly in a small, entrepreneurial team.",
-        "Support the advertising sales process, including preparing rate cards, pitch decks, outreach and pipeline materials.",
-        "Research and build target lists of potential advertisers, sponsors, agencies, founders, investors and partners.",
-        "Draft clear, thoughtful outbound emails and follow-ups.",
-        "Maintain accurate CRM records, commercial trackers and reporting.",
-        "Support subscription growth through acquisition and retention ideas, and help measure their effectiveness."
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "2414 Works in Progress",
-        "GB-London"
       ]
     },
     {
@@ -1825,7 +1825,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-10-29T01:49:41-04:00",
-      "posted_label": "Posted 6 days ago",
+      "posted_label": "Posted 7 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
@@ -2516,7 +2516,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-10-27T12:56:13",
-      "posted_label": "Posted 8 days ago",
+      "posted_label": "Posted 9 days ago",
       "listing_url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
       "apply_url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
       "summary": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us.…",
@@ -2811,39 +2811,6 @@
       "tags": [
         "Communications",
         "San Francisco, CA"
-      ]
-    },
-    {
-      "id": "remotive-1185979",
-      "tier": "expanded",
-      "source": "remotive",
-      "source_label": "Remotive",
-      "source_type_label": "Selected market feed",
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "category": "Motion Design",
-      "location": "Worldwide",
-      "work_model": "Remote",
-      "employment_type": "freelance",
-      "salary": "$50-$75 /hour",
-      "remote": true,
-      "published_at": "2026-10-04T16:53:34",
-      "posted_label": "Posted 1 month ago",
-      "listing_url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "apply_url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "summary": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour).…",
-      "description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics.\n\n  \n\n The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour).\n\n  \n\n Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know):\n\n  \n\n \n\n• Health & beauty \n\n• Fitness \n\n• Home Decor \n\n• Fashion \n\n• Sports \n\n• Do it yourself \n\n• Finance \n\n• Legal \n\n• Medical \n\n• Family/Parenting \n\n• Relationships \n\n• Real Estate \n\n• Restaurants \n\n• Contracting (plumbing, pool building, remodeling, etc.) \n \n  \n\n These are just some of the more general industries and topics that we cover. \n\n  \n\n Requirements : \n\n \n\n• We ask that all work be completed using a word processor such as Microsoft Word or Open Office \n\n• A reliable internet connection and the ability to meet deadlines \n\n• Good communication skills and respond in a timely manner to editorial staff when they ask for updates on tasks, etc \n\n• Work well as a team member with the rest of our content management and editorial staff \n \n \n\n Note : Applicants to this job signaled that accessing some writing tasks may require payment.",
-      "responsibilities": [
-        "Our organization is seeking content writers to create articles and blog posts on a variety of topics.",
-        "The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour).",
-        "Contracting (plumbing, pool building, remodeling, etc.)",
-        "These are just some of the more general industries and topics that we cover.",
-        "We ask that all work be completed using a word processor such as Microsoft Word or Open Office",
-        "A reliable internet connection and the ability to meet deadlines"
-      ],
-      "source_note": "This role is distributed through Remotive and links back to the live source listing for the full application route.",
-      "tags": [
-        "REST"
       ]
     },
     {
