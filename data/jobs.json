@@ -1,10 +1,78 @@
 {
-  "generated_at": "2026-11-13T23:10:01.166Z",
+  "generated_at": "2026-11-14T04:42:52.954Z",
   "coverage_label": "Direct company boards + selected market feeds",
   "total_jobs": 86,
   "curated_jobs": 78,
   "expanded_jobs": 8,
   "jobs": [
+    {
+      "id": "greenhouse-anthropic-5477746008",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Staff+ Software Engineer, Claude Design",
+      "company": "Anthropic",
+      "category": "Motion Design",
+      "location": "San Francisco, CA | New York City, NY",
+      "work_model": "See listing",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": false,
+      "published_at": "2026-11-13T21:48:38-05:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://job-boards.greenhouse.io/anthropic/jobs/5477746008",
+      "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5477746008",
+      "summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole.…",
+      "description": "About Anthropic \n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n\n About the role \n Claude Design lets anyone collaborate with Claude to create polished visual work: interactive prototypes, product mockups, slides, and animations. We're making Claude the best visual storyteller there is, lowering the floor so anyone can bring an idea to life, and raising the ceiling on what the most skilled creators can make. We work on Artifacts in Claude, and so far we've shipped new kinds of artifacts like Claude Design, Slides, Whiteboard , and Motion, and we are exploring new bets.\n\n We're looking for Software Engineers to help build and shape Claude Design and the creative capabilities of Claude. We are exploring the frontier of how Claude collaborates with people visually, and how Claude can empower better human to human collaboration as well. You'll work at the intersection of cutting-edge research and real-world application, rapidly building and testing new experiences, partnering directly with researchers and users, and helping to generate the crucial insights that shape where the product goes next.\n\n You'll join a small, fast-moving team with high autonomy. If you're a strong design engineer who loves building visual products and likes to sweat the details, we'd love to hear from you.\n\n Key responsibilities \n \n\n• Build and ship user-facing features across our products, and help decide which creative spaces we explore next \n\n• Set technical direction for these products, including editor and canvas architecture, real-time collaboration, and rich import and export \n\n• Own the quality bar for how these products look and feel, treating latency, responsiveness, and reliability as first-class concerns and raising user experience and design considerations early \n\n• Partner with researchers to rapidly prototype experiences around vision and generation capabilities, and help improve the quality of what Claude generates \n\n• Spend time with users and dig into how people actually use what you ship, then turn what you learn into what we build next \n\n• Build the shared foundations that let us launch new creative tools quickly and make them work well together \n \n Minimum qualifications \n \n\n• Strong design sensibility and a high bar for craft, including attention to interaction details, motion, and polish \n\n• Ability to thrive in ambiguity and be energized by uncertainty \n\n• High agency, good judgment about what matters, and a bias toward shipping \n\n• A deeply user-centric approach: you validate ideas with actual users before over-investing and talk about problems before solutions \n\n• Strong opinions held loosely: you advocate forcefully for ideas but change your mind based on evidence \n\n• Care for Anthropic's mission and the societal impacts of your work \n \n Preferred qualifications \n \n\n• Extensive experience working with or building visual collaboration and creative tools \n\n• Experience with UI and UX for AI-powered applications, and fluency collaborating closely with designers \n\n• Background conducting user research, interviews, and usability testing \n\n• Experience building and shipping products from 0 to 1 \n\n• Experience building product platforms, primitives, or shared foundations that other products and teams build on top of \n\n• Performance optimization experience, such as profiling, improving rendering, and tracing end-to-end latency \n The annual compensation range for this role is listed below. \n\n For sales roles, the range provided is the role’s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.\n\n Annual Salary: $405,000 &mdash; $485,000 USD Logistics \n Minimum education: Bachelor’s degree or an equivalent combination of education, training, and/or experience\n\n Required field of study: A field relevant to the role as demonstrated through coursework, training, or professional experience\n\n Minimum years of experience: Years of experience required will correlate with the internal job level requirements for the position\n\n Location-based hybrid policy: Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.\n\n Visa sponsorship: We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.\n\n For roles performing work in California: We will consider for employment all qualified applicants, including those with arrest or conviction records or criminal histories, in a manner consistent with the requirements of applicable state and local laws, including the San Francisco Fair Chance Ordinance, the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act.\n\n We encourage you to apply even if you do not believe you meet every single qualification. Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.\n\n Your safety matters to us. To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings.\n\n How we're different \n We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.\n\n The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.\n\n Come work with us! \n Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. Guidance on Candidates' AI Usage: Learn about our policy for using AI in our application process.",
+      "responsibilities": [
+        "You'll join a small, fast-moving team with high autonomy. If you're a strong design engineer who loves building visual products and likes to sweat the details, we'd love to hear from you.",
+        "Key responsibilities",
+        "Build and ship user-facing features across our products, and help decide which creative spaces we explore next",
+        "Set technical direction for these products, including editor and canvas architecture, real-time collaboration, and rich import and export",
+        "Own the quality bar for how these products look and feel, treating latency, responsiveness, and reliability as first-class concerns and raising user experience and design considerations early",
+        "Partner with researchers to rapidly prototype experiences around vision and generation capabilities, and help improve the quality of what Claude generates"
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "Engineering & Design - Product",
+        "San Francisco, CA"
+      ]
+    },
+    {
+      "id": "greenhouse-vercel-6199608004",
+      "tier": "curated",
+      "source": "greenhouse",
+      "source_label": "Greenhouse",
+      "source_type_label": "Direct company board",
+      "title": "Software Engineer, Agentic Infrastructure",
+      "company": "Vercel",
+      "category": "Motion Design",
+      "location": "Hybrid - San Francisco, New York City",
+      "work_model": "Remote",
+      "employment_type": "Not stated",
+      "salary": "Salary not stated",
+      "remote": true,
+      "published_at": "2026-11-13T19:38:43-05:00",
+      "posted_label": "Posted today",
+      "listing_url": "https://job-boards.greenhouse.io/vercel/jobs/6199608004",
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6199608004",
+      "summary": "About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience.…",
+      "description": "About Vercel: \n Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. \n\n Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. \n\n About the role \n The next generation of software won’t just be used by people — it’ll be built and shipped by agents. Builds are where that happens, and they’re the beating heart of Vercel. Whether an idea starts in v0, in an agent, or in an engineer’s editor, every customer builds — and millions of builds flow through our systems every day.\n\n As an engineer on the Agentic Infrastructure team, you’ll take ownership of the systems that carry that work at scale. You won’t just contribute features — you’ll be responsible for the design, reliability, and evolution of the platform itself. You’ll make decisions that shape performance, define best practices, and ensure the workflows that Vercel, our customers, and their agents depend on are fast, resilient, and secure.\n\n This role blends product thinking with deep systems ownership. You’ll partner with teams across Vercel to build and operate the agentic infrastructure that determines how software actually ships.\n\n We’re looking for engineers who want to own high-scale systems end-to-end, thrive on improving the developer/agent experience, and are driven to have a lasting impact on how modern software gets built and delivered.\n\n What you’ll do \n \n\n• Own and evolve the infrastructure that powers Vercel’s build and deployment lifecycle — from handling webhooks to designing resilient database schemas and building scalable APIs. \n\n• Design and operate high-performance microservices that process millions of builds daily, ensuring speed, reliability, and developer delight. \n\n• Lead projects end-to-end: from identifying opportunities to defining technical direction and delivering improvements in performance, reliability, and developer experience. \n\n• Collaborate across teams to align infrastructure with company-wide goals and ensure seamless developer workflows. \n\n• Shape the long-term vision of agentic infrastructure at Vercel by setting standards for scalability, reliability, and developer productivity. \n\n• Participate in the on-call rotation, taking responsibility for the reliability of critical systems. \n\n• Contribute to the open-source community, representing Vercel’s commitment to advancing developer tools globally. \n\n• Write clean, efficient, tested, and well-documented code that others can build upon confidently. \n \n What you need \n \n\n• 3+ years of experience designing, building, and operating backend applications and distributed systems at scale. \n\n• Strong proficiency in JavaScript/TypeScript, with the ability to navigate and improve complex systems. \n\n• Strong proficiency with cloud infrastructure (AWS) and infrastructure as code (Terraform) \n\n• A track record of end-to-end ownership — from design and implementation through to long-term operation in production. \n\n• Skilled at cross-team collaboration, able to influence priorities and drive alignment toward shared goals. \n\n• Able to reason about technical direction and architectural tradeoffs, balancing long-term vision with pragmatic delivery. \n\n• Invested in the people around you — through mentorship, code review, or simply raising the bar on how the team builds. \n\n• Curious, eager to learn, and motivated to push the boundaries of how modern software gets built and shipped. \n \n Bonus if you \n \n\n• Are familiar with React or Next.js \n\n• Have experience with DynamoDB \n\n• Have worked to develop a CI/CD platform or internal developer platform used by other engineers or by agents. \n\n• Have experience contributing to or participating in open-source projects. \n\n• Have experience optimizing build systems for monorepos or polyrepo setups. \n\n• Have experience with build caching, artifact storage, or dependency management at scale. \n \n Benefits &amp; Compensation: \n \n\n• Competitive compensation package, including equity. \n\n• Inclusive Healthcare Package. \n\n• Learn and Grow - we provide mentorship and send you to events that help you build your network and skills. \n\n• Flexible Time Off. \n\n• We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed. \n \n The base pay range for this role is $196,000.00 - $294,000.00. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process. \n\n #LI-KR1\n\n Disclosures: \n \n\n• Privacy: Please review our Job Applicant Privacy Policy for more information on how we handle your data. \n\n• Equal Opportunity: Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description.",
+      "responsibilities": [
+        "Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide.",
+        "This role blends product thinking with deep systems ownership. You’ll partner with teams across Vercel to build and operate the agentic infrastructure that determines how software actually ships.",
+        "We’re looking for engineers who want to own high-scale systems end-to-end, thrive on improving the developer/agent experience, and are driven to have a lasting impact on how modern software gets built and delivered.",
+        "Own and evolve the infrastructure that powers Vercel’s build and deployment lifecycle — from handling webhooks to designing resilient database schemas and building scalable APIs.",
+        "Design and operate high-performance microservices that process millions of builds daily, ensuring speed, reliability, and developer delight.",
+        "Lead projects end-to-end: from identifying opportunities to defining technical direction and delivering improvements in performance, reliability, and developer experience."
+      ],
+      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
+      "tags": [
+        "Engineering",
+        "Remote - United States"
+      ]
+    },
     {
       "id": "greenhouse-vercel-6128387004",
       "tier": "curated",
@@ -71,40 +139,6 @@
       "tags": [
         "Marketing",
         "AMER"
-      ]
-    },
-    {
-      "id": "greenhouse-anthropic-5477746008",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Staff+ Software Engineer, Claude Design",
-      "company": "Anthropic",
-      "category": "Motion Design",
-      "location": "San Francisco, CA | New York City, NY",
-      "work_model": "See listing",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": false,
-      "published_at": "2026-11-13T12:35:50-05:00",
-      "posted_label": "Posted today",
-      "listing_url": "https://job-boards.greenhouse.io/anthropic/jobs/5477746008",
-      "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5477746008",
-      "summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole.…",
-      "description": "About Anthropic \n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n\n About the role \n Claude Design lets anyone collaborate with Claude to create polished visual work: interactive prototypes, product mockups, slides, and animations. We're making Claude the best visual storyteller there is, lowering the floor so anyone can bring an idea to life, and raising the ceiling on what the most skilled creators can make. We work on Artifacts in Claude, and so far we've shipped new kinds of artifacts like Claude Design, Slides, Whiteboard, and Motion, and we are exploring new bets.\n\n We're looking for Software Engineers to help build and shape Claude Design and the creative capabilities of Claude. We are exploring the frontier of how Claude collaborates with people visually, and how Claude can empower better human to human collaboration as well. You'll work at the intersection of cutting-edge research and real-world application, rapidly building and testing new experiences, partnering directly with researchers and users, and helping to generate the crucial insights that shape where the product goes next.\n\n You'll join a small, fast-moving team with high autonomy. If you're a strong design engineer who loves building visual products and likes to sweat the details, we'd love to hear from you.\n\n Key responsibilities \n \n\n• Build and ship user-facing features across our products, and help decide which creative spaces we explore next \n\n• Set technical direction for these products, including editor and canvas architecture, real-time collaboration, and rich import and export \n\n• Own the quality bar for how these products look and feel, treating latency, responsiveness, and reliability as first-class concerns and raising user experience and design considerations early \n\n• Partner with researchers to rapidly prototype experiences around vision and generation capabilities, and help improve the quality of what Claude generates \n\n• Spend time with users and dig into how people actually use what you ship, then turn what you learn into what we build next \n\n• Build the shared foundations that let us launch new creative tools quickly and make them work well together \n \n Minimum qualifications \n \n\n• Strong design sensibility and a high bar for craft, including attention to interaction details, motion, and polish \n\n• Ability to thrive in ambiguity and be energized by uncertainty \n\n• High agency, good judgment about what matters, and a bias toward shipping \n\n• A deeply user-centric approach: you validate ideas with actual users before over-investing and talk about problems before solutions \n\n• Strong opinions held loosely: you advocate forcefully for ideas but change your mind based on evidence \n\n• Care for Anthropic's mission and the societal impacts of your work \n \n Preferred qualifications \n \n\n• Extensive experience working with or building visual collaboration and creative tools \n\n• Experience with UI and UX for AI-powered applications, and fluency collaborating closely with designers \n\n• Background conducting user research, interviews, and usability testing \n\n• Experience building and shipping products from 0 to 1 \n\n• Experience building product platforms, primitives, or shared foundations that other products and teams build on top of \n\n• Performance optimization experience, such as profiling, improving rendering, and tracing end-to-end latency \n The annual compensation range for this role is listed below. \n\n For sales roles, the range provided is the role’s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.\n\n Annual Salary: $405,000 &mdash; $485,000 USD Logistics \n Minimum education: Bachelor’s degree or an equivalent combination of education, training, and/or experience\n\n Required field of study: A field relevant to the role as demonstrated through coursework, training, or professional experience\n\n Minimum years of experience: Years of experience required will correlate with the internal job level requirements for the position\n\n Location-based hybrid policy: Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.\n\n Visa sponsorship: We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.\n\n For roles performing work in California: We will consider for employment all qualified applicants, including those with arrest or conviction records or criminal histories, in a manner consistent with the requirements of applicable state and local laws, including the San Francisco Fair Chance Ordinance, the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act.\n\n We encourage you to apply even if you do not believe you meet every single qualification. Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.\n\n Your safety matters to us. To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings.\n\n How we're different \n We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.\n\n The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.\n\n Come work with us! \n Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. Guidance on Candidates' AI Usage: Learn about our policy for using AI in our application process.",
-      "responsibilities": [
-        "You'll join a small, fast-moving team with high autonomy. If you're a strong design engineer who loves building visual products and likes to sweat the details, we'd love to hear from you.",
-        "Key responsibilities",
-        "Build and ship user-facing features across our products, and help decide which creative spaces we explore next",
-        "Set technical direction for these products, including editor and canvas architecture, real-time collaboration, and rich import and export",
-        "Own the quality bar for how these products look and feel, treating latency, responsiveness, and reliability as first-class concerns and raising user experience and design considerations early",
-        "Partner with researchers to rapidly prototype experiences around vision and generation capabilities, and help improve the quality of what Claude generates"
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "Engineering & Design - Product",
-        "San Francisco, CA"
       ]
     },
     {
@@ -284,40 +318,6 @@
       ]
     },
     {
-      "id": "greenhouse-vercel-6199608004",
-      "tier": "curated",
-      "source": "greenhouse",
-      "source_label": "Greenhouse",
-      "source_type_label": "Direct company board",
-      "title": "Software Engineer, Agentic Infrastructure",
-      "company": "Vercel",
-      "category": "Motion Design",
-      "location": "Hybrid - San Francisco, New York City",
-      "work_model": "Remote",
-      "employment_type": "Not stated",
-      "salary": "Salary not stated",
-      "remote": true,
-      "published_at": "2026-11-11T10:33:36-05:00",
-      "posted_label": "Posted 2 days ago",
-      "listing_url": "https://job-boards.greenhouse.io/vercel/jobs/6199608004",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6199608004",
-      "summary": "About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience.…",
-      "description": "About Vercel: \n Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. \n\n Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. \n\n About the role \n The next generation of software won’t just be used by people — it’ll be built and shipped by agents. Builds are where that happens, and they’re the beating heart of Vercel. Whether an idea starts in v0, in an agent, or in an engineer’s editor, every customer builds — and millions of builds flow through our systems every day.\n\n As an engineer on the Agentic Infrastructure team, you’ll take ownership of the systems that carry that work at scale. You won’t just contribute features — you’ll be responsible for the design, reliability, and evolution of the platform itself. You’ll make decisions that shape performance, define best practices, and ensure the workflows that Vercel, our customers, and their agents depend on are fast, resilient, and secure.\n\n This role blends product thinking with deep systems ownership. You’ll partner with teams across Vercel to build and operate the agentic infrastructure that determines how software actually ships.\n\n We’re looking for engineers who want to own high-scale systems end-to-end, thrive on improving the developer/agent experience, and are driven to have a lasting impact on how modern software gets built and delivered.\n\n What you’ll do \n \n\n• Own and evolve the infrastructure that powers Vercel’s build and deployment lifecycle — from handling webhooks to designing resilient database schemas and building scalable APIs. \n\n• Design and operate high-performance microservices that process millions of builds daily, ensuring speed, reliability, and developer delight. \n\n• Lead projects end-to-end: from identifying opportunities to defining technical direction and delivering improvements in performance, reliability, and developer experience. \n\n• Collaborate across teams to align infrastructure with company-wide goals and ensure seamless developer workflows. \n\n• Shape the long-term vision of agentic infrastructure at Vercel by setting standards for scalability, reliability, and developer productivity. \n\n• Participate in the on-call rotation, taking responsibility for the reliability of critical systems. \n\n• Contribute to the open-source community, representing Vercel’s commitment to advancing developer tools globally. \n\n• Write clean, efficient, tested, and well-documented code that others can build upon confidently. \n \n What you need \n \n\n• 3+ years of experience designing, building, and operating backend applications and distributed systems at scale. \n\n• Strong proficiency in JavaScript/TypeScript, with the ability to navigate and improve complex systems. \n\n• Strong proficiency with cloud infrastructure (AWS) and infrastructure as code (Terraform) \n\n• A track record of end-to-end ownership — from design and implementation through to long-term operation in production. \n\n• Skilled at cross-team collaboration, able to influence priorities and drive alignment toward shared goals. \n\n• Able to reason about technical direction and architectural tradeoffs, balancing long-term vision with pragmatic delivery. \n\n• Invested in the people around you — through mentorship, code review, or simply raising the bar on how the team builds. \n\n• Curious, eager to learn, and motivated to push the boundaries of how modern software gets built and shipped. \n \n Bonus if you \n \n\n• Are familiar with React or Next.js \n\n• Have experience with DynamoDB \n\n• Have worked to develop a CI/CD platform or internal developer platform used by other engineers or by agents. \n\n• Have experience contributing to or participating in open-source projects. \n\n• Have experience optimizing build systems for monorepos or polyrepo setups. \n\n• Have experience with build caching, artifact storage, or dependency management at scale. \n \n Benefits &amp; Compensation: \n \n\n• Competitive compensation package, including equity. \n\n• Inclusive Healthcare Package. \n\n• Learn and Grow - we provide mentorship and send you to events that help you build your network and skills. \n\n• Flexible Time Off. \n\n• We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed. \n \n The base pay range for this role is $196,000.00 - $294,000.00. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process. \n\n #LI-KR1\n\n Disclosures: \n \n\n• Privacy: Please review our Job Applicant Privacy Policy for more information on how we handle your data. \n\n• Equal Opportunity: Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description.",
-      "responsibilities": [
-        "Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide.",
-        "This role blends product thinking with deep systems ownership. You’ll partner with teams across Vercel to build and operate the agentic infrastructure that determines how software actually ships.",
-        "We’re looking for engineers who want to own high-scale systems end-to-end, thrive on improving the developer/agent experience, and are driven to have a lasting impact on how modern software gets built and delivered.",
-        "Own and evolve the infrastructure that powers Vercel’s build and deployment lifecycle — from handling webhooks to designing resilient database schemas and building scalable APIs.",
-        "Design and operate high-performance microservices that process millions of builds daily, ensuring speed, reliability, and developer delight.",
-        "Lead projects end-to-end: from identifying opportunities to defining technical direction and delivering improvements in performance, reliability, and developer experience."
-      ],
-      "source_note": "This role is pulled from the company’s public Greenhouse board and links back to the original listing.",
-      "tags": [
-        "Engineering",
-        "Remote - United States"
-      ]
-    },
-    {
       "id": "greenhouse-stripe-8205126",
       "tier": "curated",
       "source": "greenhouse",
@@ -438,7 +438,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-11-09T18:54:35-05:00",
-      "posted_label": "Posted 3 days ago",
+      "posted_label": "Posted 4 days ago",
       "listing_url": "https://boards.greenhouse.io/figma/jobs/6231582004?gh_jid=6231582004",
       "apply_url": "https://boards.greenhouse.io/figma/jobs/6231582004?gh_jid=6231582004",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code…",
@@ -540,7 +540,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-11-05T21:23:55-05:00",
-      "posted_label": "Posted 7 days ago",
+      "posted_label": "Posted 8 days ago",
       "listing_url": "https://stripe.com/jobs/search?gh_jid=8332681",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=8332681",
       "summary": "About Stripe Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make…",
@@ -576,7 +576,7 @@
       "salary": "Salary not stated",
       "remote": false,
       "published_at": "2026-11-05T19:04:45-05:00",
-      "posted_label": "Posted 7 days ago",
+      "posted_label": "Posted 8 days ago",
       "listing_url": "https://stripe.com/jobs/search?gh_jid=8332683",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=8332683",
       "summary": "About Stripe Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make…",
@@ -678,7 +678,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-11-04T21:58:53-05:00",
-      "posted_label": "Posted 8 days ago",
+      "posted_label": "Posted 9 days ago",
       "listing_url": "https://stripe.com/jobs/search?gh_jid=8283782",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=8283782",
       "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accel…",
@@ -712,7 +712,7 @@
       "salary": "Salary not stated",
       "remote": true,
       "published_at": "2026-11-04T18:18:19-05:00",
-      "posted_label": "Posted 8 days ago",
+      "posted_label": "Posted 9 days ago",
       "listing_url": "https://job-boards.greenhouse.io/vercel/jobs/6115908004",
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6115908004",
       "summary": "About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience.…",
